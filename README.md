@@ -214,7 +214,7 @@
 
 **ABET – EAC – Student Outcome 5**
 
-Criterio: *La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.*
+Criterio: *Capacidad de comunicarse efectivamente con un rango de audiencias.*
 
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC – Student Outcome 5.
 
@@ -228,14 +228,14 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
   </thead>
   <tbody>
     <tr>
-      <td>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
-      <td> - <strong>Fabio Horna Silva:</strong> Participación en el proceso de planificación del sprint 1. Elaboración del backlog del proyecto. Corrección de historias de usuario según las convenciones establecidas. Realización de una entrevista con el cliente para comprender sus necesidades.</td>
-      <td><strong>Fabio Horna Silva:</strong> La participación activa en equipos multidisciplinarios durante el proceso de desarrollo del proyecto me brindó la oportunidad de colaborar de manera efectiva y eficiente, fortaleciendo mis habilidades para trabajar en entornos interdisciplinarios. Además, la elaboración del backlog y la corrección de historias de usuario me permitieron profundizar en el conocimiento del dominio de aplicación del proyecto y comprender las necesidades específicas del cliente. Esta experiencia fue fundamental para mi desarrollo profesional en el campo de la ingeniería de software.</td>
+      <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
-      <td>- <strong>Fabio Horna Silva:</strong> Realización de una entrevista detallada con el cliente para comprender sus necesidades y requisitos específicos. - <strong>Fabio Horna Silva:</strong> Participación en la planificación del sprint 1. Elaboración del backlog y corrección de historias de usuario según las convenciones establecidas. Desarrollo de evidencia de desarrollo, pruebas y ejecución para la revisión del sprint.</td>
-      <td><strong>Fabio Horna Silva:</strong> La entrevista realizada con el cliente me proporcionó un conocimiento profundo del dominio de aplicación del proyecto, permitiéndome comprender las necesidades y requisitos específicos del sector empresarial al que está dirigido. Además, mi participación en la planificación del sprint 1 y la elaboración del backlog me brindaron una visión más amplia del dominio de aplicación y las soluciones de software requeridas. La corrección de historias de usuario y el desarrollo de evidencia para la revisión del sprint también contribuyeron significativamente a mi comprensión del sector empresarial y al desarrollo de soluciones de software efectivas.</td>
+      <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
