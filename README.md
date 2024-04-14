@@ -1143,6 +1143,22 @@ Una de estas interfaces por ejemplo, es la barra de navegación que acompaña al
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/navigation-system.png?raw=true)
 
 A su vez gracias al uso de etiquetas mencionadas anteriormente, se le da a al usuario una rapida interacción con la página, permitiendole explorar de manera sencilla.
+## 4.3. Landing Page UI Design. 
+### 4.3.1. Landing Page Wireframe. 
+https://www.figma.com/file/eL2EUMqYpxKCTwz1nYCvPz/EcoMove-Wireframes?type=design&node-id=0-1&mode=design&t=2YNMZXKThipRNddF-0
+### 4.3.2. Landing Page Mock-up.
+https://www.figma.com/file/Q6ejeaBvXWVHvAYNA2smOs/EcoMove-Mockups?type=design&node-id=0-1&mode=design&t=jTfZbLa3nZNfYbzp-0
+## 4.4. Web Applications UX/UI Design. 
+### 4.4.1. Web Applications Wireframes.
+https://www.figma.com/file/eL2EUMqYpxKCTwz1nYCvPz/EcoMove-Wireframes?type=design&node-id=0-1&mode=design&t=2YNMZXKThipRNddF-0
+### 4.4.2. Web Applications Wireflow Diagrams. 
+https://lucid.app/lucidchart/c6339a13-9402-4f27-9883-01ea0dab3146/edit?viewport_loc=-2294%2C-1232%2C3887%2C2067%2C0_0&invitationId=inv_7c7d72e9-6824-4dab-9a7f-f57f7a4fd49b
+### 4.4.2. Web Applications Mock-ups. 
+https://www.figma.com/file/Q6ejeaBvXWVHvAYNA2smOs/EcoMove-Mockups?type=design&node-id=101-2&mode=design&t=jTfZbLa3nZNfYbzp-0
+### 4.4.3. Web Applications User Flow Diagrams. 
+https://overflow.io/s/ZZMCEAJ8
+## 4.5. Web Applications Prototyping.
+https://www.figma.com/proto/Q6ejeaBvXWVHvAYNA2smOs?page-id=101%3A2&type=design&node-id=101-2&t=jTfZbLa3nZNfYbzp-0&scaling=min-zoom&starting-point-node-id=101%3A1091&show-proto-sidebar=1
 
 ## 4.6. Domain-Driven Software Architecture.
 
