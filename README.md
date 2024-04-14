@@ -696,6 +696,8 @@ En esta sección, se describirán los escenarios “As-is” correspondientes a 
 
 ## 3.1 To-Be Scneario Mapping
 
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/to-be-scenario.PNG?raw=true)
+
 ## 3.2 User stories
 
 | EPIC ID | Descripción de la épica                    |
@@ -1330,6 +1332,10 @@ El contexto de Customer Support (soporte al cliente) se enfoca en proporcionar a
 | EPIC-06  | US21          | Información sobre el equipo           | Como usuario, deseo poder ver la información sobre el equipo de desarrollo del producto desde la landing page, para poder conocer más sobre la organización. | DADO que el usuario se encuentre en la landing page del producto<br>Cuando el usuario haga clic en la sección de "about us"<br>ENTONCES se le mostrará al usuario la información de la startup. |
 | **Nombre de la Epic** | **Búsqueda y Reserva de Transporte** |----------------|-----------------------------|---------------------|
 | EPIC-02  | US03          | Buscar Transporte Cercano             | Como usuario, quiero poder buscar vehículos disponibles cerca de mi ubicación actual para facilitar mi desplazamiento. | DADO que se encuentre en la sección de búsqueda de vehículos<br>Cuando el usuario haga clic en la opción de buscar vehículos cercanos<br>Y verifique su ubicación en el menú<br>ENTONCES se mostrará en una lista al usuario los vehículos cercanos. |
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/sprint-backlog.png?raw=true)
+
+Enlace: https://trello.com/invite/b/mbzjoFQL/ATTIbf16007f71639fc082291cd7f6a444216CEDCD75/sprint-1-ecomove-application
 
 # Anexos:
 
