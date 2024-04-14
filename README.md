@@ -447,3 +447,35 @@ Para garantizar la seguridad de EcoMove, se implementará una sólida estrategia
 - **Pruebas de Seguridad Automatizadas:** La implementación de pruebas de seguridad automatizadas en el proceso de desarrollo de EcoMove garantizará que la aplicación esté protegida contra vulnerabilidades conocidas y desconocidas. Esto fortalecerá la seguridad de los datos y la privacidad de los usuarios.
 
 - **Monitoreo Continuo:** EcoMove utilizará herramientas de monitoreo continuo para identificar cualquier actividad sospechosa en tiempo real. Esto permitirá una detección temprana de amenazas y una respuesta inmediata para proteger la aplicación y la información de los usuarios.
+
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
+
+**Información general del entrevistado**
+
+1.	¿Cómo te llamas?
+2.	¿Cuántos años tienes?
+3.	¿Cuál es su ocupación?
+4.	Actualmente, ¿en qué lugar reside?
+
+**Segmento 1: Estudiantes universitarios urbanos**
+
+1.	¿Cuál es la distancia promedio entre tu hogar y la universidad?
+2.	¿Qué medio de transporte sueles utilizar para desplazarte desde tu hogar hasta la universidad?
+3.	¿Has tenido dificultades para encontrar medios de transporte eficaces y seguros para distancias cortas?
+4.	¿Consideras importante la disponibilidad de medios de transporte que te permitan desplazarte de manera rápida y segura a la universidad?
+5.	¿Qué te parecería tener acceso a una aplicación que te ofrezca opciones de transporte específicamente diseñadas para distancias cortas?
+6.	¿Qué factores influyen más en tu elección de medio de transporte para desplazarte a la universidad (precio, comodidad, rapidez, etc.)?
+7.	¿Estarías dispuesto/a a probar nuevas formas de transporte si fueran más eficientes y amigables con el medio ambiente, especialmente para distancias cortas?
+8.	¿Cómo crees que podríamos mejorar tu experiencia de transporte para desplazarte desde tu hogar hasta la universidad?
+
+**Segmento 2: Ciudadanos en busca de movilidad rápida y evitando el tráfico**
+1.	¿Cuál es tu principal motivo para buscar medios de transporte que te permitan evitar el tráfico en la ciudad?
+2.	¿Qué tan importante es para ti la rapidez al elegir un medio de transporte en tu día a día?
+3.	¿Has considerado utilizar medios de transporte alternativos para evitar el tráfico?
+4.	¿Qué inconvenientes has experimentado al tratar de encontrar medios de transporte rápidos y eficaces en la ciudad?
+5.	¿Estarías interesado/a en probar nuevas opciones de transporte que te ofrezcan una alternativa al tráfico vehicular?
+6.	¿Qué opinas sobre la idea de utilizar medios de transporte más limpios y amigables con el medio ambiente?
+7.	¿Qué características consideras esenciales en una aplicación de transporte para que la utilices regularmente?
+8.	¿Qué mejoras crees que podríamos implementar en los medios de transporte actuales para hacerlos más eficientes y rápidos?
