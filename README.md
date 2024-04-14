@@ -5,23 +5,29 @@
 **Ciclo 2024-01**
 
 # COURSE PROJECT
+
 ### Profesor: Elio Jefferrson Navarrete Vilca
+
 ### Curso: Desarrollo de Aplicaciones Open Source
+
 # FINAL REPORT
+
 ## Startup: EcoGo
+
 ## Propuesta: EcoMove
+
 **Team Members**
+
 - Ames Oviedo, Mariano José
 - Coraje Bayona, Jair Andreé
 - Horna Silva, Fabio Ernesto
 - Lecca Choccare, Christopher Bryan
 - Sosa Colca, Angello Rodolfo
 - Tongo Alejando, Milagros Salet
-  
 
 **Marzo 2024**
 
-------
+---
 
 ## Registro de Versiones del Informe
 
@@ -128,95 +134,95 @@
   </tbody>
 </table>
 
-
 ## Project Report Collaboration Insights
 
 ## Contenido
+
 **Tabla de contenidos**
 
-|Tabla de contenidos|
-|------------------------|
-|[Capítulo I: Introducción](#capítulo-i-introducción)|
-|[1.1. Startup Profile](#11-startup-profile)|
-|[1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)|
-|[1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)|
-|[1.2. Solution Profile](#12-solution-profile)|
-|[1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)|
-|[1.2.2. Lean UX Process](#122-lean-ux-process)|
-|[1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)|
-|[1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)|
-|[1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)|
-|[1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)|
-|[1.3. Segmentos objetivo](#13-segmentos-objetivo)|
-|[Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)|
-|[2.1. Competidores](#21-competidores)|
-|[2.1.1. Análisis competitivo](#211-análisis-competitivo)|
-|[2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)|
-|[2.2. Entrevistas](#22-entrevistas)|
-|[2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)|
-|[2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)|
-|[2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)|
-|[2.3. Needfinding](#23-needfinding)|
-|[2.3.1. User Personas](#231-user-personas)|
-|[2.3.2. User Task Matrix](#232-user-task-matrix)|
-|[2.3.3. User Journey Mapping](#233-user-journey-mapping)|
-|[2.3.4. Empathy Mapping](#234-empathy-mapping)|
-|[2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)|
-|[2.4. Ubiquitous Language](#24-ubiquitous-language)|
-|[Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)|
-|[3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)|
-|[3.2. User Stories](#32-user-stories)|
-|[3.3. Impact Mapping](#33-impact-mapping)|
-|[3.4. Product Backlog](#34-product-backlog)|
-|[Capítulo IV: Product Design](#capítulo-iv-product-design)|
-|[4.1. Style Guidelines](#41-style-guidelines)|
-|[4.1.1. General Style Guidelines](#411-general-style-guidelines)|
-|[4.1.2. Web Style Guidelines](#412-web-style-guidelines)|
-|[4.2. Information Architecture](#42-information-architecture)|
-|[4.2.1. Organization Systems](#421-organization-systems)|
-|[4.2.2. Labeling Systems](#422-labeling-systems)|
-|[4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)|
-|[4.2.4. Searching Systems](#424-searching-systems)|
-|[4.2.5. Navigation Systems](#425-navigation-systems)|
-|[4.3. Landing Page UI Design](#43-landing-page-ui-design)|
-|[4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)|
-|[4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)|
-|[4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)|
-|[4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)|
-|[4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)|
-|[4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)|
-|[4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)|
-|[4.5. Web Applications Prototyping](#45-web-applications-prototyping)|
-|[4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)|
-|[4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)|
-|[4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)|
-|[4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)|
-|[4.7. Software Object-Oriented Design](#47-software-object-oriented-design)|
-|[4.7.1. Class Diagrams](#471-class-diagrams)|
-|[4.7.2. Class Dictionary](#472-class-dictionary)|
-|[4.8. Database Design](#48-database-design)|
-|[4.8.1. Database Diagram](#481-database-diagram)|
-|[5.1. Software Configuration Management](#51-software-configuration)|
-|[5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)| 
-|[5.1.2. Source Code Management](#512-source-code-management)|
-|[5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)|
-|[5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)|
-|[5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)|
-|[5.2.1. Sprint 1](#521-sprint-1)|
-|[5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)|
-|[5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)|
-|[5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)|
-|[5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)|
-|[5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)|
-|[Bibliografía](#bibliografía)|
+| Tabla de contenidos                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------- |
+| [Capítulo I: Introducción](#capítulo-i-introducción)                                                                |
+| [1.1. Startup Profile](#11-startup-profile)                                                                         |
+| [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)                                                  |
+| [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)                                |
+| [1.2. Solution Profile](#12-solution-profile)                                                                       |
+| [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)                                               |
+| [1.2.2. Lean UX Process](#122-lean-ux-process)                                                                      |
+| [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)                                             |
+| [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)                                                           |
+| [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)                                       |
+| [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)                                                                     |
+| [1.3. Segmentos objetivo](#13-segmentos-objetivo)                                                                   |
+| [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)                 |
+| [2.1. Competidores](#21-competidores)                                                                               |
+| [2.1.1. Análisis competitivo](#211-análisis-competitivo)                                                            |
+| [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)            |
+| [2.2. Entrevistas](#22-entrevistas)                                                                                 |
+| [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)                                                          |
+| [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)                                                      |
+| [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)                                                      |
+| [2.3. Needfinding](#23-needfinding)                                                                                 |
+| [2.3.1. User Personas](#231-user-personas)                                                                          |
+| [2.3.2. User Task Matrix](#232-user-task-matrix)                                                                    |
+| [2.3.3. User Journey Mapping](#233-user-journey-mapping)                                                            |
+| [2.3.4. Empathy Mapping](#234-empathy-mapping)                                                                      |
+| [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)                                                        |
+| [2.4. Ubiquitous Language](#24-ubiquitous-language)                                                                 |
+| [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)                                |
+| [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)                                                           |
+| [3.2. User Stories](#32-user-stories)                                                                               |
+| [3.3. Impact Mapping](#33-impact-mapping)                                                                           |
+| [3.4. Product Backlog](#34-product-backlog)                                                                         |
+| [Capítulo IV: Product Design](#capítulo-iv-product-design)                                                          |
+| [4.1. Style Guidelines](#41-style-guidelines)                                                                       |
+| [4.1.1. General Style Guidelines](#411-general-style-guidelines)                                                    |
+| [4.1.2. Web Style Guidelines](#412-web-style-guidelines)                                                            |
+| [4.2. Information Architecture](#42-information-architecture)                                                       |
+| [4.2.1. Organization Systems](#421-organization-systems)                                                            |
+| [4.2.2. Labeling Systems](#422-labeling-systems)                                                                    |
+| [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)                                                        |
+| [4.2.4. Searching Systems](#424-searching-systems)                                                                  |
+| [4.2.5. Navigation Systems](#425-navigation-systems)                                                                |
+| [4.3. Landing Page UI Design](#43-landing-page-ui-design)                                                           |
+| [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)                                                        |
+| [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)                                                            |
+| [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)                                              |
+| [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)                                              |
+| [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)                                |
+| [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)                                                  |
+| [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)                              |
+| [4.5. Web Applications Prototyping](#45-web-applications-prototyping)                                               |
+| [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)                                 |
+| [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)                          |
+| [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)                    |
+| [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)                  |
+| [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)                                         |
+| [4.7.1. Class Diagrams](#471-class-diagrams)                                                                        |
+| [4.7.2. Class Dictionary](#472-class-dictionary)                                                                    |
+| [4.8. Database Design](#48-database-design)                                                                         |
+| [4.8.1. Database Diagram](#481-database-diagram)                                                                    |
+| [5.1. Software Configuration Management](#51-software-configuration)                                                |
+| [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)        |
+| [5.1.2. Source Code Management](#512-source-code-management)                                                        |
+| [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)                           |
+| [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)                                  |
+| [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation) |
+| [5.2.1. Sprint 1](#521-sprint-1)                                                                                    |
+| [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)                                                               |
+| [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)                                                                 |
+| [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)                     |
+| [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)                 |
+| [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)                         |
+| [Bibliografía](#bibliografía)                                                                                       |
 
 # Student Outcome
 
-**ABET – EAC – Student Outcome 5**
+**ABET – EAC – Student Outcome 3**
 
-Criterio: *Capacidad de comunicarse efectivamente con un rango de audiencias.*
+Criterio: _Capacidad de comunicarse efectivamente con un rango de audiencias._
 
-En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC – Student Outcome 5.
+En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC – Student Outcome 3.
 
 <table>
   <thead>
@@ -239,21 +245,43 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
     </tr>
   </tbody>
 </table>
+
 # Capítulo I: Introducción
+
 ## 1.1. Startup Profile
+
 ### 1.1.1 Descripción de la Startup
+
 EcoGo es una startup que surge como respuesta a la creciente preocupación por la movilidad urbana sostenible y la reducción de las emisiones de carbono en entornos urbanos. A través de su propuesta de solución EcoMove, se dedica a facilitar el uso compartido de vehículos eléctricos entre usuarios, con el objetivo de disminuir la dependencia de los vehículos de combustión interna y fomentar un estilo de vida más respetuoso con el medio ambiente.
 
 EcoGo no solo ofrece una plataforma para alquilar vehículos eléctricos de manera conveniente, sino que también colabora con empresas locales y marcas comprometidas con la sostenibilidad. A través de alianzas estratégicas, proporciona recursos adicionales para expandir su flota de vehículos y mejorar la infraestructura de carga, promoviendo así el uso de energía limpia en el transporte.
 
 EcoMove aprovecha la tecnología para conectar a los usuarios con vehículos eléctricos compartidos, ofreciendo tarifas diferenciadas, membresías con beneficios exclusivos y programas de fidelización para incentivar el uso recurrente de la plataforma y promover un estilo de vida urbano más sostenible.
 
-|Misión|Visión|
-|------|------|
-|Promover una movilidad urbana sostenible mediante el uso compartido de vehículos eléctricos, contribuyendo a la reducción de emisiones de carbono y creando ciudades más limpias y habitables.|Liderar la revolución hacia una movilidad urbana más limpia y accesible, siendo la opción preferida de transporte eléctrico compartido a nivel global.|
+| Misión| Visión |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Promover una movilidad urbana sostenible mediante el uso compartido de vehículos eléctricos, contribuyendo a la reducción de emisiones de carbono y creando ciudades más limpias y habitables. | Liderar la revolución hacia una movilidad urbana más limpia y accesible, siendo la opción preferida de transporte eléctrico compartido a nivel global. |
+
+### 1.1.2 Perfiles de integrantes del equipo
+
+|<!-- -->|<!-- -->|
+|--------|--------|
+|Nombre|Ames Oviedo, Mariano José (U202211371)|
+|Soy Mariano, tengo 18 años actualmente curso mi 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable y dispuesta a afrontar desafíos. Considero que estas cualidades beneficiaran a mi equipo para poder completar un trabajo de calidad.| ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/members/mariano-ames.jpeg?raw=true) |
+|Nombre|Coraje Bayona, Jair Andreé (U202118775)|
+|Soy Jair, tengo 19 años actualmente estoy cursando la carrera de Ingeniería de Software. Considero que puedo adaptarme a las situaciones que se me proponga en el equipo, logrando aportar en este de buena manera, para asegurar un trabajo bien hecho. Adémas siento que mis habilidades para aprender me van a poder ayudar a completar el curso de manera eficiente y apoyar a mi equipo en lo que se pueda..| ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/members/jair-coraje.png?raw=true) |
+|Nombre|Horna Silva, Fabio Ernesto (U202020229)|
+|Soy Fabio, tengo 20 años actualmente curso mi 6to ciclo de la carrera de ingenieria de software, Me tiendo a considerar una persona seria con aptitudes para trabajar en equipo, siempre me ha gustado la informatica, la matematica, y la programacion.| ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/members/fabio-horna.png?raw=true) |
+|Nombre|Lecca Choccare, Christopher Bryan (U202211399)|
+|Soy Christopher, tengo 19 años y actualmente curso mi 5to ciclo de la carrera de Ingeniería de Software. Considero que mi determinación y disposición aportarán de manera significativa a presentar junto a mi equipo, trabajos de calidad. Además, mi capacidad rápida de aprendizaje ayudará a emplear las nuevas tecnologías enseñadas en el curso de forma eficiente.| ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/members/christopher-lecca.jpg?raw=true) |
+|Nombre|Sosa Colca, Angello Rodolfo (U202212027)|
+|Tengo 18 años y curso el 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, soy una persona enfocada, perseverante y colaborativo. Estas cualidades me permiten ser una persona que ayudará de manera óptima el requisito que se me imponga. Además, soy una persona que apoya cuando los demás se encuentran en problemas.| ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/members/angello-sosa.png?raw=true) |
+|Nombre|Tongo Alejandro, Milagros Salet (U202116078)|
+|Tengo 19 años y curso el 5to ciclo de la carrera de Ingeniería de Software. Me parece muy interesante crear soluciones en el computador y me gusta aprender cosas nuevas, como por ejemplo nuevos lenguajes de programación. Me considero una persona habilidosa y responsable.| ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/members/milagros-tongo.png?raw=true) |
 
 ## 1.2. Solution Profile
-### 1.2.1	Antecedentes y problemática
+
+### 1.2.1 Antecedentes y problemática
 
 La problemática del envejecimiento de la flota vehicular en el transporte público y los servicios de taxi en el Perú es un tema de preocupación creciente debido a sus impactos negativos en la salud pública y el medio ambiente. Según datos proporcionados por un organismo adscrito al Ministerio de Transportes y Comunicaciones (MTC), aproximadamente el 30,6% de los vehículos que operan en el transporte público regular y alrededor del 9% de los vehículos de servicio de taxis tienen una antigüedad de más de 15 años (Espinoza, 2023). Esta situación se traduce en un riesgo significativo para la salud y la seguridad de los usuarios, ya que se estima que los vehículos con más de dos décadas de uso emiten hasta 53 veces más contaminantes que los vehículos más nuevos, los cuales tienen 5 años o menos.
 
@@ -263,22 +291,24 @@ Ante esta problemática, surge la necesidad de explorar alternativas de transpor
 
 **Problemática:**
 
-|<!-- -->|<!-- -->|
-|--------|--------|
-|What (Qué):<br>¿Cuál es el problema?|El problema central que enfrenta la sociedad es la dependencia generalizada de los vehículos de combustión interna en entornos urbanos, lo que resulta en altos niveles de contaminación del aire y emisiones de carbono. Esta situación no solo afecta la calidad del aire y la salud pública, sino que también contribuye al cambio climático y a la degradación ambiental.|
-|When (Cuándo):<br>¿Cuándo sucede el problema?|El problema de la dependencia de los vehículos de combustión interna en entornos urbanos es persistente y ocurre constantemente. Se manifiesta a diario en la congestión del tráfico, la contaminación del aire y la emisión continua de gases de efecto invernadero.|
-|Where (Dónde):<br>¿Dónde se presenta el problema de negocio?|Este problema se presenta principalmente en áreas urbanas densamente pobladas donde hay una alta concentración de vehículos motorizados. Ciudades de todo el mundo enfrentan desafíos similares relacionados con la movilidad urbana y la contaminación del aire.|
-|Who (Quienes):<br>¿Quiénes están involucrados?|Los principales actores involucrados en esta problemática son los residentes urbanos que dependen de los vehículos para sus desplazamientos diarios, así como las autoridades gubernamentales y las empresas de transporte que tienen un papel clave en la formulación de políticas y la implementación de soluciones de movilidad sostenible.|
-|Why (Por qué):<br>¿Por qué se origina el problema?|Este problema surge de varios factores, que incluyen la falta de infraestructura adecuada para el transporte público, la promoción histórica del uso del automóvil privado, la falta de conciencia sobre los impactos ambientales del transporte y la falta de alternativas accesibles y asequibles de movilidad sostenible.|
-|How (Cómo):<br>¿Cómo afecta este problema a las personas involucradas?|La dependencia de los vehículos de combustión interna afecta a las personas involucradas al contribuir a la contaminación del aire, empeorar la congestión del tráfico, aumentar los costos de transporte y tener impactos negativos en la salud pública y la calidad de vida en general.|
-|How much (Cuánto):<br>¿Cuánto impacto genera el problema en la sociedad?|El problema de la dependencia de los vehículos de combustión interna tiene un impacto significativo en la sociedad, afectando la salud pública, contribuyendo al cambio climático y la degradación ambiental, aumentando los costos económicos asociados con la congestión del tráfico y generando una baja calidad de vida en las áreas urbanas.|
+| <!-- -->                                                                 | <!-- -->                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What (Qué):<br>¿Cuál es el problema?                                     | El problema central que enfrenta la sociedad es la dependencia generalizada de los vehículos de combustión interna en entornos urbanos, lo que resulta en altos niveles de contaminación del aire y emisiones de carbono. Esta situación no solo afecta la calidad del aire y la salud pública, sino que también contribuye al cambio climático y a la degradación ambiental. |
+| When (Cuándo):<br>¿Cuándo sucede el problema?                            | El problema de la dependencia de los vehículos de combustión interna en entornos urbanos es persistente y ocurre constantemente. Se manifiesta a diario en la congestión del tráfico, la contaminación del aire y la emisión continua de gases de efecto invernadero.                                                                                                         |
+| Where (Dónde):<br>¿Dónde se presenta el problema de negocio?             | Este problema se presenta principalmente en áreas urbanas densamente pobladas donde hay una alta concentración de vehículos motorizados. Ciudades de todo el mundo enfrentan desafíos similares relacionados con la movilidad urbana y la contaminación del aire.                                                                                                             |
+| Who (Quienes):<br>¿Quiénes están involucrados?                           | Los principales actores involucrados en esta problemática son los residentes urbanos que dependen de los vehículos para sus desplazamientos diarios, así como las autoridades gubernamentales y las empresas de transporte que tienen un papel clave en la formulación de políticas y la implementación de soluciones de movilidad sostenible.                                |
+| Why (Por qué):<br>¿Por qué se origina el problema?                       | Este problema surge de varios factores, que incluyen la falta de infraestructura adecuada para el transporte público, la promoción histórica del uso del automóvil privado, la falta de conciencia sobre los impactos ambientales del transporte y la falta de alternativas accesibles y asequibles de movilidad sostenible.                                                  |
+| How (Cómo):<br>¿Cómo afecta este problema a las personas involucradas?   | La dependencia de los vehículos de combustión interna afecta a las personas involucradas al contribuir a la contaminación del aire, empeorar la congestión del tráfico, aumentar los costos de transporte y tener impactos negativos en la salud pública y la calidad de vida en general.                                                                                     |
+| How much (Cuánto):<br>¿Cuánto impacto genera el problema en la sociedad? | El problema de la dependencia de los vehículos de combustión interna tiene un impacto significativo en la sociedad, afectando la salud pública, contribuyendo al cambio climático y la degradación ambiental, aumentando los costos económicos asociados con la congestión del tráfico y generando una baja calidad de vida en las áreas urbanas.                             |
 
 ### 1.2.2 Lean UX Process
+
 #### 1.2.2.1 Lean UX Problem Statement
+
 Nuestro contexto demanda abordar la dificultad que enfrentan las personas que no pueden conseguir un medio de transporte eficaz y seguro,
 Si bien se presentan opciones, estas no siempre demuestran ser eficaces debido a la congestión vehicular de la ciudad.
 
-Tambien se puede observar una falta de opciones que sean limpias para el medio ambiente. Aunque el estado muestra preocupación  implementando medidas que apoyen a este contexto, aun no se logra una solución eficaz, segura y limpia para todos.
+Tambien se puede observar una falta de opciones que sean limpias para el medio ambiente. Aunque el estado muestra preocupación implementando medidas que apoyen a este contexto, aun no se logra una solución eficaz, segura y limpia para todos.
 
 Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer medios de transporte efectivos para las personas y limpios para el bien ambiente, teniendo en cuenta tambien la seguridad y comodidad del usuario?
 
@@ -300,7 +330,7 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer
 
 - **Mejora al transportarse:** Se le da a los usuarios una mejora en su transporte tradicional, al usar las alternativas que ofrece nuestro producto pueden lograr moverse de manera mas rapida y comoda.
 
-- **Variedad de opciones:** Los usuarios tendran acceso a diferentes tipos de vehiculos o tarifas, dependiendo de lo que requieran en el momento. Todo el proceso sera por medio de la aplicación, facilitando y mejorando su experiencia. 
+- **Variedad de opciones:** Los usuarios tendran acceso a diferentes tipos de vehiculos o tarifas, dependiendo de lo que requieran en el momento. Todo el proceso sera por medio de la aplicación, facilitando y mejorando su experiencia.
 
 - **Satisfacción emocional:** Los usuarios podran ver datos sobre el impacto ambiental de los medios de transporte, dandole satisfacción al usuario al poder ver los resultados de las acciones que realiza en el ambiente.
 
@@ -314,8 +344,25 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer
 
 - **Creemos que** al brindar alternativas a los automoviles tradicionales, lograremos disminuir el tiempo perdido por trafico de carros en la ciudad. **Sabremos que** hemos tenido exito **cuando** se evidencie que los usuarios comenten sobre sus resultados en la pagina.
 
+#### 1.2.2.4. Lean UX Canvas
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/lean-ux-canvas.png?raw=true)
+
+## 1.3 Segmentos objetivo
+
+**Estudiantes universitarios urbanos:**
+- **Descripción**: Estudiantes que viven en áreas urbanas y asisten a universidades o institutos locales.
+- **Necesidades y deseos**: Necesitan un medio de transporte económico y conveniente para desplazarse entre su hogar, el campus universitario, bibliotecas y otros lugares de interés cercanos. Desean una forma rápida y sencilla de moverse sin depender del transporte público o el automóvil.
+- **Comportamiento de uso**: Utilizan la aplicación para alquilar bicicletas o scooters eléctricos principalmente durante los días de clase y para actividades recreativas los fines de semana. Prefieren rutas seguras y accesibles que les permitan evitar el tráfico y llegar a sus destinos rápidamente.
+**Ciudadanos en busca de movilidad rápida y que evite el tráfico:**
+- **Descripción**: Personas que viven o trabajan en áreas urbanas y buscan una forma rápida de desplazarse evitando el tráfico.
+- **Necesidades y deseos**: Desean una opción de transporte ágil que les permita llegar a sus destinos de manera rápida y sin los retrasos causados por el tráfico. Valorizan la conveniencia y la eficiencia en sus desplazamientos diarios.
+- **Comportamiento de uso**: Utilizan la aplicación para alquilar bicicletas o scooters eléctricos como una alternativa al automóvil o al transporte público, especialmente durante las horas pico de tráfico. Prefieren rutas menos congestionadas y opciones que les permitan moverse de manera rápida y fluida por la ciudad.
+
+# Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
+
 ### 2.1.1. Análisis competitivo
 
 <table>
@@ -418,9 +465,10 @@ Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
 # Estrategias y Tácticas para EcoMove
 
-Para que EcoMove se posicione como líder en el mercado de alquiler de vehículos eléctricos y supere a sus competidores, es fundamental desarrollar una serie de estrategias y tácticas que diferencien sus servicios y ofrezcan un valor añadido a los clientes. 
+Para que EcoMove se posicione como líder en el mercado de alquiler de vehículos eléctricos y supere a sus competidores, es fundamental desarrollar una serie de estrategias y tácticas que diferencien sus servicios y ofrezcan un valor añadido a los clientes.
 
 ## Innovación y Tecnología
 
@@ -449,58 +497,190 @@ Para garantizar la seguridad de EcoMove, se implementará una sólida estrategia
 - **Monitoreo Continuo:** EcoMove utilizará herramientas de monitoreo continuo para identificar cualquier actividad sospechosa en tiempo real. Esto permitirá una detección temprana de amenazas y una respuesta inmediata para proteger la aplicación y la información de los usuarios.
 
 ## 2.2. Entrevistas
+
 ### 2.2.1. Diseño de entrevistas
+
 En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución.
 
 **Información general del entrevistado**
 
-1.	¿Cómo te llamas?
-2.	¿Cuántos años tienes?
-3.	¿Cuál es su ocupación?
-4.	Actualmente, ¿en qué lugar reside?
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Cuál es su ocupación?
+4. Actualmente, ¿en qué lugar reside?
 
 **Segmento 1: Estudiantes universitarios urbanos**
 
-1.	¿Cuál es la distancia promedio entre tu hogar y la universidad?
-2.	¿Qué medio de transporte sueles utilizar para desplazarte desde tu hogar hasta la universidad?
-3.	¿Has tenido dificultades para encontrar medios de transporte eficaces y seguros para distancias cortas?
-4.	¿Consideras importante la disponibilidad de medios de transporte que te permitan desplazarte de manera rápida y segura a la universidad?
-5.	¿Qué te parecería tener acceso a una aplicación que te ofrezca opciones de transporte específicamente diseñadas para distancias cortas?
-6.	¿Qué factores influyen más en tu elección de medio de transporte para desplazarte a la universidad (precio, comodidad, rapidez, etc.)?
-7.	¿Estarías dispuesto/a a probar nuevas formas de transporte si fueran más eficientes y amigables con el medio ambiente, especialmente para distancias cortas?
-8.	¿Cómo crees que podríamos mejorar tu experiencia de transporte para desplazarte desde tu hogar hasta la universidad?
+1. ¿Cuál es la distancia promedio entre tu hogar y la universidad?
+2. ¿Qué medio de transporte sueles utilizar para desplazarte desde tu hogar hasta la universidad?
+3. ¿Has tenido dificultades para encontrar medios de transporte eficaces y seguros para distancias cortas?
+4. ¿Consideras importante la disponibilidad de medios de transporte que te permitan desplazarte de manera rápida y segura a la universidad?
+5. ¿Qué te parecería tener acceso a una aplicación que te ofrezca opciones de transporte específicamente diseñadas para distancias cortas?
+6. ¿Qué factores influyen más en tu elección de medio de transporte para desplazarte a la universidad (precio, comodidad, rapidez, etc.)?
+7. ¿Estarías dispuesto/a a probar nuevas formas de transporte si fueran más eficientes y amigables con el medio ambiente, especialmente para distancias cortas?
+8. ¿Cómo crees que podríamos mejorar tu experiencia de transporte para desplazarte desde tu hogar hasta la universidad?
 
 **Segmento 2: Ciudadanos en busca de movilidad rápida y evitando el tráfico**
-1.	¿Cuál es tu principal motivo para buscar medios de transporte que te permitan evitar el tráfico en la ciudad?
-2.	¿Qué tan importante es para ti la rapidez al elegir un medio de transporte en tu día a día?
-3.	¿Has considerado utilizar medios de transporte alternativos para evitar el tráfico?
-4.	¿Qué inconvenientes has experimentado al tratar de encontrar medios de transporte rápidos y eficaces en la ciudad?
-5.	¿Estarías interesado/a en probar nuevas opciones de transporte que te ofrezcan una alternativa al tráfico vehicular?
-6.	¿Qué opinas sobre la idea de utilizar medios de transporte más limpios y amigables con el medio ambiente?
-7.	¿Qué características consideras esenciales en una aplicación de transporte para que la utilices regularmente?
-8.	¿Qué mejoras crees que podríamos implementar en los medios de transporte actuales para hacerlos más eficientes y rápidos?
+
+1. ¿Cuál es tu principal motivo para buscar medios de transporte que te permitan evitar el tráfico en la ciudad?
+2. ¿Qué tan importante es para ti la rapidez al elegir un medio de transporte en tu día a día?
+3. ¿Has considerado utilizar medios de transporte alternativos para evitar el tráfico?
+4. ¿Qué inconvenientes has experimentado al tratar de encontrar medios de transporte rápidos y eficaces en la ciudad?
+5. ¿Estarías interesado/a en probar nuevas opciones de transporte que te ofrezcan una alternativa al tráfico vehicular?
+6. ¿Qué opinas sobre la idea de utilizar medios de transporte más limpios y amigables con el medio ambiente?
+7. ¿Qué características consideras esenciales en una aplicación de transporte para que la utilices regularmente?
+8. ¿Qué mejoras crees que podríamos implementar en los medios de transporte actuales para hacerlos más eficientes y rápidos?
+
+### 2.2.2. Registro de entrevistas
+
+**Entrevista a Matias Munives**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/jair-interview.png?raw=true)
+
+Intervalo: 00:00 - 04:19
+
+En la entrevista con Matias Joan Munives Santamaria, estudiante de la Universidad Peruana de Ciencias Aplicadas. Matias vive en el distrito de San Miguel y vive de 1 a 2 km de la universidad, su método de transporte principal es su bicicleta y tambien puede llegar caminando. Matias considera que el uso de medios de transporte ecologicos son lo mejor para el por vivir cerca a la universidad. Considera importante encontrar medios de transporte eficaces, más por otras personas que suelen vivir lejos de la universidad. Le parece buena la idea de obtener una aplicación que le ofrezca información sobre rutas seguras para sus viajes, o el hecho de poder utilizar otros medios de transportes eficaces para las cortas distancias. Uno de los factores que tiene en cuenta para elegir un medio de transporte es la rapidez que este le ofresca.
+Cree que podriamos mejorar su experiencia si le mostramos información sobre estaciones o carriles para que pueda movilizarse.
+
+**Entrevista a Maverick Mendoza**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/jair-interview.png?raw=true)
+
+Intervalo: 04:19 - 08:45
+
+En la entrevista con Maverick Mendoza, estudiante de la Universidad del Pacífico. Sofía reside en el distrito de Miraflores en Lima y vive aproximadamente a 2 km del campus universitario. Sofía utiliza una variedad de medios de transporte para desplazarse por la ciudad, adaptando su elección según la distancia y las condiciones del tráfico. Valora la importancia de utilizar medios de transporte ecológicos y eficientes, especialmente en una ciudad tan transitada como Lima. Considera que contar con una aplicación que le proporcione información actualizada sobre rutas seguras, opciones de transporte disponibles y el estado del tráfico sería de gran ayuda para planificar sus viajes de manera más eficiente y evitar contratiempos.
+
+**Entrevista a Jeyson Tongo**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/jeyson-interview.png?raw=true)
+
+Intervalo: 08:46 - 16:26
+
+Durante la entrevista con Jeyson Tongo, residente del Cercado de Lima, se destacó su principal motivación para elegir un vehículo: la optimización del tiempo. Jeyson expresó su preocupación por la congestión vehicular en la ciudad y cómo esto afecta sus desplazamientos diarios. Para Jeyson, el tiempo es un recurso invaluable en su vida cotidiana. Busca medios de transporte que le permitan llegar a sus destinos de manera rápida y eficiente, evitando así las largas esperas y los congestionamientos en el tráfico. La necesidad de optimizar su tiempo lo ha llevado a considerar alternativas de movilidad más ágiles y eficientes.
+
+**Entrevista a Fernando Salgado**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/christopher-interview.png?raw=true)
+
+Intervalo: 16:27 - 20:25
+
+Durante la entrevista con Fernando Salgado, residente de San Miguel, se destacó su perspectiva sobre diversas formas de transporte ecológico o público disponibles en la ciudad. Fernando expresó su interés en explorar alternativas de movilidad que sean amigables con el medio ambiente y que también sean accesibles para todos los ciudadanos. Fernando valora la importancia de utilizar medios de transporte más sostenibles y eficientes en su día a día. Considera que la incorporación de opciones ecológicas en su rutina de transporte no solo contribuye al cuidado del medio ambiente, sino que también puede ayudar a mejorar la calidad del aire y reducir la congestión vehicular en la ciudad.
+
+**Entrevista a Lilian Luara**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/fabio-interview.png?raw=true)
+
+Intervalo: 20:26 - 24:27
+
+En la entrevista con Lilian Elizabeth Luara, una estudiante de International Business, se discute su experiencia con el transporte hacia la universidad. Lilian reside en Santiago de Surco, a 9 km de su universidad, y utiliza principalmente el autobús, aunque a veces encuentra problemas con los microbuses piratas. Considera importante la disponibilidad de medios de transporte reconocidos y seguros para viajar rápidamente a la universidad. Aprecia la idea de una aplicación que ofrezca opciones de transporte para distancias cortas, especialmente si es seguro y personalizado, y sugiere identificarlos de manera clara, como antes con los taxis amarillos. Está dispuesta a probar nuevas formas de transporte más eficientes y amigables con el medio ambiente y sugiere que una mejora podría ser una señalización distintiva para los vehículos de transporte corto.
+
+**Entrevista a Luis Garcia**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/mariano-interview.png?raw=true)
+
+Intervalo 24:28 - 27:53
+
+Durante la entrevista con Miguel García, residente de La Perla, se resaltó su búsqueda de alternativas de transporte rápido debido a la falta de transporte público causada por la pandemia. Miguel expresó su preocupación por la reducción de opciones de movilidad y la necesidad de encontrar soluciones ágiles y eficientes para sus desplazamientos diarios.
+
+### Analisis de entrevistas
+
+**Estudiantes universitarios urbanos**
+
+- El 100% de los estudiantes universitarios entrevistados mostraron interés en explorar alternativas de transporte más sostenibles y eficientes para sus desplazamientos diarios.
+- Todos los participantes expresaron su disposición a utilizar una aplicación como EcoMove para acceder a información sobre rutas seguras y opciones de transporte disponibles en su área.
+- Ningún estudiante manifestó una preferencia exclusiva por los medios de transporte tradicionales, como el automóvil personal, evidenciando una tendencia hacia opciones más ecoamigables.
+- El 100% de los encuestados señalaron que la rapidez y la eficiencia son factores críticos al elegir un medio de transporte, destacando la importancia de soluciones que optimicen la movilidad urbana.
+
+**Ciudadanos en busca de movilidad rápida y que evite el tráfico:**
+
+- El 100% de los ciudadanos entrevistados mostraron interés en explorar alternativas de transporte más sostenibles y respetuosas con el medio ambiente.
+- Todos los participantes expresaron su disposición a utilizar una aplicación como EcoMove para acceder a información sobre opciones de transporte ecológicas, como bicicletas compartidas o vehículos eléctricos.
+- Ningún ciudadano manifestó una preferencia exclusiva por los medios de transporte convencionales, como el automóvil personal, evidenciando una tendencia hacia opciones más ecoamigables.
+- El 100% de los encuestados señalaron que la preocupación por el medio ambiente es un factor importante al elegir un medio de transporte, destacando la importancia de soluciones que minimicen el impacto ambiental.
 
 ## 2.3. Needfinding
+
 ### 2.3.1. User Personas
+
+En esta sección, presentamos nuestras user personas, que son representaciones ficticias de diferentes tipos de usuarios que podrían interactuar con nuestro producto. Estas user personas se basan en investigaciones de usuarios reales y nos ayudan a visualizar y comprender mejor las motivaciones, comportamientos y objetivos de nuestros usuarios potenciales. Al conocer a nuestros usuarios a través de estas personas, podemos tomar decisiones más informadas y diseñar experiencias significativas que realmente resuenen con ellos.
+
 **Estudiantes universitarios urbanos:**
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/user-person-1.png?raw=true)
 
 **Ciudadanos en busca de movilidad rápida y evitando el tráfico:**
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/user-person-2.png?raw=true)
 
 ### 2.3.2. User Task Matrix
+
+En la User Task Matrix presentamos una matriz que detalla las tareas clave que nuestros usuarios desean realizar con nuestro producto o servicio, y cómo estas tareas se relacionan con nuestras user personas previamente definidas. Esta herramienta nos permite visualizar de manera clara y concisa qué tareas son importantes para cada tipo de usuario y cómo podemos priorizar y diseñar nuestras funcionalidades para satisfacer mejor sus necesidades y expectativas individuales.
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/user-task-matrix.png?raw=true)
 
 ### 2.3.3. User Journey Mapping
+
+En el User Journey Mapping, exploramos el viaje del usuario a través de nuestro producto o servicio, desde el punto inicial de interacción hasta la finalización de sus objetivos. Este mapa detalla cada paso del proceso, incluyendo las emociones, los puntos de dolor y las oportunidades de mejora que experimenta el usuario en cada etapa. Al visualizar esta experiencia de extremo a extremo, podemos identificar áreas clave de enfoque para optimizar la experiencia del usuario y garantizar que nuestro producto o servicio cumpla con sus expectativas y necesidades en cada punto de contacto.
+
 **Estudiantes universitarios urbanos:**
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/customer-journey%20map-1.png?raw=true)
 
 **Ciudadanos en busca de movilidad rápida y evitando el tráfico:**
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/customer-journey%20map-2.png?raw=true)
 
 ### 2.3.4. Empathy Mapping
+
 **Estudiantes universitarios urbanos:**
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/empathy-map-1.png?raw=true)
 
 **Ciudadanos en busca de movilidad rápida y evitando el tráfico:**
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/empathy-map-2.png?raw=true)
+
+### 2.3.5. As-is Scenario Mapping
+
+En esta sección, se describirán los escenarios “As-is” correspondientes a los dos segmentos de usuarios objetivos de EcoMove: estudiantes universitarios urbanos y ciudadanos en busca de movilidad rápida y que evite el tráfico. Estos escenarios representan la situación actual en la que se encuentran los usuarios antes de utilizar la aplicación para prepararse para entrevistas laborales. A través de estos escenarios, se analizarán los desafíos y obstáculos que enfrentan los usuarios en sus respectivas situaciones y se destacarán las áreas en las que EcoMove puede brindar un valor significativo.
+
+**Webstorming**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/as-is-scenario-1.png?raw=true)
+
+**Identificación de columna**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/as-is-scenario-2.png?raw=true)
+
+**Nombramiento de fases**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/as-is-scenario-3.png?raw=true)
+
+**Areas positivas (rojo) y negativas (azul)**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/as-is-scenario-4.png?raw=true)
+
+
+## 2.4. Ubiquitous Language
+
+- EcoMove: Refers to the mobile application provided by EcoMove that enables users to access and utilize electric vehicle sharing services conveniently.
+
+- EcoVehicle: Electric vehicles available for sharing through the EcoMove platform, including bicycles, scooters, and other electrically powered modes of transportation.
+
+- EcoPoint: The designated locations or stations where EcoVehicles are parked and made available for sharing or rental.
+
+- EcoMembership: Subscription-based access to the EcoMove platform, offering benefits and privileges to users, such as discounted rates and exclusive offers.
+
+- EcoZone: Designated areas within a city where EcoVehicles are primarily available for sharing, strategically located to serve high-demand locations and promote efficient usage.
+
+# Capitulo III: Requirements Specification
+
+
+
+# Bibliografía
+
+Espinoza, A. (18 de agosto de 2023). _Vehículos viejos y transporte público causan el 58% de contaminación del aire en Lima_. Infobae. https://www.infobae.com/peru/2023/08/18/vehiculos-viejos-y-transporte-publico-causan-el-58-de-contaminacion-del-aire-en-lima/
+
+Romero, V., Salazar, L., Solís, A. & Solís, J. (2022). Congestión Vehicular y Contaminación Ambiental en Lima Metropolitana. _Revista Lasallista de Investigación_, _19_(1), 152-164.
+
+Stakeholders. (28 de setiembre de 2023). _La idea de la micromovilidad es ahorrar tiempo en el tráfico y colaborar con el cuidado del medio ambiente_. https://stakeholders.com.pe/ciencia-innovacion-y-tecnologia/innovacion-y-emprendimientos/la-idea-de-la-micromovilidad-es-ahorrar-tiempo-en-el-trafico-y-colaborar-con-el-cuidado-del-medio-ambiente/
