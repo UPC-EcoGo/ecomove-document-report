@@ -489,7 +489,7 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/user-person-2.png?raw=true)
 
 ### 2.3.2. User Task Matrix
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/user-tasks-matrix.png?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/user-task-matrix.png?raw=true)
 
 ### 2.3.3. User Journey Mapping
 **Estudiantes universitarios urbanos:**
