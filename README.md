@@ -136,6 +136,9 @@
 
 ## Project Report Collaboration Insights
 
+https://github.com/UPC-EcoGo/ecomove-document-report/
+https://github.com/UPC-EcoGo/ecomove-landing-page/
+
 ## Contenido
 
 **Tabla de contenidos**
@@ -244,7 +247,7 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
       Angello Sosa: Realicé los prototypes de la versión final de la web application, una interfaz intuitiva que logra llamar la atención del usuario e incentivarlo a utilizar la aplicación. <br>
       </td>
       <td>
-      
+      Tras un exhaustivo análisis de las necesidades de movilidad urbana, EcoMove se erige como una solución innovadora y oportuna para abordar los desafíos ambientales y de tráfico en entornos urbanos. Al ofrecer una plataforma integral que promueve el uso compartido de vehículos eléctricos, EcoMove no solo ofrece una alternativa sostenible al transporte convencional, sino que también fomenta un estilo de vida urbano más eficiente y respetuoso con el medio ambiente
       </td>
     </tr>
     <tr>
@@ -1327,6 +1330,12 @@ El contexto de Customer Support (soporte al cliente) se enfoca en proporcionar a
 | EPIC-06  | US21          | Información sobre el equipo           | Como usuario, deseo poder ver la información sobre el equipo de desarrollo del producto desde la landing page, para poder conocer más sobre la organización. | DADO que el usuario se encuentre en la landing page del producto<br>Cuando el usuario haga clic en la sección de "about us"<br>ENTONCES se le mostrará al usuario la información de la startup. |
 | **Nombre de la Epic** | **Búsqueda y Reserva de Transporte** |----------------|-----------------------------|---------------------|
 | EPIC-02  | US03          | Buscar Transporte Cercano             | Como usuario, quiero poder buscar vehículos disponibles cerca de mi ubicación actual para facilitar mi desplazamiento. | DADO que se encuentre en la sección de búsqueda de vehículos<br>Cuando el usuario haga clic en la opción de buscar vehículos cercanos<br>Y verifique su ubicación en el menú<br>ENTONCES se mostrará en una lista al usuario los vehículos cercanos. |
+
+# Anexos:
+
+## Anexo A: Video de exposición TB1:
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/EUY5IGuskb9HmSf4HyTDHqsBc5QGhhaVAdcaetmXL4VDQQ?e=g60R1r&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Bibliografía
 
