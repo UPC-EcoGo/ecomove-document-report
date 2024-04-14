@@ -646,19 +646,19 @@ En esta sección, se describirán los escenarios “As-is” correspondientes a 
 
 **Webstorming**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/as-is-scenario-1.png?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/as-is-scenario-1.PNG?raw=true)
 
 **Identificación de columna**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/as-is-scenario-2.png?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/as-is-scenario-2.PNG?raw=true)
 
 **Nombramiento de fases**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/as-is-scenario-3.png?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/as-is-scenario-3.PNG?raw=true)
 
 **Areas positivas (rojo) y negativas (azul)**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/as-is-scenario-4.png?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/as-is-scenario-4.PNG?raw=true)
 
 
 ## 2.4. Ubiquitous Language
@@ -675,7 +675,458 @@ En esta sección, se describirán los escenarios “As-is” correspondientes a 
 
 # Capitulo III: Requirements Specification
 
+## 3.1 To-Be Scneario Mapping
 
+## 3.2 User stories
+
+| EPIC ID | Descripción de la épica                    |
+|---------|--------------------------------------------|
+| EP01    | Autenticación y Gestión de Usuarios        |
+| EP02    | Búsqueda y Reserva de Transporte           |
+| EP03    | Comunicaciones y Notificaciones            |
+| EP04    | Gestión de Viajes y Soporte                |
+| EP05    | Finanzas y Fidelización                   |
+| EP06    | Información y Navegación en la Landing Page |
+
+
+
+
+<table>
+  <thead> 
+    <tr>
+      <th>User Story ID</th>
+      <th>Título</th>
+      <th width = 30%>Descripción</th>
+      <th width = 50%>Criterios de aceptación</th>
+      <th width = 5%>Relacionado con EpicID</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr> <!--US01-->
+      <td>US01</td>
+      <td>Inicio de sesión</td>
+      <td>Como usuario quiero poder ingresar al sitio web con mi nombre de usuario y contraseña para visualizar la información con mi cuenta</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de iniciar sesión<br>
+      <strong>Y</strong> Ingrese su nombre de usuario y contraseña<br>
+      <strong>Entonces</strong> se mostrara al usuario su cuenta</td>
+      <td>EP01</td>
+    </tr>
+    <tr> <!--US02-->
+      <td>US02</td>
+      <td>Registro de nuevo usuario</td>
+      <td>Como usuario nuevo, quiero poder registrarme en la aplicación para acceder a ella</td>
+      <td>
+      <strong>Dado que</strong> no tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de registro<br>
+      <strong>Y</strong> Ingrese sus datos como nombre de usuario, contraseña, ciudad, etc<br>
+      <strong>Entonces</strong> se creara una cuenta para el usuario y se le dara acceso</td>
+      <td>EP01</td>
+    </tr>
+    <tr> <!--US03-->
+      <td>US03</td>
+      <td>Buscar Transporte Cercano</td>
+      <td>Como usuario, quiero poder buscar vehiculos disponibles cerca de mi ubicación actual para facilitar mi desplazamiento.</td>
+      <td>
+      <strong>Dado que</strong> se encuentre en la sección de busqueda de vehiculos<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de buscar vehiculos cercanos<br>
+      <strong>Y</strong> verifique su ubicación en el menú<br>
+      <strong>Entonces</strong> se mostrara en una lista al usuario los vehiculos cercanos</td>
+      <td>EP02</td>
+    </tr>
+    <tr> <!--US04-->
+      <td>US04</td>
+      <td>Visualización de Disponibilidad</td>
+      <td>Como usuario, quiero ver en tiempo real la disponibilidad de vehiculos en mi área para planificar mi viaje de manera eficiente.</td>
+      <td>
+      <strong>Dado que</strong> el usuario se encuentre en la sección de busqueda de vehiculos<br> 
+      <strong>Y</strong> el usuario seleccione un vehiculo para verificar su disponibilidad<br>
+      <strong>Cuando</strong> el usuario de click en la opción de verificar disponibilidad <br>
+      <strong>Entonces</strong> se mostrara al usuario la disponibilidad del vehiculo solicitado</td>
+      <td>EP02</td>
+    </tr>
+    <tr> <!--US05-->
+      <td>US05</td>
+      <td>Reservar Transporte</td>
+      <td>Como usuario, deseo poder reservar un scooter eléctrico o una bicicleta por adelantado para asegurar mi medio de transporte cuando lo necesite.</td>
+      <td>
+      <strong>Dado que</strong> el usuario haya seleccionado un vehiculo que se encuentre disponible<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de reservar el transporte<br>
+      <strong>Y</strong> elija un horario disponible para el vehiculo<br>
+      <strong>Entonces</strong> se hara una reserva del vehiculo para el usuario</td>
+      <td>EP02</td>
+    </tr>
+    <tr> <!--US06-->
+      <td>US06</td>
+      <td>Notificaciones de Disponibilidad</td>
+      <td>Como usuario, deseo recibir notificaciones en tiempo real cuando haya scooters eléctricos o bicicletas disponibles cerca de mi ubicación.</td>
+      <td>
+      <strong>Dado que</strong> el usuario se encuentre en la sección de busqueda de vehiculos<br> 
+      <strong>Cuando</strong> el usuario seleccione un vehiculo no disponible actualmente<br>
+      <strong>Entonces</strong> se le dara al usuario la posibilidad de seguir la disponibilidad del vehiculo en tiempo real </td>
+      <td>EP03</td>
+    </tr>
+        <tr> <!--US07-->
+      <td>US07</td>
+      <td>Calificación y Reseñas</td>
+      <td>Como usuario, quiero poder calificar y dejar reseñas sobre mi experiencia con vehiculos utilizados y la zona donde lo tome para ayudar a otros usuarios a tomar decisiones informadas.</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br>
+      <strong>Cuando</strong> el usuario de click en la opción de dejar reseña<br>
+      <strong>Y</strong> seleccione la zona o tipo de vehiculo donde quiera dejar su reseña<br>
+      <strong>Y</strong> escriba su reseña y de click en publicar<br>
+      <strong>Entonces</strong> se creara la reseña del usuario y sera visible para otros usuarios</td>
+      <td>EP03</td>
+    </tr>
+        <tr> <!--US08-->
+      <td>US08</td>
+      <td>Opciones de Pago</td>
+      <td>Como usuario, deseo tener varias opciones de pago integradas en la aplicación para pagar por el uso del transporte alternativo de manera conveniente.</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de pagar<br>
+      <strong>Entonces</strong> se mostrara al usuario las diferentes opciones de pagos como tarjetas o monedereos virtuales</td>
+      <td>EP04</td>
+    </tr>
+        <tr> <!--US09-->
+      <td>US09</td>
+      <td>Historial de viajes</td>
+      <td>Como usuario, quiero poder acceder a un historial de mis viajes anteriores con detalles como la duración, distancia recorrida y costo para realizar un seguimiento de mis desplazamientos.</td>
+      <td>
+      <strong>Dado que</strong> el usuario se encuentre en la sección de su cuenta en la pagina<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de historial de viajes<br>
+      <strong>Entonces</strong> se mostrara al usuario sus ultimos viajes realizados, junto a los detalles de cada uno.</td>
+      <td>EP05</td>
+    </tr>
+        <tr> <!--US10-->
+      <td>US10</td>
+      <td>Promociones y Descuentos</td>
+      <td>Como usuario, deseo recibir promociones y descuentos especiales en el uso de scooters eléctricos o bicicletas para incentivar su uso regular.</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> se presente un nuevo descuento u oferta en los planes<br>
+      <strong>Entonces</strong> se mostrara al usuario una notificación de la promoción en su correo o en la pagina</td>
+      <td>EP04</td>
+    </tr>
+        <tr> <!--US11-->
+      <td>US11</td>
+      <td>Soporte al Cliente</td>
+      <td>Como usuario, quiero tener acceso fácil a un servicio de soporte al cliente en caso de problemas técnicos, consultas o reclamaciones relacionadas con el uso de la aplicación o los transportes alternativos.</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de soporte al cliente<br>
+      <strong>Y</strong> ingrese el tipo de soporte que desea recibir<br>
+      <strong>Entonces</strong> se contactara al usuario con un asesor de servicio al cliente</td>
+      <td>EP05</td>
+    </tr>
+        <tr> <!--US12-->
+      <td>US12</td>
+      <td>Navegación por Mapa</td>
+      <td>Como usuario, quiero tener la opción de ver un mapa dentro de la aplicación que muestre la ubicación de los scooters eléctricos o bicicletas disponibles y las estaciones de recogida.</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opcipón de buscar vehiculos cercanos<br>
+      <strong>Entonces</strong> se mostrara al usuario los diferentes vehiculos en el mapa</td>
+      <td>EP02</td>
+    </tr>
+        <tr> <!--US13-->
+      <td>US13</td>
+      <td>Alertas de Seguridad</td>
+      <td>Como usuario, deseo recibir alertas de seguridad y consejos sobre el uso seguro de scooters eléctricos o bicicletas para prevenir accidentes y lesiones.</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario ingrese a la aplicación con su cuenta<br>
+      <strong>Entonces</strong> se mostrara al usuario avisos de seguridad y consejos de uso seguro de los vehiculos ofrecidos</td>
+      <td>EP03</td>
+    </tr>
+        <tr> <!--US14-->
+      <td>US14</td>
+      <td>Personalización de preferencias</td>
+      <td>Como usuario, quiero poder personalizar mis preferencias sobre notificaciones o vehiculos preferidos</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de perfil<br>
+      <strong>Y</strong> el usuario de click en la opción de preferencias<br>
+      <strong>Entonces</strong> se le permitira al usuario cambiar sus preferencias y su perfil</td>
+      <td>EP05</td>
+    </tr>
+        <tr> <!--US15-->
+      <td>US15</td>
+      <td>Paraderos de transporte publico</td>
+      <td>Como usuario, deseo que la aplicación muestre las ubicaciones de los paraderos cercanos para poder planificar mis viajes</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de buscar transporte cercano<br>
+      <strong>Entonces</strong> se mostrara al usuario en el mapa la información de paraderos de transporte publico cercanos</td>
+      <td>EP02</td>
+    </tr>
+        <tr> <!--US16-->
+      <td>US16</td>
+      <td>Gestión de Suscripciones</td>
+      <td>Como usuario, deseo poder suscribirme a planes de membresía para acceder a beneficios exclusivos en el uso de vehiculos ofrecidos por la aplicación</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de suscripciones<br>
+      <strong>Entonces</strong> se mostrara al usuario su cuenta con las suscripciones activas y las opciones  de suscripciones y beneficios que se le ofrecen</td>
+      <td>EP04</td>
+    </tr>
+        <tr> <!--US17-->
+      <td>US17</td>
+      <td>Reporte de Problemas</td>
+      <td>Como usuario, deseo poder reportar problemas técnicos con la pagina web o los vehiculos para garantizar mi comodidad y seguridad y ayudar a todos los usuarios</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de reportar un problema<br>
+      <strong>Y</strong> ingrese los datos del problema que va a reportar<br>
+      <strong>Entonces</strong> se reportara el problema al soporte tecnico de la pagina</td>
+      <td>EP05</td>
+    </tr>
+    <tr>
+      <td>US18</td>
+      <td>Redirección a registro desde la landing page</td>
+      <td>Como usuario, deseo poder tener la opción de registrarme desde la landing page, para poder mejorar la comodidad del registro.</td>
+      <td>
+      <strong>Dado que</strong> el usuario se encuentre en la landing page del producto<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de registro<br>
+      <strong>Entonces</strong> el usuario sera redirigido al registro de la pagina principal para que continue con el proceso de registro.</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>US19</td>
+      <td>Barra de navegación en la landing page</td>
+      <td>Como usuario, deseo poder navegar a través de las secciones de la landing page de manera sencilla con una barra de navegación</td>
+      <td>
+      <strong>Dado que</strong> el usuario se encuentre en la landing page del producto<br> 
+      <strong>Cuando</strong> el usuario de click en la sección a la que se quiera dirigir<br>
+      <strong>Entonces</strong> la sección con la información que solicito el usuario se mostrara en pantalla.</td>
+      <td>EP06</td>
+    </tr>
+    <tr>
+      <td>US20</td>
+      <td>Información sobre el producto</td>
+      <td>Como usuario, deseo poder ver la información sobre el producto desde la landing page, para hacer mas sencilla mi comprensión del mismo</td>
+      <td>
+      <strong>Dado que</strong> el usuario se encuentre en la landing page del producto<br> 
+      <strong>Cuando</strong> el usuario de click en la sección de información general<br>
+      <strong>Entonces</strong> se le mostrara al usuario la información del producto de manera clara y resumida
+      </td>
+      <td>EP06</td>
+    </tr>
+    <tr>
+      <td>US21</td>
+      <td>Información sobre el equipo</td>
+      <td>Como usuario, deseo poder ver la información sobre el equipo de desarrollo del producto desde la landing page, para poder conocer mas sobre la organización</td>
+      <td>
+      <strong>Dado que</strong> el usuario se encuentre en la landing page del producto<br> 
+      <strong>Cuando</strong> el usuario de click en la sección de "about us"<br>
+      <strong>Entonces</strong> se le mostrara al usuario la información de la startup
+      </td>
+      <td>EP06</td>
+    </tr>
+    <tr>
+      <td>US22</td>
+      <td>Información de contacto</td>
+      <td>Como usuario, deseo poder ver los diferentes contactos del equipo de desarrollo del producto, para poder comunicarme en caso de cualquier duda</td>
+      <td>
+      <strong>Dado que</strong> el usuario se encuentre en la landing page del producto<br> 
+      <strong>Cuando</strong> el usuario de click en la sección de "contactanos"<br>
+      <strong>Entonces</strong> se le mostrara al usuario la información de contacto del equipo como correo, telefono y redes sociales
+      </td>
+      <td>EP06</td>
+    </tr>
+    <tr>
+    <td>US23</td>
+      <td>Alquiler de vehiculo</td>
+      <td>Como usuario deseo poder alquilar scooters por medio de un codigo generado pro la página web</td>
+      <td>
+      <strong>Dado que</strong> el usuario tenga una cuenta registrada en la pagina web<br>
+      <strong>Y</strong> el usuario tenga una membresia activa<br> 
+      <strong>Cuando</strong> el usuario de click en la opción de alquilar<br>
+      <strong>Entonces</strong> se le mostrara al usuario un codigo generado para que pueda usar el vehiculo seleccionado
+      </td>
+      <td>EP02</td>
+    </tr>
+  </tbody>
+</table>
+
+## 3.3 Impact Mapping
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/impact-map-1.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/impact-map-2.png?raw=true)
+
+## 3.4 Product Backlog
+| User Story ID | Título                                   | Descripción                                                                                                                                                  | Criterios de aceptación                                                                                                                                                                                                      | Relacionado con EpicID          | Story Points |
+|---------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------|
+| US01          | Inicio de sesión                         | Como usuario quiero poder ingresar al sitio web con mi nombre de usuario y contraseña para visualizar la información con mi cuenta.                          | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de iniciar sesión Y Ingrese su nombre de usuario y contraseña Entonces se mostrara al usuario su cuenta.          | Autenticación                   | 3            |
+| US02          | Registro de nuevo usuario                | Como usuario nuevo, quiero poder registrarme en la aplicación para acceder a ella.                                                                           | Dado que no tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de registro Y Ingrese sus datos como nombre de usuario, contraseña, ciudad, etc Entonces se creara una cuenta para el usuario y se le dara acceso. | Autenticación                   | 5            |
+| US03          | Buscar Transporte Cercano                | Como usuario, quiero poder buscar vehiculos disponibles cerca de mi ubicación actual para facilitar mi desplazamiento.                                       | Dado que se encuentre en la sección de busqueda de vehiculos Cuando el usuario de click en la opción de buscar vehiculos cercanos Y verifique su ubicación en el menú Entonces se mostrara en una lista al usuario los vehiculos cercanos. | Búsqueda y Reserva               | 8            |
+| US04          | Visualización de Disponibilidad          | Como usuario, quiero ver en tiempo real la disponibilidad de vehiculos en mi área para planificar mi viaje de manera eficiente.                               | Dado que el usuario se encuentre en la sección de busqueda de vehiculos Y el usuario seleccione un vehiculo para verificar su disponibilidad Cuando el usuario de click en la opción de verificar disponibilidad Entonces se mostrara al usuario la disponibilidad del vehiculo solicitado. | Búsqueda y Reserva               | 5            |
+| US05          | Reservar Transporte                      | Como usuario, deseo poder reservar un scooter eléctrico o una bicicleta por adelantado para asegurar mi medio de transporte cuando lo necesite.              | Dado que el usuario haya seleccionado un vehiculo que se encuentre disponible Cuando el usuario de click en la opción de reservar el transporte Y elija un horario disponible para el vehiculo Entonces se hara una reserva del vehiculo para el usuario. | Búsqueda y Reserva               | 5            |
+| US06          | Notificaciones de Disponibilidad         | Como usuario, deseo recibir notificaciones en tiempo real cuando haya scooters eléctricos o bicicletas disponibles cerca de mi ubicación.                    | Dado que el usuario se encuentre en la sección de busqueda de vehiculos Cuando el usuario seleccione un vehiculo no disponible actualmente Entonces se le dara al usuario la posibilidad de seguir la disponibilidad del vehiculo en tiempo real. | Comunicaciones y Notificaciones  | 3            |
+| US07          | Calificación y Reseñas                   | Como usuario, quiero poder calificar y dejar reseñas sobre mi experiencia con vehiculos utilizados y la zona donde lo tome para ayudar a otros usuarios a tomar decisiones informadas. | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de dejar reseña Y seleccione la zona o tipo de vehiculo donde quiera dejar su reseña Y escriba su reseña y de click en publicar Entonces se creara la reseña del usuario y sera visible para otros usuarios. | Comunicaciones y Notificaciones  | 5            |
+| US08          | Opciones de Pago                         | Como usuario, deseo tener varias opciones de pago integradas en la aplicación para pagar por el uso del transporte alternativo de manera conveniente.         | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de pagar Entonces se mostrara al usuario las diferentes opciones de pagos como tarjetas o monedereos virtuales. | Finanzas                        | 3            |
+| US09          | Historial de viajes                      | Como usuario, quiero poder acceder a un historial de mis viajes anteriores con detalles como la duración, distancia recorrida y costo para realizar un seguimiento de mis desplazamientos.  | Dado que el usuario se encuentre en la sección de su cuenta en la pagina Cuando el usuario de click en la opción de historial de viajes Entonces se mostrara al usuario sus ultimos viajes realizados, junto a los detalles de cada uno. | Servicio al Cliente             | 2            |
+| US10          | Promociones y Descuentos                 | Como usuario, deseo recibir promociones y descuentos especiales en el uso de scooters eléctricos o bicicletas para incentivar su uso regular.                 | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando se presente un nuevo descuento u oferta en los planes Entonces se mostrara al usuario una notificación de la promoción en su correo o en la pagina. | Finanzas                        | 3            |
+| US11          | Soporte al Cliente                       | Como usuario, quiero tener acceso fácil a un servicio de soporte al cliente en caso de problemas técnicos, consultas o reclamaciones relacionadas con el uso de la aplicación o los transportes alternativos. | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de soporte al cliente Y ingrese el tipo de soporte que desea recibir Entonces se contactara al usuario con un asesor de servicio al cliente. | Servicio al Cliente             | 3            |
+| US12          | Navegación por Mapa                      | Como usuario, quiero tener la opción de ver un mapa dentro de la aplicación que muestre la ubicación de los scooters eléctricos o bicicletas disponibles y las estaciones de recogida.  | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de buscar vehiculos cercanos Entonces se mostrara al usuario los diferentes vehiculos en el mapa. | Búsqueda y Reserva               | 5            |
+| US13          | Alertas de Seguridad                     | Como usuario, deseo recibir alertas de seguridad y consejos sobre el uso seguro de scooters eléctricos o bicicletas para prevenir accidentes y lesiones.       | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario ingrese a la aplicación con su cuenta Entonces se mostrara al usuario avisos de seguridad y consejos de uso seguro de los vehiculos ofrecidos. | Comunicaciones y Notificaciones  | 2            |
+| US14          | Personalización de preferencias          | Como usuario, quiero poder personalizar mis preferencias sobre notificaciones o vehiculos preferidos                                                            | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de perfil Y el usuario de click en la opción de preferencias Entonces se le permitira al usuario cambiar sus preferencias y su perfil. | Servicio al Cliente             | 3            |
+| US15          | Paraderos de transporte publico          | Como usuario, deseo que la aplicación muestre las ubicaciones de los paraderos cercanos para poder planificar mis viajes                                          | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de buscar transporte cercano Entonces se mostrara al usuario en el mapa la información de paraderos de transporte publico cercanos. | Búsqueda y Reserva               | 3            |
+| US16          | Gestión de Suscripciones                 | Como usuario, deseo poder suscribirme a planes de membresía para acceder a beneficios exclusivos en el uso de vehiculos ofrecidos por la aplicación              | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de suscripciones Entonces se mostrara al usuario su cuenta con las suscripciones activas y las opciones de suscripciones y beneficios que se le ofrecen. | Finanzas                        | 5            |
+| US17          | Reporte de Problemas                     | Como usuario, deseo poder reportar problemas técnicos con la pagina web o los vehiculos para garantizar mi comodidad y seguridad y ayudar a todos los usuarios  | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de reportar un problema Y ingrese los datos del problema que va a reportar Entonces se reportara el problema al soporte tecnico de la pagina. | Servicio al Cliente             | 2            |
+| US18          | Redirección a registro desde la landing page | Como usuario, deseo poder tener la opción de registrarme desde la landing page, para poder mejorar la comodidad del registro.                                     | Dado que el usuario se encuentre en la landing page del producto Cuando el usuario de click en la opción de registro Entonces el usuario sera redirigido al registro de la pagina principal para que continue con el proceso de registro. | Autenticación                   | 2            |
+| US19          | Barra de navegación en la landing page  | Como usuario, deseo poder navegar a través de las secciones de la landing page de manera sencilla con una barra de navegación                                    | Dado que el usuario se encuentre en la landing page del producto Cuando el usuario de click en la sección a la que se quiera dirigir Entonces la sección con la información que solicito el usuario se mostrara en pantalla. | Información y Navegación         | 2            |
+| US20          | Información sobre el producto           | Como usuario, deseo poder ver la información sobre el producto desde la landing page, para hacer mas sencilla mi comprensión del mismo                           | Dado que el usuario se encuentre en la landing page del producto Cuando el usuario de click en la sección de información general Entonces se le mostrara al usuario la información del producto de manera clara y resumida. | Información y Navegación         | 2            |
+| US21          | Información sobre el equipo             | Como usuario, deseo poder ver la información sobre el equipo de desarrollo del producto desde la landing page, para poder conocer mas sobre la organización     | Dado que el usuario se encuentre en la landing page del producto Cuando el usuario de click en la sección de "about us" Entonces se le mostrara al usuario la información de la startup. | Información y Navegación         | 2            |
+| US22          | Información de contacto                 | Como usuario, deseo poder ver los diferentes contactos del equipo de desarrollo del producto, para poder comunicarme en caso de cualquier duda                   | Dado que el usuario se encuentre en la landing page del producto Cuando el usuario de click en la sección de "contactanos" Entonces se le mostrara al usuario la información de contacto del equipo como correo, telefono y redes sociales. | Información y Navegación         | 1      
+
+# Capítulo IV: Product Design
+
+## 4.1 Style Guidelines
+### 4.1.1. General Style Guidelines
+
+En la siguiente sección detallaremos las diferentes decisiones de diseño tomadas.
+
+#### Branding
+
+En el caso de Branding, optamos por el nombre de "EcoMove", este nombre nos permite seguir una similitud con el nombre de la StartUp "EcoGo". Ademas permite que los usuarios tengan una manera sencilla de determinar de que trata el producto antes de empezar a indagar mas.
+
+La primera parte de la marca, "Eco", hace referencia al producto como una solución limpia y amigable con el medio ambiente. La segunda parte "Move", hace referencia a la problematica del transporte que queremos realizar.
+
+#### Typography
+
+La tipografia elegida fue "Kumbh Sans", en su variante Bold, Semi-Bold y Regular.
+
+Esta tipografía permite al usuario una vista clara de la información, pues las letras tienen formas tradicionales y su diseño no entorpece la vista del usuario al navegar en el sitio web.
+
+La variante Bold es usada en los titulos y en el logo, la variante Semi-Bold es usada en los subtitulos de la pagína, dandole un poco mas de enfasis en contraste al resto de los parrafos, que usan la variante Regular.
+
+El tamaño de las fuentes varia dependiendo del uso que se le esta dando.
+
+Para titulos se utilizan los tamaños de fuente mas grande para poder atraer la atención del usuario, para el sitio web utilizamos el tamaño 50.
+
+Para subtitulos se utilizan tamaños de fuente un poco mas reducidos, esto debido a que se usan junto a los parrafos, la variante Semi-bold ya les hace resaltar en contraste al resto del texto y se mantiene el mismo tamaño. El tamaño escogio es 20.
+
+Para subtitulos se utilizan tamaños de fuente un poco mas reducidos, esto debido a que se usan junto a los parrafos, la variante Semi-bold ya les hace resaltar en contraste al resto del texto y se mantiene el mismo tamaño. El tamaño escogido es 20.
+
+Para los parrafos de nuestra pafina, elegimos un tamaño que sea sencillo de leer para el doctor, pero no llegue a cansar la vista del mismo. El tamaño escogido es 20.
+
+#### Colors
+
+Los colores utilizados en la pagina es una mezcla de tonos celestes con colores claros como el blanco y el gris. Estos colores se asocian con la seguridad, tranquilidad y paz. Aspectos que creemos que pueden atraer mas a los usuarios.
+
+Para los textos utlizamos el color negro en la mayoria de casos, a excepción de cuando utilizamos texto sobre color, en cuyo caso utilizamos el color blanco. Esto para poder facilitarle al usuario la lectura y que no tenga que forzar la vista.
+
+[]()
+
+#### Spacing
+
+El espaciado utilizado en la pagina web tambien varia dependiendo del texto. En general es importante usar un espaciado que permita al lector una visión clara del texto sin cansar la vista. Esto se puede lograr con un espaciado sencillo, pero no tan pequeño entre parrafos y lineas de texto.
+
+#### Tono de comunicación y lenguaje
+
+En la pagina, el tono de comunciación y lenguaje usado es importante para llegar al usuario correcto y captar su atención.
+
+En la página utilizamos un tono de comunicación formal y respetuoso, pero intentando no utilizar palabras demasiado formales o demasiado texto en los parrafos. Esto tiene como objetivo principalmente mantener la atención del usuario, siempre respetandolo para mantener su confianza.
+
+### 4.1.2. Web Style Guidelines
+
+En esta sección se mostrara con ilustraciones las decisiones tomadas en los estándares visuales y de interacción de nuestra pagina web.
+
+El lenguaje de diseño estará basado en Material Design, como biblioteca de componentes de UI se usara Angular Material
+
+#### Paleta de colores
+La paleta de colores consiste en una escala de colores azules, siguiendo el general style guidelines.
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/colors-web-guide.png?raw=true)
+
+#### Botones
+
+Dependiendo del contexto se usarán diferentes tipos de botones, para la barra de navegación optamos por botones completos sin bordes ni efectos.
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/buttons-1-web-guide.png?raw=true)
+
+Para otros botones dentro de la página se les da un efecto de sombra, se mantiene el color del texto y el botón:
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/buttons-2-web-guide.png?raw=true)
+
+En el caso de otros botones que contengan imágenes se usan botones más grandes con un borde negro:
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/buttons-3-web-guide.png?raw=true)
+
+#### Cajas de texto
+
+Las cajas de texto de la página siguen un patrón fijo, usando un fondo blanco, un borde negro y redondeado y el título de la caja de texto encima de cada campo:
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/text-box-web-guide.png?raw=true)
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+#### Jerarquía Visual
+
+En cuanto a la tipografía, estableceremos una jerarquía clara para resaltar la importancia de la información en nuestra página de inicio. Esto implica que los títulos principales serán más grandes y audaces, mientras que los subtítulos y el contenido secundario tendrán estilos y tamaños de fuente diferentes.
+
+##### Alineación
+
+En cuanto a la alineación, nos aseguraremos de que todos los elementos visuales, como imágenes y botones, estén alineados de forma coherente. Esto permitirá a los usuarios navegar por la interfaz de manera intuitiva y comprenderla fácilmente.
+
+##### Color y contraste
+
+Respecto al color y contraste, aplicaremos esquemas adecuados para garantizar que los elementos importantes se destaquen y que la plataforma sea visualmente atractiva y accesible para todos los usuarios.
+
+##### Organización Progresiva
+
+En el proceso de registro de usuarios, implementaremos una secuencia organizada para facilitar que proporcionen la información necesaria de manera rápida y ordenada, mejorando así su experiencia.
+
+#### Esquemas de categorización de contenido:
+
+##### Cronológico
+
+Este esquema de categorización organiza el contenido según la secuencia temporal de las reservas realizadas por el usuario. Esto significa que las reservas se presentarán en orden cronológico, desde las más recientes hasta las más antiguas, lo que facilitará al usuario seguir su historial de reservas en el tiempo. 
+
+##### Por Temas
+
+En este esquema, la sección del perfil se estructurará en base a temas o categorías específicas. Por ejemplo, se podrían utilizar encabezados como "Reservas", "Historial", "Preferencias" y "Modificar". Cada una de estas categorías agrupará el contenido relacionado, lo que permitirá a los usuarios encontrar rápidamente la información que están buscando y realizar las acciones necesarias en cada área de su perfil.
+
+### 4.2.2. Labeling Systems
+
+En esta sección se detalla diferentes tecnicas que usamos para dar representación a los datos dentro de la página y las etiquetas usadas en diferentes secciones de la página.
+
+A lo largo de la página podemos evidenciar diferentes tipos de etiquetado, como el uso de iconos, encabezados o titulos para darle al usuario un mejor entendimiento de las funciones que brinda la página, a continuación se puede ver en un ejemplo el uso de las etiquetas para lograr una vista mas clara de la página:
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/labeling-system.png?raw=true)
+
+### 4.2.3. SEO Tags and Meta tags
+
+Se utilizaron los siguientes tags en el desarrollo:
+
+Title: Define el título de la página, ayuda a identificar el nombre de la misma y encontrarla en los navegadores.
+
+Meta tag Author: Es el autor de la página, en este caso utilizamos el nombre del startup EcoGo.
+
+Meta tag Description: Es una descripción de la página, ayuda a tener una idea general de que trata la página.
+
+Meta tag Keywords: Son palabras clave que ayudaran a los usuarios a poder encontrar la página aunque no busquen exactamente el nombre de la misma.
+
+### 4.2.4. Searching Systems
+
+En cuanto al sistema de búsqueda, nuestra aplicación tendrá un único tipo de búsqueda: Búsqueda de vehículos cercanos.
+
+Este tipo de búsqueda será implementado para ayudar a los usuarios a encontrar vehículos disponibles en su área cercana, facilitando así la localización de opciones de transporte rápidas y convenientes. Al utilizar la ubicación del usuario y los datos en tiempo real sobre la disponibilidad de vehículos, nuestra búsqueda de vehículos cercanos proporcionará resultados precisos y actualizados, permitiendo a los usuarios planificar sus viajes de manera eficiente y sin complicaciones.
+
+### 4.2.5. Navigation Systems
+
+En nuestro Sistema de Navegación, buscamos simplificar la experiencia de navegación del usuario en nuestra aplicación mediante el empleo de diversas interfaces cuidadosamente diseñadas, lo que les permite desplazarse con facilidad.
+
+Una de estas interfaces por ejemplo, es la barra de navegación que acompaña al usuario a lo largo de la página. Con ayuda de esta interfaz el usuario es capaz de navegar por la página de manera sencilla.
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/navigation-system.png?raw=true)
+
+A su vez gracias al uso de etiquetas mencionadas anteriormente, se le da a al usuario una rapida interacción con la página, permitiendole explorar de manera sencilla.
 
 # Bibliografía
 
