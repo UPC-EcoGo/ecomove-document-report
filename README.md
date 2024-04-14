@@ -479,3 +479,28 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 6.	¿Qué opinas sobre la idea de utilizar medios de transporte más limpios y amigables con el medio ambiente?
 7.	¿Qué características consideras esenciales en una aplicación de transporte para que la utilices regularmente?
 8.	¿Qué mejoras crees que podríamos implementar en los medios de transporte actuales para hacerlos más eficientes y rápidos?
+
+## 2.3. Needfinding
+### 2.3.1. User Personas
+**Estudiantes universitarios urbanos:**
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/user-person-1.png?raw=true)
+
+**Ciudadanos en busca de movilidad rápida y evitando el tráfico:**
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/user-person-2.png?raw=true)
+
+### 2.3.2. User Task Matrix
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/user-tasks-matrix.png?raw=true)
+
+### 2.3.3. User Journey Mapping
+**Estudiantes universitarios urbanos:**
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/customer-journey%20map-1.png?raw=true)
+
+**Ciudadanos en busca de movilidad rápida y evitando el tráfico:**
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/customer-journey%20map-2.png?raw=true)
+
+### 2.3.4. Empathy Mapping
+**Estudiantes universitarios urbanos:**
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/empathy-map-1.png?raw=true)
+
+**Ciudadanos en busca de movilidad rápida y evitando el tráfico:**
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/empathy-map-2.png?raw=true)
