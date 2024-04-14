@@ -239,3 +239,77 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
     </tr>
   </tbody>
 </table>
+# Capítulo I: Introducción
+## 1.1. Startup Profile
+### 1.1.1 Descripción de la Startup
+EcoGo es una startup que surge como respuesta a la creciente preocupación por la movilidad urbana sostenible y la reducción de las emisiones de carbono en entornos urbanos. A través de su propuesta de solución EcoMove, se dedica a facilitar el uso compartido de vehículos eléctricos entre usuarios, con el objetivo de disminuir la dependencia de los vehículos de combustión interna y fomentar un estilo de vida más respetuoso con el medio ambiente.
+
+EcoGo no solo ofrece una plataforma para alquilar vehículos eléctricos de manera conveniente, sino que también colabora con empresas locales y marcas comprometidas con la sostenibilidad. A través de alianzas estratégicas, proporciona recursos adicionales para expandir su flota de vehículos y mejorar la infraestructura de carga, promoviendo así el uso de energía limpia en el transporte.
+
+EcoMove aprovecha la tecnología para conectar a los usuarios con vehículos eléctricos compartidos, ofreciendo tarifas diferenciadas, membresías con beneficios exclusivos y programas de fidelización para incentivar el uso recurrente de la plataforma y promover un estilo de vida urbano más sostenible.
+
+|Misión|Visión|
+|------|------|
+|Promover una movilidad urbana sostenible mediante el uso compartido de vehículos eléctricos, contribuyendo a la reducción de emisiones de carbono y creando ciudades más limpias y habitables.|Liderar la revolución hacia una movilidad urbana más limpia y accesible, siendo la opción preferida de transporte eléctrico compartido a nivel global.|
+
+## 1.2. Solution Profile
+### 1.2.1	Antecedentes y problemática
+
+La problemática del envejecimiento de la flota vehicular en el transporte público y los servicios de taxi en el Perú es un tema de preocupación creciente debido a sus impactos negativos en la salud pública y el medio ambiente. Según datos proporcionados por un organismo adscrito al Ministerio de Transportes y Comunicaciones (MTC), aproximadamente el 30,6% de los vehículos que operan en el transporte público regular y alrededor del 9% de los vehículos de servicio de taxis tienen una antigüedad de más de 15 años (Espinoza, 2023). Esta situación se traduce en un riesgo significativo para la salud y la seguridad de los usuarios, ya que se estima que los vehículos con más de dos décadas de uso emiten hasta 53 veces más contaminantes que los vehículos más nuevos, los cuales tienen 5 años o menos.
+
+La preocupación por la contaminación atmosférica y la calidad del aire en las ciudades ha llevado a la implementación de diversas medidas por parte de las autoridades locales, como el impuesto sobre vehículos antiguos por parte de la Municipalidad de Lima y el programa "Pico y placa". Este último consistía en restringir la circulación de vehículos basándose en el último dígito de la placa del automóvil, con el objetivo de reducir la cantidad de vehículos en circulación y mejorar el flujo de tráfico. Sin embargo, a pesar de estos esfuerzos, estas medidas no han tenido el éxito esperado y la congestión vehicular sigue siendo un problema significativo en varias zonas de la ciudad (Romero, et al., 2022).
+
+Ante esta problemática, surge la necesidad de explorar alternativas de transporte más sostenibles y eficientes. Una opción prometedora es el uso de scooters eléctricos, que ofrecen una solución viable para evitar la congestión del tráfico y optimizar los tiempos de desplazamiento en distancias cortas. En la práctica, muchas personas utilizan scooters eléctricos para satisfacer sus necesidades de transporte en lo que se conoce como la "última milla", es decir, para conectarse con otros medios de transporte público o para realizar actividades cotidianas como ir al banco, la oficina o el gimnasio. Los scooters eléctricos son especialmente adecuados para viajes cortos de 3 a 7 kilómetros, con una duración promedio de 13 a 15 minutos, lo que los convierte en una opción conveniente y eficiente para los desplazamientos urbanos (Stakeholders, 2023).
+
+**Problemática:**
+
+|<!-- -->|<!-- -->|
+|--------|--------|
+|What (Qué):<br>¿Cuál es el problema?|El problema central que enfrenta la sociedad es la dependencia generalizada de los vehículos de combustión interna en entornos urbanos, lo que resulta en altos niveles de contaminación del aire y emisiones de carbono. Esta situación no solo afecta la calidad del aire y la salud pública, sino que también contribuye al cambio climático y a la degradación ambiental.|
+|When (Cuándo):<br>¿Cuándo sucede el problema?|El problema de la dependencia de los vehículos de combustión interna en entornos urbanos es persistente y ocurre constantemente. Se manifiesta a diario en la congestión del tráfico, la contaminación del aire y la emisión continua de gases de efecto invernadero.|
+|Where (Dónde):<br>¿Dónde se presenta el problema de negocio?|Este problema se presenta principalmente en áreas urbanas densamente pobladas donde hay una alta concentración de vehículos motorizados. Ciudades de todo el mundo enfrentan desafíos similares relacionados con la movilidad urbana y la contaminación del aire.|
+|Who (Quienes):<br>¿Quiénes están involucrados?|Los principales actores involucrados en esta problemática son los residentes urbanos que dependen de los vehículos para sus desplazamientos diarios, así como las autoridades gubernamentales y las empresas de transporte que tienen un papel clave en la formulación de políticas y la implementación de soluciones de movilidad sostenible.|
+|Why (Por qué):<br>¿Por qué se origina el problema?|Este problema surge de varios factores, que incluyen la falta de infraestructura adecuada para el transporte público, la promoción histórica del uso del automóvil privado, la falta de conciencia sobre los impactos ambientales del transporte y la falta de alternativas accesibles y asequibles de movilidad sostenible.|
+|How (Cómo):<br>¿Cómo afecta este problema a las personas involucradas?|La dependencia de los vehículos de combustión interna afecta a las personas involucradas al contribuir a la contaminación del aire, empeorar la congestión del tráfico, aumentar los costos de transporte y tener impactos negativos en la salud pública y la calidad de vida en general.|
+|How much (Cuánto):<br>¿Cuánto impacto genera el problema en la sociedad?|El problema de la dependencia de los vehículos de combustión interna tiene un impacto significativo en la sociedad, afectando la salud pública, contribuyendo al cambio climático y la degradación ambiental, aumentando los costos económicos asociados con la congestión del tráfico y generando una baja calidad de vida en las áreas urbanas.|
+
+### 1.2.2 Lean UX Process
+#### 1.2.2.1 Lean UX Problem Statement
+Nuestro contexto demanda abordar la dificultad que enfrentan las personas que no pueden conseguir un medio de transporte eficaz y seguro,
+Si bien se presentan opciones, estas no siempre demuestran ser eficaces debido a la congestión vehicular de la ciudad.
+
+Tambien se puede observar una falta de opciones que sean limpias para el medio ambiente. Aunque el estado muestra preocupación  implementando medidas que apoyen a este contexto, aun no se logra una solución eficaz, segura y limpia para todos.
+
+Ante esta situación, surge nuestra pregunta de negocio: ¿Cómo podemos ofrecer medios de transporte efectivos para las personas y limpios para el bien ambiente, teniendo en cuenta tambien la seguridad y comodidad del usuario?
+
+#### 1.2.2.2 Lean UX Assumptions
+
+1. **Falta de medios de transporte eficazes:** Al no existir un medio de transporte eficaz, seguro y limpio, se refleja la demanda de un servicio como el que ofrecemos.
+
+2. **Precios elevados de combustible:** Al existir un alza de precios en los combustibles utilizados por los vehiculos convencionales, los usuarios buscaran una alternativa, respaldando la viabilidad de nuestro negocio centrado en vehiculos no convencionales.
+
+3. **La tecnologia ayudara a los usuarios a acceder rapidamente a vehiculos:** Al brindarle al usuario una alternativa tecnologica con la que pueda encontrar vehiculos de manera sencilla se puede mejorar la experiencia de los usuarios y lograr tener un mayor alcance.
+
+4. **Existe una preocupación ambiental por parte de la poblacion:** Al mostrar una solución que puede mejorar las soluciones existentes a la problematica ambiental podemos lograr un mayor interes por parte de los usuarios en nuestro producto.
+
+5. **Los transportes convencionales tambien se verian beneficiados:** Al ofrecer alternativas de transporte para las personas, podriamos tambien resolver en parte la congestión vehicular en algunas zonas, beneficiando tambien a los medios de transporte convencionales.
+
+6. **Entre los beneficios que estarán a disposición del usuario, se encuentran:**
+
+- **Facilidad de encontrar alternativas a los medios de transporte convencionales:** Los usuarios podran encontrar alternativas a sus medios de transporte tradicionales de manera sencilla por medio de nuestro producto, mejorando su experiencia en general al no presentar dificultades al movilizarse.
+
+- **Mejora al transportarse:** Se le da a los usuarios una mejora en su transporte tradicional, al usar las alternativas que ofrece nuestro producto pueden lograr moverse de manera mas rapida y comoda.
+
+- **Variedad de opciones:** Los usuarios tendran acceso a diferentes tipos de vehiculos o tarifas, dependiendo de lo que requieran en el momento. Todo el proceso sera por medio de la aplicación, facilitando y mejorando su experiencia. 
+
+- **Satisfacción emocional:** Los usuarios podran ver datos sobre el impacto ambiental de los medios de transporte, dandole satisfacción al usuario al poder ver los resultados de las acciones que realiza en el ambiente.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+- **Creemos que** al brindar una manera eficaz, segura y limpia de transportarse a los usuarios, se sentiran mas atraidos a utilizar el medio de transporte que utilizamos. **Sabremos que** hemos tenido exito, **cuando** veamos una mayor cantidad de usuarios utilizando el producto y utilizando los beneficios que les brindamos.
+
+- **Creemos que** al brindar alternativas de transporte limpio a la población, reduciremos la problematica de la contaminación en el país. **Sabremos que** hemos tenido exito **cuando** se evidencie una mejora en la contaminación presente actualmente.
+
+- **Creemos que** al brindar una aplicación facil y comoda de usar, podremos llegar a publico que usualmente no se encontraria atraido a este tipo de transportes. **Sabremos que** hemos tenido exito **cuando** podamos observar una mayor variedad y cantidad de personas utilizando nuestro producto.
+
+- **Creemos que** al brindar alternativas a los automoviles tradicionales, lograremos disminuir el tiempo perdido por trafico de carros en la ciudad. **Sabremos que** hemos tenido exito **cuando** se evidencie que los usuarios comenten sobre sus resultados en la pagina.
