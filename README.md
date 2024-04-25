@@ -1517,7 +1517,20 @@ En este sprint, el equipo logro desplegar la primera versión de la landing page
 
 A continuación se muestran evidencias del despliegue de la landing page:
 
+Página principal de la landing page (hero)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/main.png?raw=true)
 
+Sección de información sobre el producto:
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/about-us.png?raw=true)
+
+Sección de información sobre las membresias disponibles:
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/membresias.png?raw=true)
+
+Sección de mapa para ver los puntos disponibles:
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/map.png?raw=true)
+
+Sección de contacto y footer:
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/contact-footer.png?raw=true)
 
 
 # Anexos:
