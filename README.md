@@ -1505,7 +1505,10 @@ Enlace: https://trello.com/invite/b/mbzjoFQL/ATTIbf16007f71639fc082291cd7f6a4442
 |ecomove-document-report|main|088ae4a|docs: add needfinding||14/04/2024|
 |ecomove-document-report|main|58e17c9|docs: add user task||14/04/2024|
 |ecomove-document-report|main|9c2b192|docs: add interview analysis and as is scenario||14/04/2024|
-|ecomove-document-report|main|3a7c082|docs: add-requirements-specification-and-product-design||14/04/2024
+|ecomove-document-report|main|3a7c082|docs: add-requirements-specification-and-product-design||14/04/2024|
+|ecomove-document-report|main|8ea87a7|docs: add software-structure||14/04/2024|
+|ecomove-document-report|main|9e011ca|docs: add prototyping||14/04/2024|
+|ecomove-document-report|main|fc86523|docs: add sprint backlog||14/04/2024|
 
 # Anexos:
 
