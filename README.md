@@ -554,7 +554,7 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 **Entrevista a Matias Munives**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/jair-interview.png?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/jair-interview.PNG?raw=true)
 
 Intervalo: 00:00 - 04:19
 
@@ -563,7 +563,7 @@ Cree que podriamos mejorar su experiencia si le mostramos información sobre est
 
 **Entrevista a Maverick Mendoza**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/jair-interview.png?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/angello-interview.PNG?raw=true)
 
 Intervalo: 04:19 - 08:45
 
@@ -571,7 +571,7 @@ En la entrevista con Maverick Mendoza, estudiante de la Universidad del Pacífic
 
 **Entrevista a Jeyson Tongo**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/jeyson-interview.png?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/milagros-interview.PNG?raw=true)
 
 Intervalo: 08:46 - 16:26
 
@@ -579,7 +579,7 @@ Durante la entrevista con Jeyson Tongo, residente del Cercado de Lima, se destac
 
 **Entrevista a Fernando Salgado**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/christopher-interview.png?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/christopher-interview.PNG?raw=true)
 
 Intervalo: 16:27 - 20:25
 
@@ -587,7 +587,7 @@ Durante la entrevista con Fernando Salgado, residente de San Miguel, se destacó
 
 **Entrevista a Lilian Luara**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/fabio-interview.png?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/fabio-interview.PNG?raw=true)
 
 Intervalo: 20:26 - 24:27
 
@@ -595,7 +595,7 @@ En la entrevista con Lilian Elizabeth Luara, una estudiante de International Bus
 
 **Entrevista a Luis Garcia**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/mariano-interview.png?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/mariano-interview.PNG?raw=true)
 
 Intervalo 24:28 - 27:53
 
@@ -643,11 +643,11 @@ En el User Journey Mapping, exploramos el viaje del usuario a través de nuestro
 
 **Estudiantes universitarios urbanos:**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/customer-journey%20map-1.png?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/customer-journey-map-1.png?raw=true)
 
 **Ciudadanos en busca de movilidad rápida y evitando el tráfico:**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/customer-journey%20map-2.png?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/customer-journey-map-2.png?raw=true)
 
 ### 2.3.4. Empathy Mapping
 
@@ -694,9 +694,25 @@ En esta sección, se describirán los escenarios “As-is” correspondientes a 
 
 # Capitulo III: Requirements Specification
 
-## 3.1 To-Be Scneario Mapping
+## 3.1 To-Be Scenario Mapping
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/to-be-scenario.PNG?raw=true)
+En esta sección, se describirán los escenarios "To-Be" correspondientes a los dos segmentos de usuarios objetivos de EcoMove: estudiantes universitarios urbanos y ciudadanos en busca de movilidad rápida y que evite el tráfico. Estos escenarios representan la situación futura en la que se encontrarán los usuarios después de utilizar la aplicación EcoMove para prepararse para entrevistas laborales. A través de estos escenarios, se analizarán las mejoras y beneficios que experimentarán los usuarios en sus respectivas situaciones y se destacarán las áreas en las que EcoMove puede proporcionar un valor adicional significativo y mejorar su experiencia de movilidad.
+
+**Webstorming**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/to-be-scenario-1.PNG?raw=true)
+
+**Identificación de columna**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/to-be-scenario-2.PNG?raw=true)
+
+**Nombramiento de fases**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/to-be-scenario-3.PNG?raw=true)
+
+**Areas positivas (rojo) y negativas (azul)**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/to-be-scenario-4.PNG?raw=true)
 
 ## 3.2 User stories
 
@@ -1150,20 +1166,44 @@ Una de estas interfaces por ejemplo, es la barra de navegación que acompaña al
 A su vez gracias al uso de etiquetas mencionadas anteriormente, se le da a al usuario una rapida interacción con la página, permitiendole explorar de manera sencilla.
 ## 4.3. Landing Page UI Design. 
 ### 4.3.1. Landing Page Wireframe. 
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/wireframe-landing.png?raw=true)
+
 https://www.figma.com/file/eL2EUMqYpxKCTwz1nYCvPz/EcoMove-Wireframes?type=design&node-id=0-1&mode=design&t=2YNMZXKThipRNddF-0
+
 ### 4.3.2. Landing Page Mock-up.
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/mockup-landing.png?raw=true)
+
 https://www.figma.com/file/Q6ejeaBvXWVHvAYNA2smOs/EcoMove-Mockups?type=design&node-id=0-1&mode=design&t=jTfZbLa3nZNfYbzp-0
+
+
 ## 4.4. Web Applications UX/UI Design. 
 ### 4.4.1. Web Applications Wireframes.
-https://www.figma.com/file/eL2EUMqYpxKCTwz1nYCvPz/EcoMove-Wireframes?type=design&node-id=0-1&mode=design&t=2YNMZXKThipRNddF-0
+Enlace: https://www.figma.com/file/eL2EUMqYpxKCTwz1nYCvPz/EcoMove-Wireframes?type=design&node-id=0-1&mode=design&t=2YNMZXKThipRNddF-0
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/wireframe-web.png?raw=true)
+
 ### 4.4.2. Web Applications Wireflow Diagrams. 
-https://lucid.app/lucidchart/c6339a13-9402-4f27-9883-01ea0dab3146/edit?viewport_loc=-2294%2C-1232%2C3887%2C2067%2C0_0&invitationId=inv_7c7d72e9-6824-4dab-9a7f-f57f7a4fd49b
+Enlace: https://lucid.app/lucidchart/c6339a13-9402-4f27-9883-01ea0dab3146/edit?viewport_loc=-2294%2C-1232%2C3887%2C2067%2C0_0&invitationId=inv_7c7d72e9-6824-4dab-9a7f-f57f7a4fd49b
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/wireflow.png?raw=true)
+
 ### 4.4.2. Web Applications Mock-ups. 
-https://www.figma.com/file/Q6ejeaBvXWVHvAYNA2smOs/EcoMove-Mockups?type=design&node-id=101-2&mode=design&t=jTfZbLa3nZNfYbzp-0
+Enlace: https://www.figma.com/file/Q6ejeaBvXWVHvAYNA2smOs/EcoMove-Mockups?type=design&node-id=101-2&mode=design&t=jTfZbLa3nZNfYbzp-0
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/mockup-web.png?raw=true)
+
 ### 4.4.3. Web Applications User Flow Diagrams. 
-https://overflow.io/s/ZZMCEAJ8
+Enlace: https://overflow.io/s/4P9PM2G9
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/userflow.PNG?raw=true)
+
 ## 4.5. Web Applications Prototyping.
-https://www.figma.com/proto/Q6ejeaBvXWVHvAYNA2smOs?page-id=101%3A2&type=design&node-id=101-2&t=jTfZbLa3nZNfYbzp-0&scaling=min-zoom&starting-point-node-id=101%3A1091&show-proto-sidebar=1
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/prototype.png?raw=true)
+
+Enlace: https://www.figma.com/proto/Q6ejeaBvXWVHvAYNA2smOs?page-id=101%3A2&type=design&node-id=101-2&t=jTfZbLa3nZNfYbzp-0&scaling=min-zoom&starting-point-node-id=101%3A1091&show-proto-sidebar=1
 
 ## 4.6. Domain-Driven Software Architecture.
 
@@ -1297,13 +1337,123 @@ El contexto de Customer Support (soporte al cliente) se enfoca en proporcionar a
 
 ## 4.8.1 Database diagram
 
+La base de datos de EcoMove es un componente fundamental de la plataforma que almacena y gestiona una variedad de datos relacionados con usuarios, vehículos, reservaciones, transacciones, membresías y más. Está diseñada para soportar las funcionalidades principales de la aplicación, incluyendo la gestión de usuarios, la reserva de vehículos, el seguimiento de transacciones financieras y la administración de membresías.
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/database-diagram.PNG?raw=true)
 
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+
+**Project Management:**
+Producto: Trello
+Propósito: Seguimiento y gestión de tareas, asignación de recursos, seguimiento de tiempo y colaboración en equipo.
+Enlace: https://trello.com/invite/b/mbzjoFQL/ATTIbf16007f71639fc082291cd7f6a444216CEDCD75/sprint-1-ecomove-application
+
+**Product UX/UI Design:**
+Producto: Figma
+Propósito: Para llevar a cabo el diseño de la aplicación, como Wireframes y Mockups, utilizamos Figma. Esta es una plataforma de edición gráfica y diseño de interfaces, utilizada por diseñadores UX/UI.
+Enlace: https://www.figma.com/team_invite/redeem/0tCRSs2b6GgKwXg3k3VCD5
+
+**Software Deployment:**
+
+Producto: GitHub
+Propósito: Utilizar GitHub Pages para el despliegue del landing Page.
+Enlace:  https://github.com/UPC-EcoGo/ecomove-landing-page
+
+
+### 5.1.2.	Source Code Management
+A continuación, se presenta la gestión del código fuente que se utilizará en este proyecto y que permitirá supervisar y regular los ajustes y adaptaciones que realice cualquier miembro del equipo durante el desarrollo del proyecto. También es importante señalar que estableceremos un repositorio en GitHub para gestionar las diferentes versiones del código en este proyecto.
+Repositorio en GitHub para el Landing Page: https://github.com/UPC-EcoGo/ecomove-landing-page
+
+**Desarrollo de GitFlow:**
+Para el desarrollo de este proyecto utilizaremos GitFlow como Workflow que controlará las versiones. Esto nos permitirá la creación de las ramas principales y las ramas de apoyo.
+
+**Ramas principales:**
+-	Rama Main: Esta rama es la principal en Git, ya que contendrá el código fuente del proyecto que estará listo para ser utilizado. 
+-	Rama Develop: Esta rama será la encargada de almacenar el código fuente de los cambios más recientes antes de ser actualizado por una nueva versión del proyecto. 
+
+
+**Ramas de apoyo:**
+-	Rama Feature: Esta rama se origina a partir de la rama "Develop" y se destinará al desarrollo de nuevas funciones o características. Una de las ventajas inherentes a su empleo radica en la posibilidad de someter a pruebas las nuevas funcionalidades antes de su incorporación a la rama principal "Develop". Una vez que la rama "Feature" haya sido implementada, se procederá a su eliminación.
+
+-	Rama Release: Esta rama surge de la rama “Develop” y se utiliza para la preparación de una nueva versión del proyecto. En esta rama se realizarán tareas como la detección y solución de errores, sin embargo, no se podrá realizar la implementación de nuevas funcionalidades. Después de haber culminado, se deberá fusionar con la rama "Main" y “Develop”. 
+
+-	Rama Hotfix: Esta rama se origina a partir de la rama "Main" y se emplea con el propósito de abordar y resolver los problemas detectados durante el proceso de depuración del código fuente en la rama Master. Una vez que se hayan resuelto los problemas, será necesario llevar a cabo la fusión con las ramas "Main" y "Develop".
+
+**Convenciones para nombrar las ramas Feature, Release y Hotfix:**
+Para denominar las ramas de apoyo utilizaremos “Semantic Versioning 2.0.0”. Esta elección nos permitirá hacer uso del grupo de reglas establecidas en esta normativa, de esta manera podremos identificar los cambios realizados en el código fuente mediante su número de versión asignado. 
+
+La estructura utilizada es MAJOR.MINOR.PITCH (X.Y.Z). Las letras dentro del paréntesis representan la versión principal (MAJOR), la versión secundaria (MINOR) y la versión de parche o de corrección (PATCH) respectivamente. 
+
+### 5.1.3.	Source Code Style Guide & Conventions
+**HTML:**
+-	El archivo “index.html” define la estructura del Landing Page mediante el código fuente en HTML.
+
+**CSS:**
+-	El archivo “styles.css” que está diseñado en código fuente de CSS, se incorporará al código fuente HTML para dar forma al diseño del Landing Page.
+
+**Convenciones generales:**
+Para que nuestro código sea más legible utilizaremos una sangría (cantidad de espacios en blanco) de 2. <br>
+\<head\> <br>
+\<title\>EcoMove\</title\> <br>
+\</head\> <br>
+
+Para la codificación de caracteres en HTML se utilizará UTF-8 (Unicode).
+\<meta charset="UTF-8"\> <br>
+**Convenciones para el formato HTML:** <br>
+
+Se empleará una línea con un espacio para separar los elementos. <br>
+\<ol> <br>
+ 	 \<li\>Elemento 1\</li\> <br>
+ 	 \<li\>Elemento 2\</li\> <br>
+ 	 \<li\>Elemento 3\</li\> <br>
+\</ol> <br>
+
+Para realizar la cita de algún atributo se utilizarán las comillas. <br>
+\<figure\> <br>
+ \<img src="imagen_ejemplo.jpg" alt="Descripción"\> <br>
+\</figure\> <br>
+**Convenciones para el formato CSS:**
+Formato de nombres: Para una mejor lectura, se utilizarán nombres cortos. <br>
+.text{} <br>
+.image{} <br>
+.name{} <br>
+
+Para las palabras compuestas, se utilizará el símbolo “-”.
+
+.text_principal{...} <br>
+.image_secundaria{...} <br>
+
+Para un mejor entendimiento del código se utilizarán abreviaciones en las propiedades que se pueda.
+
+background-image: png("C:\User\Desktop.png"); <br>
+background-color: #2BA1BF; <br>
+background-repeat: no-repeat; <br>
+background-position: 5px 20px; <br>
+
+### 5.1.4.	Software Deployment Configuration
+
+Para implementar el Landing Page del Proyecto, emplearemos GitHub Pages, un servicio proporcionado por GitHub que nos permite publicar sitios web estáticos a partir de un repositorio. Por lo tanto, hemos inicialmente establecido un repositorio donde almacenaremos las diferentes versiones que produzcamos en el proyecto.
+Durante el proceso de desarrollo del Landing Page se emplarán las siguientes herramientas:
+
+-	HTML: Utilizaremos este lenguaje de marcado para estructurar y organizar el contenido del Landing Page.
+- CSS: Emplearemos este lenguaje de estilo para mejorar la presentación y la apariencia del Landing Page, haciéndolo más atractivo y amigable para los usuarios. Agilizando el uso de clases previamente creadas con el framework Tailwind CSS.
+-	JavaScript: Utilizaremos JavaScript, un lenguaje de programación, para agregar interactividad y funcionalidad dinámica al Landing Page, lo que mejorará la experiencia del usuario.
+
+Del mismo modo, en lo que respecta al proceso de despliegue del Landing Page, se hará uso de las siguientes herramientas:
+- Git: Este sistema de control de versiones se empleará para registrar y documentar los cambios realizados en el proyecto a lo largo del tiempo, manteniendo un historial que será posteriormente cargado en el repositorio de GitHub.
+
+
 ## 5.2. Landing Page, Services & Applications Implementation. 
+
 ### 5.2.1. Sprint 1 
+
 #### 5.2.1.1. Sprint Planning 1.
 
-| **Sprint Planning Background** |-----------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background** ||
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Date**                       | 2024-04-05                                                                                                                                                                                                                                                 |
 | **Time**                       | 7:00 PM                                                                                                                                                                                                                                                    |
@@ -1322,15 +1472,15 @@ El contexto de Customer Support (soporte al cliente) se enfoca en proporcionar a
 
 | Épica ID | User Story ID | **Título de Historia de Usuario**      | **Descripción de Historia de Usuario**                                                                                  | **Criterios de Aceptación**                                                                                                                                      |
 |----------|---------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nombre de la Epic** | **Autenticación y Gestión de Usuarios**|----------------|-----------------------------|---------------------|
+| **Nombre de la Epic** | **Autenticación y Gestión de Usuarios**||||
 | EPIC-01  | US01          | Inicio de sesión                      | Como usuario quiero poder ingresar al sitio web con mi nombre de usuario y contraseña para visualizar la información con mi cuenta. | DADO que el usuario tenga una cuenta registrada<br>Cuando el usuario haga clic en la opción de iniciar sesión<br>Y ingrese su nombre de usuario y contraseña<br>ENTONCES se mostrará al usuario su cuenta. |
 | EPIC-01  | US02          | Registro de nuevo usuario             | Como usuario nuevo, quiero poder registrarme en la aplicación para acceder a ella. | DADO que no tenga una cuenta registrada<br>Cuando el usuario haga clic en la opción de registro<br>Y ingrese sus datos como nombre de usuario, contraseña, ciudad, etc.<br>ENTONCES se creará una cuenta para el usuario y se le dará acceso. |
-| **Nombre de la Epic** | **Información y Navegación en la Landing Page** |----------------|-----------------------------|---------------------|
+| **Nombre de la Epic** | **Información y Navegación en la Landing Page** ||||
 | EPIC-06  | US18          | Redirección a registro desde la landing page | Como usuario, deseo poder tener la opción de registrarme desde la landing page, para poder mejorar la comodidad del registro. | DADO que el usuario se encuentre en la landing page del producto<br>Cuando el usuario haga clic en la opción de registro<br>ENTONCES el usuario será redirigido al registro de la página principal para que continúe con el proceso de registro. |
 | EPIC-06  | US19          | Barra de navegación en la landing page | Como usuario, deseo poder navegar a través de las secciones de la landing page de manera sencilla con una barra de navegación. | DADO que el usuario se encuentre en la landing page del producto<br>Cuando el usuario haga clic en la sección a la que se quiera dirigir<br>ENTONCES la sección con la información que solicitó el usuario se mostrará en pantalla. |
 | EPIC-06  | US20          | Información sobre el producto         | Como usuario, deseo poder ver la información sobre el producto desde la landing page, para hacer más sencilla mi comprensión del mismo. | DADO que el usuario se encuentre en la landing page del producto<br>Cuando el usuario haga clic en la sección de información general<br>ENTONCES se le mostrará al usuario la información del producto de manera clara y resumida. |
 | EPIC-06  | US21          | Información sobre el equipo           | Como usuario, deseo poder ver la información sobre el equipo de desarrollo del producto desde la landing page, para poder conocer más sobre la organización. | DADO que el usuario se encuentre en la landing page del producto<br>Cuando el usuario haga clic en la sección de "about us"<br>ENTONCES se le mostrará al usuario la información de la startup. |
-| **Nombre de la Epic** | **Búsqueda y Reserva de Transporte** |----------------|-----------------------------|---------------------|
+| **Nombre de la Epic** | **Búsqueda y Reserva de Transporte** ||||
 | EPIC-02  | US03          | Buscar Transporte Cercano             | Como usuario, quiero poder buscar vehículos disponibles cerca de mi ubicación actual para facilitar mi desplazamiento. | DADO que se encuentre en la sección de búsqueda de vehículos<br>Cuando el usuario haga clic en la opción de buscar vehículos cercanos<br>Y verifique su ubicación en el menú<br>ENTONCES se mostrará en una lista al usuario los vehículos cercanos. |
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/sprint-backlog.png?raw=true)
