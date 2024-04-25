@@ -1554,6 +1554,20 @@ Sección de contacto y footer:
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/contact-footer-mobile.png?raw=true)
 
+#### 5.2.1.6 Services Documentation Evidence for Sprint Review
+
+En el presente sprint no se evidencia ningun services documentation, ya que el alcance del mismo es la landing page.
+
+#### 5.2.1.7 Software Deployment Evidence for Sprint Review
+
+Se utilizaron diferentes herramientas para lograr el despliegue de la landing page en el presente sprint, a continuación el detalle de las mismas:
+
+- GitHub: Se utilizo para crear la organización y los repositorios que contienen nuestro proyecto.
+
+- Git: Se utilizo para el control de versiones dentro de nuestro proyecto.
+
+- GitHub Pages: Utilizamos esta plataforma para desplegar la primera versión de nuestra landing page.
+
 
 # Anexos:
 
