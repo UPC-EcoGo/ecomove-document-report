@@ -1453,6 +1453,8 @@ Del mismo modo, en lo que respecta al proceso de despliegue del Landing Page, se
 
 #### 5.2.1.1. Sprint Planning 1.
 
+A continuación se muestra la planeación del presente sprint
+
 | **Sprint Planning Background** ||
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Date**                       | 2024-04-05                                                                                                                                                                                                                                                 |
@@ -1470,6 +1472,8 @@ Del mismo modo, en lo que respecta al proceso de despliegue del Landing Page, se
 
 #### 5.2.1.2. Sprint Backlog 1.
 
+Se muestran las tareas que se tuvieron en cuenta para desarrollar en el presente sprint y se adjunta un link de trello con el tablero de las mismas.
+
 | Épica ID | User Story ID | **Título de Historia de Usuario**      | **Descripción de Historia de Usuario**                                                                                  | **Criterios de Aceptación**                                                                                                                                      |
 |----------|---------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nombre de la Epic** | **Autenticación y Gestión de Usuarios**||||
@@ -1486,6 +1490,22 @@ Del mismo modo, en lo que respecta al proceso de despliegue del Landing Page, se
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/sprint-backlog.png?raw=true)
 
 Enlace: https://trello.com/invite/b/mbzjoFQL/ATTIbf16007f71639fc082291cd7f6a444216CEDCD75/sprint-1-ecomove-application
+
+#### 5.2.1.3 Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited On |
+|------------|--------|-----------|----------------|---------------------|-------------|
+|ecomove-document-report|main|6185956|Initial commit||13/04/2024|
+|ecomove-document-report|main|f59de67|docs: add cover page to the document report||13/04/2024|
+|ecomove-document-report|main|13bd21f|docs: add document report structure||13/04/2024|
+|ecomove-document-report|main|31b4788|docs: add document report structure||13/04/2024|
+|ecomove-document-report|main|99bb4e7|docs: add startup profile for ecogo in chapter 1||14/04/2024|
+|ecomove-document-report|main|f223f9d|docs: add competitors section||14/04/2024|
+|ecomove-document-report|main|af11e80|docs: add interviews section|add interviews section|14/04/2024|
+|ecomove-document-report|main|088ae4a|docs: add needfinding||14/04/2024|
+|ecomove-document-report|main|58e17c9|docs: add user task||14/04/2024|
+|ecomove-document-report|main|9c2b192|docs: add interview analysis and as is scenario||14/04/2024|
+|ecomove-document-report|main|3a7c082|docs: add-requirements-specification-and-product-design||14/04/2024
 
 # Anexos:
 
