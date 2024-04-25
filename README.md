@@ -1535,18 +1535,23 @@ Sección de contacto y footer:
 A continuación se muestran las vistas en su versión mobile:
 
 Página principal de la landing page (hero):
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/main-mobile.png?raw=true)
 
 Sección de información sobre el producto:
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/about-us-mobile.png?raw=true)
 
 Sección de información sobre las membresias disponibles:
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/membresias-mobile.png?raw=true)
 
 Sección de mapa para ver los puntos disponibles:
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/map-mobile.png?raw=true)
 
 Sección de contacto y footer:
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/contact-footer-mobile.png?raw=true)
 
 
