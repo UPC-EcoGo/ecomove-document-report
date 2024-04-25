@@ -1510,6 +1510,16 @@ Enlace: https://trello.com/invite/b/mbzjoFQL/ATTIbf16007f71639fc082291cd7f6a4442
 |ecomove-document-report|main|9e011ca|docs: add prototyping||14/04/2024|
 |ecomove-document-report|main|fc86523|docs: add sprint backlog||14/04/2024|
 
+#### 5.2.1.4 Testing Evidence for Sprint Review
+
+#### 5.2.1.5 Execution Evidence for Sprint Review
+En este sprint, el equipo logro desplegar la primera versión de la landing page satisfactoriamente, en este punto se mostrara la evidencia de ello. La landing page fue desplegada por medio de github pages, se puede acceder a ella a traves del siguiente enlace: https://upc-ecogo.github.io/ecomove-landing-page/
+
+A continuación se muestran evidencias del despliegue de la landing page:
+
+
+
+
 # Anexos:
 
 ## Anexo A: Video de exposición TB1:
