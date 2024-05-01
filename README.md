@@ -552,7 +552,11 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 ### 2.2.2. Registro de entrevistas
 
-**Entrevista a Matias Munives**
+**Entrevista 1**
+
+Entrevistador: Jair Coraje
+
+Entrevistado: Matias Munives
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/jair-interview.PNG?raw=true)
 
@@ -561,7 +565,11 @@ Intervalo: 00:00 - 04:19
 En la entrevista con Matias Joan Munives Santamaria, estudiante de la Universidad Peruana de Ciencias Aplicadas. Matias vive en el distrito de San Miguel y vive de 1 a 2 km de la universidad, su método de transporte principal es su bicicleta y tambien puede llegar caminando. Matias considera que el uso de medios de transporte ecologicos son lo mejor para el por vivir cerca a la universidad. Considera importante encontrar medios de transporte eficaces, más por otras personas que suelen vivir lejos de la universidad. Le parece buena la idea de obtener una aplicación que le ofrezca información sobre rutas seguras para sus viajes, o el hecho de poder utilizar otros medios de transportes eficaces para las cortas distancias. Uno de los factores que tiene en cuenta para elegir un medio de transporte es la rapidez que este le ofresca.
 Cree que podriamos mejorar su experiencia si le mostramos información sobre estaciones o carriles para que pueda movilizarse.
 
-**Entrevista a Maverick Mendoza**
+**Entrevista 2**
+
+Entrevistador: Angello Sosa
+
+Entrevistado: Maverick Mendoza
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/angello-interview.PNG?raw=true)
 
@@ -569,7 +577,11 @@ Intervalo: 04:19 - 08:45
 
 En la entrevista con Maverick Mendoza, estudiante de la Universidad del Pacífico. Sofía reside en el distrito de Miraflores en Lima y vive aproximadamente a 2 km del campus universitario. Sofía utiliza una variedad de medios de transporte para desplazarse por la ciudad, adaptando su elección según la distancia y las condiciones del tráfico. Valora la importancia de utilizar medios de transporte ecológicos y eficientes, especialmente en una ciudad tan transitada como Lima. Considera que contar con una aplicación que le proporcione información actualizada sobre rutas seguras, opciones de transporte disponibles y el estado del tráfico sería de gran ayuda para planificar sus viajes de manera más eficiente y evitar contratiempos.
 
-**Entrevista a Jeyson Tongo**
+**Entrevista 3**
+
+Entrevistador: Milagros Tongo
+
+Entrevistado: Jeyson Tongo
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/milagros-interview.PNG?raw=true)
 
@@ -577,7 +589,11 @@ Intervalo: 08:46 - 16:26
 
 Durante la entrevista con Jeyson Tongo, residente del Cercado de Lima, se destacó su principal motivación para elegir un vehículo: la optimización del tiempo. Jeyson expresó su preocupación por la congestión vehicular en la ciudad y cómo esto afecta sus desplazamientos diarios. Para Jeyson, el tiempo es un recurso invaluable en su vida cotidiana. Busca medios de transporte que le permitan llegar a sus destinos de manera rápida y eficiente, evitando así las largas esperas y los congestionamientos en el tráfico. La necesidad de optimizar su tiempo lo ha llevado a considerar alternativas de movilidad más ágiles y eficientes.
 
-**Entrevista a Fernando Salgado**
+**Entrevista 4**
+
+Entrevistador: Christopher Lecca
+
+Entrevistado: Fernando Salgado
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/christopher-interview.PNG?raw=true)
 
@@ -585,7 +601,11 @@ Intervalo: 16:27 - 20:25
 
 Durante la entrevista con Fernando Salgado, residente de San Miguel, se destacó su perspectiva sobre diversas formas de transporte ecológico o público disponibles en la ciudad. Fernando expresó su interés en explorar alternativas de movilidad que sean amigables con el medio ambiente y que también sean accesibles para todos los ciudadanos. Fernando valora la importancia de utilizar medios de transporte más sostenibles y eficientes en su día a día. Considera que la incorporación de opciones ecológicas en su rutina de transporte no solo contribuye al cuidado del medio ambiente, sino que también puede ayudar a mejorar la calidad del aire y reducir la congestión vehicular en la ciudad.
 
-**Entrevista a Lilian Luara**
+**Entrevista 5**
+
+Entrevistador: Fabio Horna
+
+Entrevistado: Lilian Luara
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/fabio-interview.PNG?raw=true)
 
@@ -593,13 +613,29 @@ Intervalo: 20:26 - 24:27
 
 En la entrevista con Lilian Elizabeth Luara, una estudiante de International Business, se discute su experiencia con el transporte hacia la universidad. Lilian reside en Santiago de Surco, a 9 km de su universidad, y utiliza principalmente el autobús, aunque a veces encuentra problemas con los microbuses piratas. Considera importante la disponibilidad de medios de transporte reconocidos y seguros para viajar rápidamente a la universidad. Aprecia la idea de una aplicación que ofrezca opciones de transporte para distancias cortas, especialmente si es seguro y personalizado, y sugiere identificarlos de manera clara, como antes con los taxis amarillos. Está dispuesta a probar nuevas formas de transporte más eficientes y amigables con el medio ambiente y sugiere que una mejora podría ser una señalización distintiva para los vehículos de transporte corto.
 
-**Entrevista a Luis Garcia**
+**Entrevista 6**
+
+Entrevistador: Mariano Ames
+
+Entrevistado: Miguel García
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/mariano-interview.PNG?raw=true)
 
 Intervalo 24:28 - 27:53
 
 Durante la entrevista con Miguel García, residente de La Perla, se resaltó su búsqueda de alternativas de transporte rápido debido a la falta de transporte público causada por la pandemia. Miguel expresó su preocupación por la reducción de opciones de movilidad y la necesidad de encontrar soluciones ágiles y eficientes para sus desplazamientos diarios.
+
+**Entrevista 7**
+
+Entrevistador: Milagros Tongo
+
+Entrevistado: Ximena Aparcana
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/milagros-interview2.PNG?raw=true)
+
+Intervalo 27:54 - 31:22
+
+En la entrevista con María Ximena Parcana Juncheaya, una estudiante de 19 años, se destaca su preferencia por desplazarse principalmente caminando desde su hogar hasta la universidad, aunque a veces utiliza taxi o micro. Menciona dificultades con algunos medios de transporte debido a cobros excesivos y falta de seguridad. Destaca la importancia de un transporte rápido y seguro para optimizar el tiempo y llegar a clases. Se muestra receptiva a la idea de una aplicación que ofrezca opciones de transporte para distancias cortas y estaría dispuesta a probar nuevas formas de transporte más eficientes y amigables con el medio ambiente. Considera que mejoras en la experiencia de transporte, especialmente con proyectos sostenibles, podrían beneficiar su desplazamiento diario hacia la universidad.
 
 ### Analisis de entrevistas
 
