@@ -631,7 +631,7 @@ Entrevistador: Milagros Tongo
 
 Entrevistado: Ximena Aparcana
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/milagros-interview2.PNG?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/milagros-interview2.png?raw=true)
 
 Intervalo 27:54 - 31:22
 
