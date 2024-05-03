@@ -653,6 +653,28 @@ En la entrevista con María Ximena Parcana Juncheaya, una estudiante de 19 años
 - Ningún ciudadano manifestó una preferencia exclusiva por los medios de transporte convencionales, como el automóvil personal, evidenciando una tendencia hacia opciones más ecoamigables.
 - El 100% de los encuestados señalaron que la preocupación por el medio ambiente es un factor importante al elegir un medio de transporte, destacando la importancia de soluciones que minimicen el impacto ambiental.
 
+### Gráficos estadísticos
+
+**Medio de trasporte actual pra desplazarce en distacias cortas**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/gr1.png?raw=true)
+
+**Importancia es para ti la sostenibilidad y la reducción de emisiones de carbono al elegir un medio de transporte**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/gr2.png?raw=true)
+
+**Disposición a utilizar vehículos eléctricos compartidos**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/gr3.png?raw=true)
+
+**Factores que consideran más importantes al elegir un medio de transporte**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/gr4.png?raw=true)
+
+**Interés por EcoMove**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/gr5.png?raw=true)
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
