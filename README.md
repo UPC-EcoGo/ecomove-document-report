@@ -1682,7 +1682,7 @@ En este segundo Sprint se trabajo todo lo que esta involucrado al desarrollo de 
 
 Enlace del Trello: https://trello.com/b/GY45OHfV/sprint-2-ecomove-application
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/sprint-backlog.png?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/Trello-Sprint2.png?raw=true)
 
 
 #### 5.2.2.3.Development Evidence for Sprint Review. 
