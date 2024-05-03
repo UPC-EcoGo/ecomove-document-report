@@ -591,7 +591,7 @@ Entrevistado: Maverick Mendoza
 
 Intervalo: 04:19 - 08:45
 
-En la entrevista con Maverick Mendoza, estudiante de la Universidad del Pacífico. Sofía reside en el distrito de Miraflores en Lima y vive aproximadamente a 2 km del campus universitario. Sofía utiliza una variedad de medios de transporte para desplazarse por la ciudad, adaptando su elección según la distancia y las condiciones del tráfico. Valora la importancia de utilizar medios de transporte ecológicos y eficientes, especialmente en una ciudad tan transitada como Lima. Considera que contar con una aplicación que le proporcione información actualizada sobre rutas seguras, opciones de transporte disponibles y el estado del tráfico sería de gran ayuda para planificar sus viajes de manera más eficiente y evitar contratiempos.
+En la entrevista a Maverick Mendoza, de 18 años, está cursando la carrera de ingeniería de sistemas de software en la Universidad del Pacífico. Para desplazarse desde su hogar hasta la universidad, utiliza principalmente su carro, aunque a veces también opta por la bicicleta. Ha experimentado dificultades para encontrar medios de transporte eficaces y seguros para distancias cortas, ya que los buses o combis no siempre pasan cuando los necesita, lo que a veces lo lleva a llegar tarde a clases. Considera importante la disponibilidad de medios de transporte que le permitan desplazarse de manera rápida y segura a la Universidad, especialmente dada la situación del tráfico en Perú. Cree que es esencial contar con opciones que le permitan llegar en un tiempo razonable, aproximadamente en una hora.
 
 **Entrevista 3**
 
@@ -623,7 +623,7 @@ Entrevistador: Fabio Horna
 
 Entrevistado: Lilian Luara
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/fabio-interview.PNG?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/fabio-interview2.png?raw=true)
 
 Intervalo: 20:26 - 24:27
 
@@ -639,7 +639,7 @@ Entrevistado: Miguel García
 
 Intervalo 24:28 - 27:53
 
-Durante la entrevista con Miguel García, residente de La Perla, se resaltó su búsqueda de alternativas de transporte rápido debido a la falta de transporte público causada por la pandemia. Miguel expresó su preocupación por la reducción de opciones de movilidad y la necesidad de encontrar soluciones ágiles y eficientes para sus desplazamientos diarios.
+Luis David García Díaz, un ingeniero de software de 19 años que reside en La Perla. Está buscando un medio de transporte rápido que le permita llegar temprano a sus clases de manera segura. Considera que la rapidez es crucial para organizar su día a día y ha considerado alternativas como scooters para evitar el tráfico. Experimentó dificultades cuando una línea de carros dejó de pasar por su zona después del COVID, lo que lo obliga a caminar largas distancias. Está interesado en probar nuevas opciones de transporte que le ofrezcan alternativas al tráfico vehicular y apoya la idea de medios de transporte más limpios y amigables con el medio ambiente. Para utilizar una aplicación de transporte regularmente, considera esencial que brinde información precisa sobre los tiempos de llegada. Sugiere implementar líneas específicas para scooters u otros medios de transporte alternativos para mejorar la eficiencia y rapidez del transporte actual.
 
 **Entrevista 7**
 
@@ -652,6 +652,42 @@ Entrevistado: Ximena Aparcana
 Intervalo 27:54 - 31:22
 
 En la entrevista con María Ximena Parcana Juncheaya, una estudiante de 19 años, se destaca su preferencia por desplazarse principalmente caminando desde su hogar hasta la universidad, aunque a veces utiliza taxi o micro. Menciona dificultades con algunos medios de transporte debido a cobros excesivos y falta de seguridad. Destaca la importancia de un transporte rápido y seguro para optimizar el tiempo y llegar a clases. Se muestra receptiva a la idea de una aplicación que ofrezca opciones de transporte para distancias cortas y estaría dispuesta a probar nuevas formas de transporte más eficientes y amigables con el medio ambiente. Considera que mejoras en la experiencia de transporte, especialmente con proyectos sostenibles, podrían beneficiar su desplazamiento diario hacia la universidad.
+
+**Entrevista 8**
+
+Entrevistador: Angello Sosa
+
+Entrevistado: Valeria Velasco
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/angello-interview2.png?raw=true)
+
+Intervalo 27:54 - 31:22
+
+En la entrevista con Valeria, de 19 años, es estudiante y reside en La Victoria. La distancia promedio entre su hogar y la Universidad es de aproximadamente una hora en transporte público, utilizando el Metropolitano y el Alimentador. No ha tenido dificultades para encontrar medios de transporte eficaces y seguros para distancias cortas debido a la disponibilidad de micros en su zona. Considera importante la disponibilidad de medios de transporte que le permitan desplazarse de manera rápida y segura a la Universidad. Le parecería excelente tener acceso a una aplicación que le ofrezca opciones de transporte específicamente diseñadas para distancias cortas. Valeria valora principalmente la rapidez al elegir un medio de transporte, seguido del precio y la comunidad. Estaría dispuesta a probar formas de transporte más eficientes y amigables con el medio ambiente, especialmente para distancias cortas.
+
+**Entrevista 9**
+
+Entrevistador: Christopher Lecca
+
+Entrevistado: Fernando Reque
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/christopher-interview2.png?raw=true)
+
+Intervalo 26:30 - 30:41
+
+Fernando, de 19 años, trabaja en Starbucks y reside en Linzel. Busca evitar el tráfico en la ciudad para llegar rápido a sus destinos. Considera la rapidez como crucial al elegir un medio de transporte y ha explorado opciones alternativas como la bicicleta y el transporte público. Está interesado en probar nuevas opciones de transporte que reduzcan el tráfico vehicular y apoya la idea de medios de transporte más limpios y sostenibles. Para utilizar una aplicación de transporte regularmente, considera crucial que sea intuitiva, brinde opciones variadas y ofrezca información en tiempo real sobre el tráfico. Sugiere mejorar la infraestructura del transporte público y promover tecnologías más limpias y eficientes.
+
+**Entrevista 10**
+
+Entrevistador: Mariano Ames
+
+Entrevistado: Sebastion Mesias
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/mariano-interview2.png?raw=true)
+
+Intervalo 38:32 - 43:14
+
+Sebastián Mesías Vázquez, de 18 años, quien estudia Administración y Negocios Internacionales en la UPC y reside en San Miguel. Está buscando una movilidad rápida y busca medios de transporte alternativos para evitar el tráfico y la contaminación en la ciudad. La rapidez es crucial para él debido a su horario de clases y ha considerado usar bicicletas y scooters eléctricos como alternativas. Sin embargo, ha experimentado inconvenientes debido a la falta de responsabilidad de los conductores, lo que aumenta los riesgos para los ciclistas. Está interesado en probar nuevas opciones de transporte y apoya la idea de utilizar medios de transporte limpios y amigables con el medio ambiente, como las bicicletas eléctricas. Considera esencial que una aplicación de transporte sea fácil de entender y accesible para todos.
 
 ### Analisis de entrevistas
 
