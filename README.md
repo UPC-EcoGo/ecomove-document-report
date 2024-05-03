@@ -277,7 +277,6 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
         <br>
         Angello Sosa: Me encargue en la creacion de las paginas con un enfoque en UI design para que el usuario pueda acceder el contenido de una manera mas facil.
         </br>
-        <br>
   </tbody>
      
 </table>
