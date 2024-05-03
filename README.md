@@ -245,6 +245,15 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
       Mariano Ames: ayude a elaborar el proceso de Lean UX para identificar la problematica y la solución necesaria para resolverla. Identificando las principales User Stories que usamos para elaborar la pagina web, tambien colabore con la elaboración de las style guidelines, que ayudan a determinar un repositorio de estilos y elementos que se usaran en la elaboración del proyecto. <br>
       Milagros Tongo: Inicié el proceso de needfinding realizando un exhaustivo análisis de usuarios para comprender a fondo sus necesidades, deseos y comportamientos. Esto implicó la creación detallada de user personas, representando a diferentes segmentos de usuarios con características y motivaciones distintas. Luego, llevé a cabo sesiones de journey mapping para visualizar los pasos que los usuarios realizan al interactuar con nuestro producto o servicio y finalmente realicé empathy mapping para identificar y comprender las emociones, pensamientos, preocupaciones y aspiraciones de nuestros usuarios. <br>
       Angello Sosa: Realicé los prototypes de la versión final de la web application, una interfaz intuitiva que logra llamar la atención del usuario e incentivarlo a utilizar la aplicación. <br>
+      <td>TP:<br>
+      Christopher Lecca: Me aseguré de transmitir mis ideas y resultados de manera clara y concisa, utilizando un lenguaje accesible para todo tipo de audiencias, desde ingenieros especializados hasta directivos de diferentes áreas.
+      </br>
+      <br>
+      Angello Sosa:Demostré habilidad para adaptar mi comunicación según el contexto y el nivel de conocimiento de quienes me escuchaban, ya sean compañeros técnicos o líderes no especializados en ingeniería.
+      </br>
+      <br>
+      Milagros Tongo: En comparación con entregas anteriores, logré comunicar de manera más efectiva conceptos técnicos complejos, utilizando ejemplos relevantes y analogías comprensibles para todos.
+      </br>
       </td>
       <td>
       Tras un exhaustivo análisis de las necesidades de movilidad urbana, EcoMove se erige como una solución innovadora y oportuna para abordar los desafíos ambientales y de tráfico en entornos urbanos. Al ofrecer una plataforma integral que promueve el uso compartido de vehículos eléctricos, EcoMove no solo ofrece una alternativa sostenible al transporte convencional, sino que también fomenta un estilo de vida urbano más eficiente y respetuoso con el medio ambiente
@@ -252,7 +261,7 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
     </tr>
     <tr>
       <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
-      <td>TB1: <br>
+      
       Christopher Lecca: A través de la creación de diagramas de arquitectura claros y explicativos, así como de la redacción de informes y ensayos que detallan los diferentes aspectos de la arquitectura de sistemas, logré comunicar de manera efectiva conceptos y resultados a mis compañeros universitarios. <br>
       Fabio Horna: Con un enfoque meticuloso en el impacto, utilicé mis habilidades de comunicación estratégica para mapear cómo cada tarea específica del sprint influiría en los objetivos generales del proyecto. Fui preciso en la definición de tareas y efectivo en la articulación de las expectativas durante el sprint planning, lo que promovió una visión compartida y una cohesión robusta en ele quipo. <br>
       Jair Coraje: Utilice mis habilidades de comunicación para poder apoyar en la elaboración del proyecto. Se realizo las tareas asignadas del sprint planning para seguir apoyando al grupo logrando obtener un mejor desarrollo como equipo. <br>
@@ -262,7 +271,15 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
       </td>
       <td></td>
     </tr>
+       <td>TP: <br>
+        Christopher Lecca:En esta segunda entrega, dirigí la implementación del primer sprint de nuestro proyecto de desarrollo web. Con un enfoque minucioso y estratégico, planifiqué meticulosamente cada tarea para este período. Durante la reunión de planificación, comuniqué de manera clara y precisa las metas y expectativas del sprint, garantizando que todos en el equipo tuvieran una comprensión común.
+        </br>
+        <br>
+        Angello Sosa: Me encargue en la creacion de las paginas con un enfoque en UI design para que el usuario pueda acceder el contenido de una manera mas facil.
+        </br>
+        <br>
   </tbody>
+     
 </table>
 
 # Capítulo I: Introducción
