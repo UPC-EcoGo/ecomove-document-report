@@ -656,18 +656,23 @@ En la entrevista con María Ximena Parcana Juncheaya, una estudiante de 19 años
 ### Gráficos estadísticos
 
 **Medio de trasporte actual pra desplazarce en distacias cortas**
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/gr1.png?raw=true)
 
 **Importancia es para ti la sostenibilidad y la reducción de emisiones de carbono al elegir un medio de transporte**
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/gr2.png?raw=true)
 
 **Disposición a utilizar vehículos eléctricos compartidos**
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/gr3.png?raw=true)
 
 **Factores que consideran más importantes al elegir un medio de transporte**
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/gr4.png?raw=true)
 
 **Interés por EcoMove**
+
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/gr5.png?raw=true)
 
 ## 2.3. Needfinding
