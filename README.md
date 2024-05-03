@@ -1548,6 +1548,14 @@ Enlace: https://trello.com/invite/b/mbzjoFQL/ATTIbf16007f71639fc082291cd7f6a4442
 
 #### 5.2.1.4 Testing Evidence for Sprint Review
 
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|ecomove-acceptance-tests|main|1cb086a|feat: create eighteenth feature|Create feature of landing page|03/05/2024|
+|ecomove-acceptance-tests|main|8495f75|feat: create nineteenth featue|Create a second feature for lading page|03/05/2024|
+|ecomove-acceptance-tests|main|0f19d11|feat: create twentieth feature|Create a third feature for landing page|03/05/2024|
+|ecomove-acceptance-tests|main|efc6af8|feat: create twenty-first feature|Create a fourth feature for landing page|03/05/2024|
+|ecomove-acceptance-tests|main|79fdbdb|feat: create twenty-second feature|Create a fifth feature for lading page|03/05/2024|
+
 #### 5.2.1.5 Execution Evidence for Sprint Review
 En este sprint, el equipo logro desplegar la primera versión de la landing page satisfactoriamente, en este punto se mostrara la evidencia de ello. La landing page fue desplegada por medio de github pages, se puede acceder a ella a traves del siguiente enlace: https://upc-ecogo.github.io/ecomove-landing-page/
 
@@ -1604,6 +1612,140 @@ Se utilizaron diferentes herramientas para lograr el despliegue de la landing pa
 
 - GitHub Pages: Utilizamos esta plataforma para desplegar la primera versión de nuestra landing page.
 
+### 5.2.2. Sprint 2 
+
+#### 5.2.2.1.Sprint Planning 2. 
+
+A continuacion se muestra la planeación para nuestro segundo sprint
+
+|**Sprint #**|Sprint 2|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-04-25|
+|Time|07:00 PM|
+|Location|Canal de Voz de la plataforma Discord|
+|Prepared By|Angello Sosa Colca|
+|Attendees (to planning meeting)|Ames Oviedo, Mariano José/ Coraje Bayona, Jair Andreé/ Lecca Choccare, Christopher Bryan/ Sosa Colca, Angello Rodolfo/ Tongo Alejandro, Milagros Salet|
+|Sprint 2 Review Summary|En resumen, del sprint anterior se logro completar el landing page, así como el despliegue de este.|
+|Sprint 2 Retrospective Summary|En resumen, del sprint anterior se vieron puntos de mejora en el equipo, como aumentar la comunicación y la organización para poder completar las tareas designadas.|
+|**Sprint Goal & User Stories**||
+|Sprint 2 Goal|<p>Goal: Terminar el desarrollo del Front-End y desplegarlo.</p><p>Métrica de cumplimiento: Poder visualizar el Front-End desplegado.</p>|
+|Sprint 2 Velocity|49|
+|Sum of Story Points|49|
+
+
+#### 5.2.2.2.Sprint Backlog 2. 
+
+En este segundo Sprint se trabajo todo lo que esta involucrado al desarrollo de la Web Application, concentrandonos en el desarrollo de las funcionalidades más importantes.
+
+|Sprint #|Sprint 2|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Work-Item / Task|||||||
+|Id|Title|Id|Title|Description|<p>Estimation</p><p>(Hours)</p>|Assigned To|Status (To-Do / In-Process/ To- Review/ Done)|
+|US01|Inicio de Sesión|T1|Inicio de Sesión|Desarrollo del login |2||Done|
+|US02|Registro de nuevo Usuario|T1|Registro de Usuario|Desarrollo del Sign Up|2||Done|
+|US03|Buscar Transporte Cercano|T2|Vista busqueda del transporte|Mostrar resultados de búsqueda en un mapa o lista|4||Done|
+|US04|Visualización de Disponibilidad|T3|Vista disponibilidad de vehiculos|Indicar disponibilidad de vehículos en la interfaz|4||Done|
+|US05|Reservar Transporte|T4|Vista formulario Reserva|Formulario para seleccionar vehículo, horario y realizar pago|5||Done|
+|US07|Calificación y Reseña|T5|Vista formulario Reseña|Formulario para escribir y publicar reseñas|5||Done|
+|US08|Opciones de pago|T11|Vista seccion pagos|Formulario de selección para añadir métodos de pago|6||Done|
+|US09|Historial de viajes|T6|Vista Historial de Viajes|Mostrar lista de viajes pasados con detalles|6||Done|
+|US10|Promociones y Descuentos|T7|Vista promociones en notificaciones|Mostrar notificaciones de promociones en la aplicación|3||<p></p><p>Done</p>|
+|US11|Soporte al cliente|T7|Vista soporte|Mostrar formulario para seleccionar el tipo de soporte y dejar su contacto|4||Done|
+|US13|Alertas de Seguridad|T8|Vista alertas en Notificaciones|Mostrar mensajes de seguridad|3||Done|
+|US12|Navegación por Mapa|T9|Vista mapa para la navegación|Integrar un mapa para visualizar la ubicación de vehículos y estaciones|6||Done|
+|US15|Paraderos de transporte publico|T9|Vista de los paraderos en el mapa|Mostrar información de paraderos en el mapa|6||In - Proccess|
+|US14|Personalización de preferencias|T10|Vista personalización de Usuario|Permitir al usuario modificar sus preferencias|4||In - Proccess|
+|US17|Reporte de problemas|T12|Vista seccion reports|Mostrar formulario para escribir y reportar su problema|4||Done|
+
+Enlace del Trello: https://trello.com/b/GY45OHfV/sprint-2-ecomove-application
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/sprint-backlog.png?raw=true)
+
+
+#### 5.2.2.3.Development Evidence for Sprint Review. 
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|ecomove-web-application|main|3efe248|initial commit|-|24/04/2024|
+|ecomove-web-application|main|39abd1e|feat: create web app|-|26/04/2024|
+|ecomove-web-application|develop|3efe248|initial commit|-|24/04/2024|
+|ecomove-web-application|develop|39abd1e|feat: create web app|-|26/04/2024|
+|ecomove-web-application|feature/booking-reservation|3efe248|initial commit|-|24/04/2024|
+|ecomove-web-application|feature/booking-reservation|39abd1e|feat: create web app|-|26/04/2024|
+|ecomove-web-application|feature/booking-reservation|72d0145|feat: add styles for reservation|-|01/05/2024|
+|ecomove-web-application|feature/booking-reservation|e9a707a|feat: add reservation page|-|01/05/2024|
+|ecomove-web-application|feature/booking-reservation|075bde0|feat: add datepicker|-|01/05/2024|
+|ecomove-web-application|feature/booking-reservation|350bf52|feat: add rent-vehicle-page|-|01/05/2024|
+|ecomove-web-application|feature/booking-reservation|8bd3df2|feat: add styles|-|01/05/2024|
+|ecomove-web-application|feature/booking-reservation|fa1a343|feat: add confirmation reservation|-|02/05/2024|
+|ecomove-web-application|feature/booking-reservation|200d0f1|feat: add support|-|02/05/2024|
+|ecomove-web-application|feature/booking-reservation|009d49b|feat: add booking history page|-|02/05/2024|
+|ecomove-web-application|feature/booking-reservation|68892d4|feat: add font styles|-|02/05/2024|
+|ecomove-web-application|feature/booking-reservation|6f02567|feat: add data and environment|-|02/05/2024|
+|ecomove-web-application|feature/customer-support|3efe248|initial commit|-|24/04/2024|
+|ecomove-web-application|feature/customer-support|39abd1e|feat: create web app|-|26/04/2024|
+|ecomove-web-application|feature/payment|3efe248|initial commit|-|24/04/2024|
+|ecomove-web-application|feature/payment|39abd1e|feat: create web app|-|26/04/2024|
+|ecomove-web-application|feature/payment|9bcea53|feat: add payment-methods-page|-|01/05/2024|
+|ecomove-web-application|feature/payment|3c95549|feat: add styles|-|01/05/2024|
+|ecomove-web-application|feature/payment|80972cf|feat: add confirmation save card|-|02/05/2024|
+|ecomove-web-application|feature/payment|129f8a9|feat: add input card|-|02/05/2024|
+|ecomove-web-application|feature/public|3efe248|initial commit|-|24/04/2024|
+|ecomove-web-application|feature/public|39abd1e|feat: create web app|-|26/04/2024|
+|ecomove-web-application|feature/public|Cd82f47|feat: add background color in tailwind.config|-|30/04/2024|
+|ecomove-web-application|feature/public|a428fa9|feat: add navbar component|-|30/04/2024|
+|ecomove-web-application|feature/public|9c2401e|feat: add footer|-|01/05/2024|
+|ecomove-web-application|feature/public|57c9fce|fix: fix footer color|-|01/05/2024|
+|ecomove-web-application|feature/public|9052bac|feat: fix theme|-|02/05/2024|
+|ecomove-web-application|feature/public|cb039fe|feat: make navbar and footer responsive|-|02/05/2024|
+|ecomove-web-application|feature/public|1e87c52|feat: add logo|-|02/05/2024|
+|ecomove-web-application|feature/public|0852eb7|feat: add home-page and images|-|02/05/2024|
+|ecomove-web-application|feature/public|f33de41|feat: add font styles|-|02/05/2024|
+|ecomove-web-application|feature/user-management|3efe248|initial commit|-|24/04/2024|
+|ecomove-web-application|feature/user-management|39abd1e|feat: create web app|-|26/04/2024|
+|ecomove-web-application|feature/user-management|6f518f6|feat: add styles for background and cards|-|01/05/2024|
+|ecomove-web-application|feature/user-management|a6d005b|feat: add styles for buttons in settings|-|01/05/2024|
+|ecomove-web-application|feature/user-management|7eaffc3|feat: add settings page|-|01/05/2024|
+|ecomove-web-application|feature/user-management|978340f|feat: add settings page images|-|01/05/2024|
+|ecomove-web-application|feature/user-management|6325814|fix: fixed title weight|-|01/05/2024|
+|ecomove-web-application|feature/user-management|90911db|feat: add register confirmation page|-|01/05/2024|
+|ecomove-web-application|feature/user-management|30b0465|feat: add memberships|-|02/05/2024|
+|ecomove-web-application|feature/user-management|e079d7e|feat: fix settings page|-|02/05/2024|
+|ecomove-web-application|feature/user-management|27af185|feat: add up-review-page|-|02/05/2024|
+|ecomove-web-application|feature/user-management|87126b6|feat: problem report|-|02/05/2024|
+|ecomove-web-application|feature/vehicle-management|3efe248|initial commit|-|24/04/2024|
+|ecomove-web-application|feature/vehicle-management|39abd1e|feat: create web app|-|26/04/2024|
+|ecomove-web-application|feature/vehicle-management|379023c|feat: add styles for background and cards|-|01/05/2024|
+|ecomove-web-application|feature/vehicle-management|97145a8|feat: add vehicle homepage|-|01/05/2024|
+|ecomove-web-application|feature/vehicle-management|c132e07|feat: add images for vehicle page|-|01/05/2024|
+|ecomove-web-application|feature/vehicle-management|8b0ca62|fix: fixed title weight|-|01/05/2024|
+
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|ecomove-acceptance-tests|main|61e8a86|Initial commit|-|03/05/2024|
+|ecomove-acceptance-tests|main|8214799|feat: add first feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|304c7f4|feat: create second feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|374b319|feat: create third feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|7fed4cc|feat: add third feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|69b1fd6|feat: create fourth feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|990a019|feat: create fifth feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|c195bf2|feat: create sixth feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|3f1e288|feat: create seventh feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|b1698f2|feat: create eighth feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|bd98fac|feat: create nineth feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|1722b49|feat: create tenth feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|07e0b0a|feat: create eleventh feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|a2ff1bc|feat: create twelveth feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|842f295|feat: create thirteenth feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|031c100|feat: create fourteenth feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|d2aaf26|feat: create fifteenth feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|7f53c32|feat: create sixteenth feature|-|03/05/2024|
+|ecomove-acceptance-tests|main|12a5066|feat: add seventeenth feature|-|03/05/2024|
+
+
 
 # Anexos:
 
@@ -1613,8 +1755,13 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/EUY5IGus
 
 # Bibliografía
 
+  
+Carlos Guzmán (11 de Junio de 2018). _Transporte público limeño tiene más de 22 años de antigüedad_ . _Redaccion PQS_.  https://pqs.pe/actualidad/economia/transporte-publico-limeno-tiene-mas-de-22-anos-de-antiguedad/
+
 Espinoza, A. (18 de agosto de 2023). _Vehículos viejos y transporte público causan el 58% de contaminación del aire en Lima_. Infobae. https://www.infobae.com/peru/2023/08/18/vehiculos-viejos-y-transporte-publico-causan-el-58-de-contaminacion-del-aire-en-lima/
 
 Romero, V., Salazar, L., Solís, A. & Solís, J. (2022). Congestión Vehicular y Contaminación Ambiental en Lima Metropolitana. _Revista Lasallista de Investigación_, _19_(1), 152-164.
+
+BBVA (11 de Enero de 2024). _¿Qué es el transporte sostenible? El futuro del sector logístico y las ciudades_ . https://www.bbva.com/es/sostenibilidad/que-es-el-transporte-sostenible-el-futuro-del-sector-logistico-y-las-ciudades/
 
 Stakeholders. (28 de setiembre de 2023). _La idea de la micromovilidad es ahorrar tiempo en el tráfico y colaborar con el cuidado del medio ambiente_. https://stakeholders.com.pe/ciencia-innovacion-y-tecnologia/innovacion-y-emprendimientos/la-idea-de-la-micromovilidad-es-ahorrar-tiempo-en-el-trafico-y-colaborar-con-el-cuidado-del-medio-ambiente/
