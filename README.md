@@ -279,7 +279,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
       Mariano Ames: Desarrolle las diferentes vistas que se planearon en el anterior avance del proyecto. Para esto fue necesaria una comunidad clara con el equipo, lo que nos ayudo a mejorar la competencia de comunicación oral
       </td>
       <td>
-      Tras un exhaustivo análisis de las necesidades de movilidad urbana, EcoMove se erige como una solución innovadora y oportuna para abordar los desafíos ambientales y de tráfico en entornos urbanos. Al ofrecer una plataforma integral que promueve el uso compartido de vehículos eléctricos, EcoMove no solo ofrece una alternativa sostenible al transporte convencional, sino que también fomenta un estilo de vida urbano más eficiente y respetuoso con el medio ambiente
+      Tras un exhaustivo análisis de las necesidades de movilidad urbana, EcoMove se erige como una solución innovadora y oportuna para abordar los desafíos ambientales y de tráfico en entornos urbanos. Al ofrecer una plataforma integral que promueve el uso compartido de vehículos eléctricos, EcoMove no solo ofrece una alternativa sostenible al transporte convencional, sino que también fomenta un estilo de vida urbano más eficiente y respetuoso con el medio ambiente. <br>
+        a
       </td>
     </tr>
     <tr>
@@ -291,7 +292,7 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
       Milagros Tongo: En el proceso de needfinding, me aseguré de establecer claramente los objetivos del proyecto, definiendo las metas específicas que queríamos alcanzar a través de nuestras investigaciones de usuarios. Esto incluyó identificar los resultados deseados tanto a corto como a largo plazo, asegurando que nuestras actividades estuvieran alineadas con la visión general del proyecto. <br>
       Angello Sosa: A través de los wireframes, establecí ideas que luego se convertirán en realidad durante el proceso de ejecución de la aplicación web.
       <br><br>TP: <br>
-        <br>hristopher Lecca:En esta segunda entrega, dirigí la implementación del primer sprint de nuestro proyecto de desarrollo web. Con un enfoque minucioso y estratégico, planifiqué meticulosamente cada tarea para este período. Durante la reunión de planificación, comuniqué de manera clara y precisa las metas y expectativas del sprint, garantizando que todos en el equipo tuvieran una comprensión común.
+        <br>Christopher Lecca:En esta segunda entrega, dirigí la implementación del primer sprint de nuestro proyecto de desarrollo web. Con un enfoque minucioso y estratégico, planifiqué meticulosamente cada tarea para este período. Durante la reunión de planificación, comuniqué de manera clara y precisa las metas y expectativas del sprint, garantizando que todos en el equipo tuvieran una comprensión común.
         <br>
         <br>
         Angello Sosa: Me encargue en la creacion de las paginas con un enfoque en UI design para que el usuario pueda acceder el contenido de una manera mas facil.
@@ -303,7 +304,11 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
         Milagros Tongo: Me encargué de crear y diseñar varias páginas web específicas para diferentes aspectos del proyecto. Esto incluyó la creación de páginas de confirmación, páginas de información soporte y otras páginas relevantes según las necesidades del proyecto. Cada página fue diseñada con un enfoque en la usabilidad, la accesibilidad y la estética para asegurar una experiencia de usuario óptima.
         <br>
       </td>
-      <td></td>
+      <td> 
+        TB1: La realización de un diseño en Figma fortalece la comunicación efectiva en el desarrollo de EcoMove al proporcionar una representación visual clara y tangible del producto. Figma facilita la colaboración en tiempo real entre equipos multidisciplinarios, permitiendo que nuestros stakeholders comprendan fácilmente la estructura y funcionalidades del proyecto. Esto promueve una comprensión compartida y una alineación de objetivos, mejorando así la eficacia de la comunicación en el proceso. <br>
+        TP1:El enfoque de EcoMove en el desarrollo frontend con Angular, Angular Material y un API simulado demuestra un compromiso con la comunicación efectiva en el marco del proyecto de ingeniería. A través de la utilización de tecnologías bien establecidas como Angular y Angular Material, se facilita la presentación clara y coherente de ideas y resultados. Estas herramientas permiten una interfaz de usuario intuitiva y atractiva, lo que contribuye a una comunicación efectiva con diferentes audiencias, independientemente de su experiencia técnica.<br>
+Además, la implementación de un API ficticio hasta que esté disponible el backend real muestra una visión proactiva hacia la comunicación transparente. A pesar de la falta de datos reales, este enfoque proporciona a los diferentes stakeholders una comprensión clara de cómo se integrarán y funcionarán los componentes del sistema final. Esto fomenta la participación y retroalimentación temprana, lo que a su vez mejora la comprensión mutua y la alineación de objetivos entre nuestro equipo de desarrollo.
+      </td>
     </tr>
   </tbody>
      
@@ -2066,6 +2071,11 @@ A continuación se muestran los commits realizados por el equipo en el periodo d
 ## Anexo A: Video de exposición TB1:
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/EUY5IGuskb9HmSf4HyTDHqsBc5QGhhaVAdcaetmXL4VDQQ?e=g60R1r&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+## Anexo A: Video de exposición TP1:
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/EW8SzYutsJxJgcOoPE0FV1IBcpimKstvpZP88uFCndlNng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PJgXfF
+
 
 # Bibliografía
 
