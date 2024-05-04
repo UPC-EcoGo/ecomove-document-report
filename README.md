@@ -131,6 +131,28 @@
         <br>
       </td>
     </tr>
+    <tr>
+    <td>2da</td>
+      <td>03/05/2024</td>
+      <td>
+        - Ames Oviedo, Mariano José <br>
+        - Coraje Bayona, Jair Andreé <br>
+        - Horna Silva, Fabio Ernesto <br>
+        - Lecca Choccare, Christopher Bryan <br>
+        - Sosa Colca, Angello Rodolfo <br>
+        - Tongo Alejando, Milagros Salet <br>
+      </td>
+      <td>
+        5.2.1. Sprint 1. <br>
+        5.2.1.1. Sprint Planning 1. <br>
+        5.2.1.2. Sprint Backlog 1. <br>
+        5.2.1.3. Development Evidence for Sprint Review. <br>
+        5.2.1.4. Testing Suite Evidence for Sprint Review. <br>
+        5.2.1.5. Execution Evidence for Sprint Review. <br>
+        5.2.1.6. Services Documentation Evidence for Sprint Review <br>
+        5.2.1.7. Software Deployment Evidence for Sprint Review <br>
+        5.2.1.8. Team collaboration Insights during Sprint
+    </tr>
   </tbody>
 </table>
 
