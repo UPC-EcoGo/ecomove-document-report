@@ -1520,6 +1520,8 @@ Enlace: https://www.figma.com/proto/Q6ejeaBvXWVHvAYNA2smOs?page-id=101%3A2&type=
 
 ## 4.6. Domain-Driven Software Architecture.
 
+Enlace: https://structurizr.com/share/90641/26b1b8e7-c356-48d1-b53b-f71339e90289 
+
 ### 4.6.1. Software Architecture Context Diagram
 
 El diagrama de contexto representa la interacción del sistema EcoMove con sus principales entidades externas y servicios. En el centro del diagrama se encuentra el sistema EcoMove, que es el enfoque principal de nuestra atención.
@@ -1534,19 +1536,20 @@ Customer Support (Soporte al Cliente): Este actor representa el equipo encargado
 
 Además de estos actores, el sistema EcoMove se conecta a la API de Google Maps, que proporciona funcionalidades de mapeo y navegación. Esta conexión permite a los usuarios de EcoMove acceder a características como la visualización de rutas, la búsqueda de ubicaciones y la estimación de tiempos de viaje utilizando los servicios de mapas de Google.
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/context-diagram.PNG?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/context-diagram-1.png?raw=true)
 
 ### 4.6.2 Software Architecture Container Diagrams
 
 El diagrama de contexto del sistema de contenedores muestra la interacción entre el sistema y sus componentes externos, incluyendo la landing page, donde los usuarios obtienen información, la web application, que permite interactuar con el sistema, y el acceso a la base de datos, utilizada para almacenar y recuperar datos esenciales del sistema. Este esquema visual proporciona una visión clara de cómo el sistema se conecta con su entorno y los servicios clave que utiliza para su funcionamiento.
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/container-diagram.PNG?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/container-diagram-1.png?raw=true)
 
 ### 4.6.3 Software Architecture Components Diagrams
 
 El diagrama de componentes del sistema presenta los diferentes contextos, como el de User Management, Vehicle Management, Booking and Reservation, Customer Support, Payment, y Contenedores, unidos por el Shared Kernel. Cada contexto está representado por sus componentes clave, que incluyen clases, interfaces y servicios específicos, mientras que el Shared Kernel actúa como un conjunto central de funcionalidades compartidas entre los diferentes contextos. 
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/component-diagram.PNG?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/component-diagram-1.png?raw=true)
+
 
 ### 4.7. Software Object-Oriented Design
 
