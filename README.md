@@ -1942,6 +1942,29 @@ https://open-ecomove.netlify.app/
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/execution_evidence.png?raw=true)
 
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+En el sprint 2 se enfoco el desarrollo unicamente hacia la parte del frontend del proyecto.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+En el sprint se utilizaron estas diferentes herramientas para lograr el desarrollo y despliegue correcto del frontend web application
+
+Se utilizaron diferentes herramientas para lograr el despliegue de la landing page en el presente sprint, a continuación el detalle de las mismas:
+
+- GitHub: Se utilizo para crear la organización y los repositorios que contienen nuestro proyecto.
+
+- Git: Se utilizo para el control de versiones dentro de nuestro proyecto.
+
+- Netlify: Se utilizo para poder desplegar el proyecto.
+
+- Json-Server: Se utilizo para poder simular la conexión a una API
+
+#### 5.2.2.8. Team Collaboration Insights during sprint
+
+
+
+
 # Anexos:
 
 ## Anexo A: Video de exposición TB1:
