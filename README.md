@@ -1962,6 +1962,9 @@ Se utilizaron diferentes herramientas para lograr el despliegue de la landing pa
 
 #### 5.2.2.8. Team Collaboration Insights during sprint
 
+A continuación se muestran los commits realizados por el equipo en el periodo de un mes:
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/team-collaboration.png?raw=true)
 
 
 
