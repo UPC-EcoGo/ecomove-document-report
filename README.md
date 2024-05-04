@@ -299,6 +299,9 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
         <br>
         Mariano Ames: Al implementar diferentes vistas al proyecto, se tuvieron tambien que actualizar diferentes artefactos y elaborar la planeación del sprint, todas estas labores ayudaron al equipo a mejorar la competencia de comunicación escrita.
         <br>
+        <br>
+        Milagros Tongo: Me encargué de crear y diseñar varias páginas web específicas para diferentes aspectos del proyecto. Esto incluyó la creación de páginas de confirmación, páginas de información soporte y otras páginas relevantes según las necesidades del proyecto. Cada página fue diseñada con un enfoque en la usabilidad, la accesibilidad y la estética para asegurar una experiencia de usuario óptima.
+        <br>
       </td>
       <td></td>
     </tr>
