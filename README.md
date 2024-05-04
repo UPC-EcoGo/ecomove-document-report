@@ -1940,7 +1940,7 @@ Enlace del Trello: https://trello.com/b/GY45OHfV/sprint-2-ecomove-application
 En el presente sprint se logro completar el despliegue de la primera versión del front end web application de manera exitosa, la aplicación fue desplegada por medio de netlyfy, se puede encontrar en el siguiente enlace:
 https://open-ecomove.netlify.app/
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/execution_evidence?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/execution_evidence.png?raw=true)
 
 # Anexos:
 
