@@ -859,6 +859,7 @@ En esta sección, se describirán los escenarios "To-Be" correspondientes a los 
 | EP04    | Gestión de Viajes y Soporte                |
 | EP05    | Finanzas y Fidelización                   |
 | EP06    | Información y Navegación en la Landing Page |
+| EP07    | Implementación de funcionalidades tecnicas |
 
 
 
@@ -1231,6 +1232,70 @@ En esta sección, se describirán los escenarios "To-Be" correspondientes a los 
         <strong>Entonces</strong> se le mostrará un mensaje indicando que necesita una membresía activa para alquilar y se le ofrecerá la opción de adquirir una membresía<br><br>
       </td>
       <td>EP02</td>
+    </tr>
+    <tr> <!--US24-->
+      <td>US24</td>
+      <td>Integración con servicio de geolocalización</td>
+      <td>Como desarrollador, quiero integrar la API de Google Maps para obtener la ubicación actual del usuario y mostrar los vehículos disponibles en su área.</td>
+        <td>
+        <strong>Escenario 1:</strong><br>
+        <strong>Dado que</strong> el desarrollador tenga una cuenta registrada en el sistema<br>
+        <strong>Y</strong> el usuario tenga una membresía activa<br> 
+        <strong>Cuando</strong> el usuario de click en la opción de buscar vehiculos cercanos<br>
+        <strong>Entonces</strong> se le mostrara por medio de la API de google maps los vehiculos disponibles<br><br>
+        </td>
+      <td>EP07</td>
+    </tr>
+    <tr> <!--US25-->
+      <td>US25</td>
+      <td>Creación de un repositorio Git</td>
+      <td>Como desarrollador, quiero crear un repositorio Git para el proyecto en una plataforma como GitHub o GitLab para gestionar el control de versiones y permitir la colaboración entre los miembros del equipo.</td>
+        <td>
+        <strong>Escenario 1:</strong><br>
+        <strong>Dado que</strong> el desarrollador tenga una cuenta registrada en el sistema<br>
+        <strong>Y</strong> quiera subir los cambios al repositorio Git<br> 
+        <strong>Cuando</strong> el desarrollador elija la rama a la que quiere subir los cambios<br>
+        <strong>Entonces</strong> Se le mostrara al resto del equipo los cambios asi como el nombre del colaborador<br><br>
+        </td>
+      <td>EP07</td>
+    </tr>
+    <tr> <!--US26-->
+      <td>US26</td>
+      <td>Configuración del enrutamiento en Angular</td>
+      <td>Como desarrollador, quiero configurar el enrutamiento en Angular para definir las rutas y las vistas que se mostrarán en la aplicación según la URL solicitada por el usuario.</td>
+        <td>
+        <strong>Escenario 1:</strong><br>
+        <strong>Dado que</strong> el desarrollador tenga una cuenta registrada en el sistema<br>
+        <strong>Y</strong> el desarrollador haga nuevos cambios a la aplicación<br> 
+        <strong>Cuando</strong> el desarrollador complete los cambios al enrutamiento<br>
+        <strong>Entonces</strong> se le mostrara permitira al usuario hacer uso del enrutamiento para visualizar el sitio web<br><br>
+        </td>
+      <td>EP07</td>
+    </tr>
+    <tr> <!--US27-->
+      <td>US27</td>
+      <td>Creación de Bounded Contexts para Dividir el Sistema</td>
+      <td>Como desarrollador, quiero crear bounded contexts separados para los diferentes subdominios de nuestra aplicación para dividir el sistema en partes independientes y manejar mejor la complejidad del dominio.</td>
+        <td>
+        <strong>Escenario 1:</strong><br>
+        <strong>Dado que</strong> el desarrollador tenga una cuenta registrada en el sistema<br>
+        <strong>Y</strong> el desarrollador quiera realizar un cambio en una parte de la aplicación<br> 
+        <strong>Entonces</strong> el desarrollador modificara ese bounded context sin alterar el funcionamiento del resto de la aplicación<br><br>
+        </td>
+      <td>EP07</td>
+    </tr>
+    <tr> <!--US28-->
+      <td>US28</td>
+      <td>Configuración de Servidor JSON Temporal</td>
+      <td>Como desarrollador, quiero configurar un servidor JSON temporal para simular el backend de la aplicación hasta que se desarrolle y despliegue uno propio utilizando Spring Boot.</td>
+        <td>
+        <strong>Escenario 1:</strong><br>
+        <strong>Dado que</strong> el desarrollador quiera hacer uso del servidor JSON temporal<br>
+        <strong>Y</strong> el servidor se encuentre en linea<br> 
+        <strong>Cuando</strong> el desarrollador utilize los metodos para obtener los datos desde el servidor<br>
+        <strong>Entonces</strong> se le daran los datos necesarios al desarrollador<br><br>
+        </td>
+      <td>EP07</td>
     </tr>
   </tbody>
 </table>
