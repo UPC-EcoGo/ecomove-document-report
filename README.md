@@ -1799,16 +1799,18 @@ A continuación se muestra la planeación del presente sprint
 
 Se muestran las tareas que se tuvieron en cuenta para desarrollar en el presente sprint y se adjunta un link de trello con el tablero de las mismas.
 
-| Épica ID | User Story ID | Título de Historia de Usuario | Descripción de Historia de Usuario | Estimación (Hours) | Assigned to | Status (To-do / In-Process / To-Review / Done) |
-|----------|---------------|-------------------------------|-------------------------------------|--------------------|-------------|-----------------------------------------------|
-| EPIC-01  | US01          | Inicio de sesión              | Como usuario quiero poder ingresar al sitio web con mi nombre de usuario y contraseña para visualizar la información con mi cuenta. | 2 | Christopher Lecca | Done |
-| EPIC-01  | US02          | Registro de nuevo usuario     | Como usuario nuevo, quiero poder registrarme en la aplicación para acceder a ella. | 2 | Mariano Ames | Done |
-| EPIC-06  | US18          | Redirección a registro desde la landing page | Como usuario, deseo poder tener la opción de registrarme desde la landing page, para poder mejorar la comodidad del registro. | 0.7 | Milagros Tongo | Done |
-| EPIC-06  | US19          | Barra de navegación en la landing page | Como usuario, deseo poder navegar a través de las secciones de la landing page de manera sencilla con una barra de navegación. | 0.5 | Fabio Horna | Done |
-| EPIC-06  | US20          | Información sobre el producto | Como usuario, deseo poder ver la información sobre el producto desde la landing page, para hacer más sencilla mi comprensión del mismo. | 0.5 | Angello Sosa | Done |
-| EPIC-06  | US21          | Información sobre el equipo   | Como usuario, deseo poder ver la información sobre el equipo de desarrollo del producto desde la landing page, para poder conocer más sobre la organización. | 2 | Jair Coraje | Done |
-| EPIC-02  | US03          | Buscar Transporte Cercano    | Como usuario, quiero poder buscar vehículos disponibles cerca de mi ubicación actual para facilitar mi desplazamiento. | 2 | Christopher Lecca | Done |
-
+| Sprint # | Sprint 1 |           |           |           |           |           |           |
+| -------- | -------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| User Story | Work-Item / Task |           |           |           |                      |           |
+| Épica ID | User Story ID | Title | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process / To-Review / Done) |
+| EPIC-01 | US01 | Inicio de sesión | Como usuario quiero poder ingresar al sitio web con mi nombre de usuario y contraseña para visualizar la información con mi cuenta. | 2 | Christopher Lecca | Done |
+| EPIC-01 | US02 | Registro de nuevo usuario | Como usuario nuevo, quiero poder registrarme en la aplicación para acceder a ella. | 2 | Mariano Ames | Done |
+| EPIC-06 | US18 | Redirección a registro desde la landing page | Como usuario, deseo poder tener la opción de registrarme desde la landing page, para poder mejorar la comodidad del registro. | 0.7 | Milagros Tongo | Done |
+| EPIC-06 | US19 | Barra de navegación en la landing page | Como usuario, deseo poder navegar a través de las secciones de la landing page de manera sencilla con una barra de navegación. | 0.5 | Fabio Horna | Done |
+| EPIC-06 | US20 | Información sobre el producto | Como usuario, deseo poder ver la información sobre el producto desde la landing page, para hacer más sencilla mi comprensión del mismo. | 0.5 | Angello Sosa | Done |
+| EPIC-06 | US21 | Información sobre el equipo | Como usuario, deseo poder ver la información sobre el equipo de desarrollo del producto desde la landing page, para poder conocer más sobre la organización. | 2 | Jair Coraje | Done |
+| EPIC-02 | US03 | Buscar Transporte Cercano | Como usuario, quiero poder buscar vehículos disponibles cerca de mi ubicación actual para facilitar mi desplazamiento. | 2 | Christopher Lecca | Done |
+ 
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/sprint-backlog.png?raw=true)
 
@@ -1899,6 +1901,19 @@ Se utilizaron diferentes herramientas para lograr el despliegue de la landing pa
 
 - GitHub Pages: Utilizamos esta plataforma para desplegar la primera versión de nuestra landing page.
 
+#### 5.2.1.8 Software Deployment Evidence for Sprint Review
+
+El equipo optó por estructurar el desarrollo de la landing page en ramas individuales para abordar cada sección de manera independiente, lo que permitió optimizar el mantenimiento y la colaboración durante el sprint. Además, se siguieron las convenciones estándar de Gitflow, lo que resultó en la implementación de las ramas "develop" y "feature" correspondientes a cada funcionalidad específica. A continuación, se compartirá la tabla de colaboradores del repositorio de Github para identificar a cada miembro del equipo: 
+
+| Username (GitHub)  | Nombre                            |
+|---------------------|-----------------------------------|
+| MarianoAmes         | Ames Oviedo, Mariano José        |
+| JairCoraje          | Coraje Bayona, Jair Andreé       |
+| FabioHorna          | Horna Silva, Fabio Ernesto       |
+| ChrisByBits         | Lecca Choccare, Christopher Bryan|
+| AngelloSosa         | Sosa Colca, Angello Rodolfo      |
+| Mily27              | Tongo Alejando, Milagros Salet   |
+
 ### 5.2.2. Sprint 2 
 
 #### 5.2.2.1.Sprint Planning 2. 
@@ -1925,25 +1940,26 @@ A continuacion se muestra la planeación para nuestro segundo sprint
 
 En este segundo Sprint se trabajo todo lo que esta involucrado al desarrollo de la Web Application, concentrandonos en el desarrollo de las funcionalidades más importantes.
 
-|Sprint #|Sprint 2|||||||
-| :- | :- | :- | :- | :- | :- | :- | :- |
-|User Story|Work-Item / Task|||||||
-|Id|Title|Id|Title|Description|<p>Estimation</p><p>(Hours)</p>|Assigned To|Status (To-Do / In-Process/ To- Review/ Done)|
-|US01|Inicio de Sesión|T1|Inicio de Sesión|Desarrollo del login |2||Done|
-|US02|Registro de nuevo Usuario|T1|Registro de Usuario|Desarrollo del Sign Up|2||Done|
-|US03|Buscar Transporte Cercano|T2|Vista busqueda del transporte|Mostrar resultados de búsqueda en un mapa o lista|4||Done|
-|US04|Visualización de Disponibilidad|T3|Vista disponibilidad de vehiculos|Indicar disponibilidad de vehículos en la interfaz|4||Done|
-|US05|Reservar Transporte|T4|Vista formulario Reserva|Formulario para seleccionar vehículo, horario y realizar pago|5||Done|
-|US07|Calificación y Reseña|T5|Vista formulario Reseña|Formulario para escribir y publicar reseñas|5||Done|
-|US08|Opciones de pago|T11|Vista seccion pagos|Formulario de selección para añadir métodos de pago|6||Done|
-|US09|Historial de viajes|T6|Vista Historial de Viajes|Mostrar lista de viajes pasados con detalles|6||Done|
-|US10|Promociones y Descuentos|T7|Vista promociones en notificaciones|Mostrar notificaciones de promociones en la aplicación|3||<p></p><p>Done</p>|
-|US11|Soporte al cliente|T7|Vista soporte|Mostrar formulario para seleccionar el tipo de soporte y dejar su contacto|4||Done|
-|US13|Alertas de Seguridad|T8|Vista alertas en Notificaciones|Mostrar mensajes de seguridad|3||Done|
-|US12|Navegación por Mapa|T9|Vista mapa para la navegación|Integrar un mapa para visualizar la ubicación de vehículos y estaciones|6||Done|
-|US15|Paraderos de transporte publico|T9|Vista de los paraderos en el mapa|Mostrar información de paraderos en el mapa|6||In - Proccess|
-|US14|Personalización de preferencias|T10|Vista personalización de Usuario|Permitir al usuario modificar sus preferencias|4||In - Proccess|
-|US17|Reporte de problemas|T12|Vista seccion reports|Mostrar formulario para escribir y reportar su problema|4||Done|
+| Sprint # | Sprint 2 |            |          |           |            |           |           |
+| :-       | :-       | :-         | :-       | :-        | :-         | :-        | :-        |
+| User Story | Work-Item / Task |           |          |           |            |           |           |
+| Id       | Title    | Id         | Title    | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process/ To- Review/ Done) |
+| US01     | Inicio de Sesión | T1 | Inicio de Sesión | Desarrollo del login | 2 | Christopher Lecca | Done |
+| US02     | Registro de nuevo Usuario | T1 | Registro de Usuario | Desarrollo del Sign Up | 2 | Christopher Lecca | Done |
+| US03     | Buscar Transporte Cercano | T2 | Vista busqueda del transporte | Mostrar resultados de búsqueda en un mapa o lista | 4 | Mariano Ames | Done |
+| US04     | Visualización de Disponibilidad | T3 | Vista disponibilidad de vehiculos | Indicar disponibilidad de vehículos en la interfaz | 4 | Mariano Ames | Done |
+| US05     | Reservar Transporte | T4 | Vista formulario Reserva | Formulario para seleccionar vehículo, horario y realizar pago | 5 | Angello Sosa | Done |
+| US07     | Calificación y Reseña | T5 | Vista formulario Reseña | Formulario para escribir y publicar reseñas | 5 | Angello Sosa | Done |
+| US08     | Opciones de pago | T11 | Vista seccion pagos | Formulario de selección para añadir métodos de pago | 6 | Angello Sosa | Done |
+| US09     | Historial de viajes | T6 | Vista Historial de Viajes | Mostrar lista de viajes pasados con detalles | 6 | Mariano Ames | Done |
+| US10     | Promociones y Descuentos | T7 | Vista promociones en notificaciones | Mostrar notificaciones de promociones en la aplicación | 3 | Milagros Tongo | Done |
+| US11     | Soporte al cliente | T7 | Vista soporte | Mostrar formulario para seleccionar el tipo de soporte y dejar su contacto | 4 | Milagros Tongo | Done |
+| US13     | Alertas de Seguridad | T8 | Vista alertas en Notificaciones | Mostrar mensajes de seguridad | 3 | Milagros Tongo | Done |
+| US12     | Navegación por Mapa | T9 | Vista mapa para la navegación | Integrar un mapa para visualizar la ubicación de vehículos y estaciones | 6 | Christopher Lecca | Done |
+| US15     | Paraderos de transporte publico | T9 | Vista de los paraderos en el mapa | Mostrar información de paraderos en el mapa | 6 | Jair Coraje | Done |
+| US14     | Personalización de preferencias | T10 | Vista personalización de Usuario | Permitir al usuario modificar sus preferencias | 4 | Jair Coraje | Done |
+| US17     | Reporte de problemas | T12 | Vista seccion reports | Mostrar formulario para escribir y reportar su problema | 4 | Fabio Horna | Done |
+
 
 Enlace del Trello: https://trello.com/b/GY45OHfV/sprint-2-ecomove-application
 
@@ -2059,11 +2075,21 @@ Se utilizaron diferentes herramientas para lograr el despliegue de la landing pa
 
 #### 5.2.2.8. Team Collaboration Insights during sprint
 
+El equipo adoptó un enfoque de desarrollo por ramas para el frontend de la aplicación web, permitiendo la implementación de cada sección de forma independiente. Esta estrategia tiene como objetivo mejorar la gestión del mantenimiento y facilitar la colaboración durante el sprint. Además, se siguieron las convenciones estándar de GitFlow, lo que implica la utilización de ramas "develop" y "feature" para cada funcionalidad específica. 
+A continuación, se presenta una tabla que identifica a cada miembro del equipo en el repositorio de GitHub:
+
+| Username (GitHub)  | Nombre                            |
+|---------------------|-----------------------------------|
+| MarianoAmes         | Ames Oviedo, Mariano José        |
+| JairCoraje          | Coraje Bayona, Jair Andreé       |
+| FabioHorna          | Horna Silva, Fabio Ernesto       |
+| ChrisByBits         | Lecca Choccare, Christopher Bryan|
+| AngelloSosa         | Sosa Colca, Angello Rodolfo      |
+| Mily27              | Tongo Alejando, Milagros Salet   |
+
 A continuación se muestran los commits realizados por el equipo en el periodo de un mes:
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/team-collaboration.png?raw=true)
-
-
 
 # Anexos:
 
