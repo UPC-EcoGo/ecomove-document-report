@@ -1780,37 +1780,36 @@ Del mismo modo, en lo que respecta al proceso de despliegue del Landing Page, se
 
 A continuación se muestra la planeación del presente sprint
 
-| **Sprint Planning Background** ||
-|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Date**                       | 2024-04-05                                                                                                                                                                                                                                                 |
-| **Time**                       | 7:00 PM                                                                                                                                                                                                                                                    |
-| **Location**                   | Canal de voz de la plataforma de Discord                                                                                                                                                                                                                   |
-| **Prepared By**                | Fabio Horna Silva                                                                                                                                                                                                                                          |
-| **Attendees (to planning meeting)** | Ames Oviedo, Mariano José/ Coraje Bayona, Jair Andreé/ Lecca Choccare, Christopher Bryan/ Sosa Colca, Angello Rodolfo/ Tongo Alejandro, Milagros Salet                                                                                                     |
-| **Sprint 1 Review**            | **Equipo de desarrollo:** El equipo realizó las tareas asignadas exitosamente para la realización de una buena captura de los requisitos del producto software y su diseño e implementación.<br>**Landing Page:** Se realizaron los diseños wireframe, mockup y prototype para posterior a ello, establecer el código de la página web estática en HTML, CSS y JavaScript. |
-| **Sprint 1 Retrospective**     | **Oportunidades de mejora:** Se vio que hay que mejorar un poco en la organización del equipo en cuanto a completar las tareas asignadas e ir midiendo avances.                                                                                              |
-| **Sprint Goal & User Stories** | **Sprint 1 Goal**<br>**Objetivos:**<br>Investigación: Realizar el UX Research<br>**Métrica:** Realización y demostración de los hallazgos.<br><br>Diseño: Realizar diseños wireframe, mockup y prototype de la Landing Page.<br>**Métrica:** Creación exitosa de mockups interactivos para al menos el 80%.<br><br>Programación: Codificar Landing Page en los lenguajes de HTML, CSS y JavaScript.<br>**Métrica:** Corrección exitosa del 100% del código a nivel de legibilidad.<br><br>Despliegue: Desplegar la solución estática<br>**Métrica:** Verificación de que la Landing Page se ha desplegado correctamente en el entorno de producción. |
-| **Sprint 1 Velocity**          | **16**                                                                                                                                                                                                                                                      |
-| **Sum of Story Points**        | **16**                                                                                                                                                                                                                                                      |
-
-
+|**Sprint #**|Sprint 1|
+| :- | :- |
+|**Sprint Planning Background**||
+|**Date**|2024-04-05|
+|**Time**|07:00 PM|
+|**Location**|Canal de Voz de la plataforma Discord|
+|**Prepared By**|Fabio Horna Silva|
+|**Attendees (to planning meeting)**|Ames Oviedo, Mariano José/ Coraje Bayona, Jair Andreé/ Lecca Choccare, Christopher Bryan/ Sosa Colca, Angello Rodolfo/ Tongo Alejandro, Milagros Salet|
+|**Sprint 1 Review Summary**|**Equipo de desarrollo:** El equipo realizó las tareas asignadas exitosamente para la realización de una buena captura de los requisitos del producto software y su diseño e implementación.<br>**Landing Page:** Se realizaron los diseños wireframe, mockup y prototype para posterior a ello, establecer el código de la página web estática en HTML, CSS y JavaScript.|
+|**Sprint 1 Retrospective Summary**|Oportunidades de mejora: Se vio que hay que mejorar un poco en la organización del equipo en cuanto a completar las tareas asignadas e ir midiendo avances.|
+|**Sprint Goal & User Stories**||
+|**Sprint 1 Goal**|**Objetivos:**<br>Investigación: Realizar el UX Research<br>**Métrica:** Realización y demostración de los hallazgos.<br><br>Diseño: Realizar diseños wireframe, mockup y prototype de la Landing Page.<br>**Métrica:** Creación exitosa de mockups interactivos para al menos el 80%.<br><br>Programación: Codificar Landing Page en los lenguajes de HTML, CSS y JavaScript.<br>**Métrica:** Corrección exitosa del 100% del código a nivel de legibilidad.<br><br>Despliegue: Desplegar la solución estática<br>**Métrica:** Verificación de que la Landing Page se ha desplegado correctamente en el entorno de producción.|
+|**Sprint 1 Velocity**|16|
+|**Sum of Story Points**|16|
 
 #### 5.2.1.2. Sprint Backlog 1.
 
 Se muestran las tareas que se tuvieron en cuenta para desarrollar en el presente sprint y se adjunta un link de trello con el tablero de las mismas.
 
 | Sprint # | Sprint 1 |           |           |           |           |           |           |
-| -------- | -------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| User Story | Work-Item / Task |           |           |           |                      |           |
-| Épica ID | User Story ID | Title | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process / To-Review / Done) |
-| EPIC-01 | US01 | Inicio de sesión | Como usuario quiero poder ingresar al sitio web con mi nombre de usuario y contraseña para visualizar la información con mi cuenta. | 2 | Christopher Lecca | Done |
-| EPIC-01 | US02 | Registro de nuevo usuario | Como usuario nuevo, quiero poder registrarme en la aplicación para acceder a ella. | 2 | Mariano Ames | Done |
-| EPIC-06 | US18 | Redirección a registro desde la landing page | Como usuario, deseo poder tener la opción de registrarme desde la landing page, para poder mejorar la comodidad del registro. | 0.7 | Milagros Tongo | Done |
-| EPIC-06 | US19 | Barra de navegación en la landing page | Como usuario, deseo poder navegar a través de las secciones de la landing page de manera sencilla con una barra de navegación. | 0.5 | Fabio Horna | Done |
-| EPIC-06 | US20 | Información sobre el producto | Como usuario, deseo poder ver la información sobre el producto desde la landing page, para hacer más sencilla mi comprensión del mismo. | 0.5 | Angello Sosa | Done |
-| EPIC-06 | US21 | Información sobre el equipo | Como usuario, deseo poder ver la información sobre el equipo de desarrollo del producto desde la landing page, para poder conocer más sobre la organización. | 2 | Jair Coraje | Done |
-| EPIC-02 | US03 | Buscar Transporte Cercano | Como usuario, quiero poder buscar vehículos disponibles cerca de mi ubicación actual para facilitar mi desplazamiento. | 2 | Christopher Lecca | Done |
- 
+| :-       | :-       | :-         | :-       | :-        | :-         | :-        | :-        |
+| User Story | Work-Item / Task |           |          |           |            |           |           |
+| Id       | Title    | Id         | Title    | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process/ To- Review/ Done) |
+| US01     | Inico de sesión | W01 | Inico de sesión |Implementar el inicio de sesión para el usuario | 7 | Christopher Lecca | Done |
+| US02     | Registro de nuevo usuario | W02 | Registro de nuevo usuario |Implementar elregistro del usuario | 7 | Mariano Ames | Done |
+| US19     | Barra de navegación en la landing page	 | W03 | Barra de navegación | Implementación de la navbar | 4 | Jair Coraje | Done |
+| US20 | Información sobre el producto | W04 | Información del producto |Implementar la vista de la información del producto | 5 | Milagros Tongo | Done |
+| US21 | Información sobre el equipo | W05 | Información sobre el equipo | Implementar la vista de la información del equipo | 5 | Fabio Horna | Done |
+| US18 | Redirección a registro desde la landing page | W06 | Redirección a registro desde la landing page | Configurar la ruta para ponder acceder al inicio de  sesión desde la landing page | 4 | Angello Sosa | Done |
+| US03 | Buscar transporte cercano | W07 | Buscar transporte cercano | Implementar la vista donde el usuario pueda buscar vehículos disponibles cerca de su ubicación actual| 8 | Christopher Lecca | Done |
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/sprint-backlog.png?raw=true)
 
@@ -1820,20 +1819,14 @@ Enlace: https://trello.com/invite/b/mbzjoFQL/ATTIbf16007f71639fc082291cd7f6a4442
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited On |
 |------------|--------|-----------|----------------|---------------------|-------------|
-|ecomove-document-report|main|6185956|Initial commit||13/04/2024|
-|ecomove-document-report|main|f59de67|docs: add cover page to the document report||13/04/2024|
-|ecomove-document-report|main|13bd21f|docs: add document report structure||13/04/2024|
-|ecomove-document-report|main|31b4788|docs: add document report structure||13/04/2024|
-|ecomove-document-report|main|99bb4e7|docs: add startup profile for ecogo in chapter 1||14/04/2024|
-|ecomove-document-report|main|f223f9d|docs: add competitors section||14/04/2024|
-|ecomove-document-report|main|af11e80|docs: add interviews section|add interviews section|14/04/2024|
-|ecomove-document-report|main|088ae4a|docs: add needfinding||14/04/2024|
-|ecomove-document-report|main|58e17c9|docs: add user task||14/04/2024|
-|ecomove-document-report|main|9c2b192|docs: add interview analysis and as is scenario||14/04/2024|
-|ecomove-document-report|main|3a7c082|docs: add-requirements-specification-and-product-design||14/04/2024|
-|ecomove-document-report|main|8ea87a7|docs: add software-structure||14/04/2024|
-|ecomove-document-report|main|9e011ca|docs: add prototyping||14/04/2024|
-|ecomove-document-report|main|fc86523|docs: add sprint backlog||14/04/2024|
+|ecomove-landing-page|main|5fa0e0a|Initial commit||13/04/2024|
+|ecomove-landing-page|main|0d4c62c|fix: repare workflow||13/04/2024|
+|ecomove-landing-page|main|7c7f562|fix: update workflow||13/04/2024|
+|ecomove-landing-page|main|823cbff|fix: update logo||13/04/2024|
+|ecomove-landing-page|main|0fb9f97|feat: join landing page with app web||14/04/2024|
+|ecomove-landing-page|main|aa11ec8|fix: update workflow||14/04/2024|
+|ecomove-landing-page|main|4da0a2e|feat: update images||14/04/2024|
+|ecomove-landing-page|main|49c5d19|fix: update images||14/04/2024|
 
 #### 5.2.1.4 Testing Evidence for Sprint Review
 
