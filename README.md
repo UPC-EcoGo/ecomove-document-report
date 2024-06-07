@@ -1937,20 +1937,20 @@ En este segundo Sprint se trabajo todo lo que esta involucrado al desarrollo de 
 | :-       | :-       | :-         | :-       | :-        | :-         | :-        | :-        |
 | User Story | Work-Item / Task |           |          |           |            |           |           |
 | Id       | Title    | Id         | Title    | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process/ To- Review/ Done) |
-| US01     | Inicio de Sesión | T1 | Inicio de Sesión | Desarrollo del login | 2 | Christopher Lecca | Done |
-| US02     | Registro de nuevo Usuario | T1 | Registro de Usuario | Desarrollo del Sign Up | 2 | Christopher Lecca | Done |
-| US03     | Buscar Transporte Cercano | T2 | Vista busqueda del transporte | Mostrar resultados de búsqueda en un mapa o lista | 4 | Mariano Ames | Done |
-| US04     | Visualización de Disponibilidad | T3 | Vista disponibilidad de vehiculos | Indicar disponibilidad de vehículos en la interfaz | 4 | Mariano Ames | Done |
+| US01     | Inicio de Sesión | T1 | Inicio de Sesión | Desarrollo del login | 6 | Christopher Lecca | Done |
+| US02     | Registro de nuevo Usuario | T1 | Registro de Usuario | Desarrollo del Sign Up | 6 | Christopher Lecca | Done |
+| US03     | Buscar Transporte Cercano | T2 | Vista busqueda del transporte | Mostrar resultados de búsqueda en un mapa o lista | 6 | Mariano Ames | Done |
+| US04     | Visualización de Disponibilidad | T3 | Vista disponibilidad de vehiculos | Indicar disponibilidad de vehículos en la interfaz | 5 | Mariano Ames | Done |
 | US05     | Reservar Transporte | T4 | Vista formulario Reserva | Formulario para seleccionar vehículo, horario y realizar pago | 5 | Angello Sosa | Done |
 | US07     | Calificación y Reseña | T5 | Vista formulario Reseña | Formulario para escribir y publicar reseñas | 5 | Angello Sosa | Done |
-| US08     | Opciones de pago | T11 | Vista seccion pagos | Formulario de selección para añadir métodos de pago | 6 | Angello Sosa | Done |
+| US08     | Opciones de pago | T11 | Vista seccion pagos | Formulario de selección para añadir métodos de pago | 4 | Angello Sosa | Done |
 | US09     | Historial de viajes | T6 | Vista Historial de Viajes | Mostrar lista de viajes pasados con detalles | 6 | Mariano Ames | Done |
-| US10     | Promociones y Descuentos | T7 | Vista promociones en notificaciones | Mostrar notificaciones de promociones en la aplicación | 3 | Milagros Tongo | Done |
-| US11     | Soporte al cliente | T7 | Vista soporte | Mostrar formulario para seleccionar el tipo de soporte y dejar su contacto | 4 | Milagros Tongo | Done |
-| US13     | Alertas de Seguridad | T8 | Vista alertas en Notificaciones | Mostrar mensajes de seguridad | 3 | Milagros Tongo | Done |
-| US12     | Navegación por Mapa | T9 | Vista mapa para la navegación | Integrar un mapa para visualizar la ubicación de vehículos y estaciones | 6 | Christopher Lecca | Done |
+| US10     | Promociones y Descuentos | T7 | Vista promociones en notificaciones | Mostrar notificaciones de promociones en la aplicación | 4 | Milagros Tongo | Done |
+| US11     | Soporte al cliente | T7 | Vista soporte | Mostrar sesciones detalladas de soporte | 4 | Milagros Tongo | Done |
+| US13     | Alertas de Seguridad | T8 | Vista detalladas de alertas | Mostrar mensajes de seguridad | 4 | Milagros Tongo | Done |
+| US12     | Navegación por Mapa | T9 | Vista mapa para la navegación | Integrar un mapa para visualizar la ubicación de vehículos y estaciones | 7 | Christopher Lecca | Done |
 | US15     | Paraderos de transporte publico | T9 | Vista de los paraderos en el mapa | Mostrar información de paraderos en el mapa | 6 | Jair Coraje | Done |
-| US14     | Personalización de preferencias | T10 | Vista personalización de Usuario | Permitir al usuario modificar sus preferencias | 4 | Jair Coraje | Done |
+| US14     | Personalización de preferencias | T10 | Vista personalización de Usuario | Permitir al usuario modificar sus preferencias | 5 | Jair Coraje | Done |
 | US17     | Reporte de problemas | T12 | Vista seccion reports | Mostrar formulario para escribir y reportar su problema | 4 | Fabio Horna | Done |
 
 
@@ -2083,6 +2083,46 @@ A continuación, se presenta una tabla que identifica a cada miembro del equipo 
 A continuación se muestran los commits realizados por el equipo en el periodo de un mes:
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/team-collaboration.png?raw=true)
+
+## 5.3. Validation Interviews
+
+### 5.3.1 Diseño de Entrevistas
+
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de validar nuestra propuesta de Web App y Landing Page.
+
+**Información general del entrevistado**
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Cuál es su ocupación?
+4. Actualmente, ¿en qué lugar reside?
+
+**Segmento 1: Estudiantes universitarios urbanos**
+
+1. ¿Qué te pareció la primera impresión de nuestra landing page?
+2. ¿Fue fácil entender la propuesta de valor de nuestro servicio desde la landing page?
+3. ¿Cómo fue tu experiencia al navegar por nuestra web app? ¿Encontraste fácilmente la información que buscabas?
+4. ¿Tuviste algún problema al registrarte y comenzar a usar la aplicación?
+5. ¿Qué tan fácil te resultó alquilar una bicicleta o scooter eléctrico a través de nuestra aplicación web?
+6. ¿Qué opinas de la sugerencia de vehículos disponibles según en lugar donde te encuentres?
+7. ¿Qué tan importante es para ti que en nuestra aplicación web cuentes con un resgistro o historial de los viajes que realices?
+8. ¿Qué te gustó más y qué menos de tu experiencia usando nuestra aplicación web?
+
+**Segmento 2: Ciudadanos en busca de movilidad rápida y evitando el tráfico**
+
+1. ¿Qué te pareció la primera impresión de nuestra landing page?
+2. ¿Encontraste toda la información que necesitabas sobre nuestros servicios en la landing page?
+3. ¿Cómo calificarías la facilidad de uso de nuestra web app para alquilar bicicletas o scooters eléctricos?
+4. ¿Pudiste encontrar rápidamente la información que necesitabas para iniciar tu viaje?
+5. ¿Qué tan rápido y conveniente fue el proceso de alquiler de una bicicleta o scooter eléctrico?
+6. ¿Encontraste suficientes opciones de vehículos disponibles que te permitieran evitar el tráfico?
+7. ¿Cómo compararías la eficiencia de nuestro servicio con tu medio de transporte habitual durante las horas pico?
+8. ¿Qué aspectos de nuestra web app y servicio te resultaron más útiles y cuáles menos?
+
+### 5.3.2. Registro de entrevistas
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
 
 # Anexos:
 
