@@ -2112,12 +2112,12 @@ Se muestran las tareas que se tuvieron en cuenta para desarrollar en el presente
 | User Story | Work-Item / Task |           |          |           |            |           |           |
 | Id       | Title    | Id         | Title    | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process/ To- Review/ Done) |
 | US01     | Inico de sesión | W22 | User Management Bounded Context |Implementar el inicio de sesión a traves del API | 7 | Christopher Lecca | Done |
-| US05     | Reserva de trasporte | W23 | Booking Reservation Bounded Context |Implementar la reserva de un vehículo a travez del API | 7 | Mariano Ames | Done |
+| US05     | Reserva de trasporte | W23 | Booking Reservation Bounded Context |Implementar la reserva de un vehículo a traves del API | 7 | Mariano Ames | Done |
 | US08     | Opciones de pago | W24 | Payment Bounded Context | Implementar la funcion de guardar los datos de la tarjeta a traves del API | 5 | Angello Sosa | Done |
-| US04     | Visualización de disponibilidad de los vehículos | W25 | Vehicle Management Bounded Context | Implementar que a traves del API se mustre la disponibilidad | 6 | Christopher Lecca | Done |
+| US04     | Visualización de disponibilidad de los vehículos | W25 | Vehicle Management Bounded Context | Implementar que a traves del API se muestre la disponibilidad | 6 | Christopher Lecca | Done |
 | US09     | Historial de revervas | W26 | Booking Reservation Bounded Context |Registrar cada reserva y mostrarla según el id el usuario | 7 | Mariano Ames | Done |
 | US17     | Soporte al cliente | W27 | Customer Support Bounded Context | Implementar la funcion de guardar los problemas reportaos a traves del API  | 5 | Milagros Tongo | Done |
-| US24     | Integración con servicio de geolocalización | W28 | Vehicle Management Bounded Context | Integrar la API de Google Maps para obtener la ubicación actual del usuario y mostrar los vehículos cercanos | 6 | Christopher Lecca | Done |
+| US24     | Integración con servicio de geolocalización | W28 | Vehicle Management Bounded Context | La API debe devolver las coordenads del vehículo para que se de el servicio de geolocalización | 6 | Christopher Lecca | Done |
 
 Enlace de trello: https://trello.com/invite/b/5IyyBMOq/ATTIabd0963bed238c10f1c16534bc4e2077C7939B51/sprint-3-ecomove-backend
 
