@@ -2120,9 +2120,22 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 8. ¿Qué aspectos de nuestra web app y servicio te resultaron más útiles y cuáles menos?
 
 ### 5.3.2. Registro de entrevistas
+
+**Entrevista 2**
+
+Entrevistador: Milagros Tongo
+
+Entrevistado: Jeyson Tongo
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/milagros-interview3.png?raw=true)
+
+La entrevista se centró en validar la propuesta de la Landing Page y la aplicación web de alquiler de bicicletas eléctricas. El entrevistado encontró la interfaz amigable y la información concisa y fácilmente accesible. Destacó la intuitividad y rapidez de la reserva, la utilidad de la localización en tiempo real de los vehículos y la diversidad de opciones disponibles. Considera el servicio eficiente, especialmente en horas pico, y sugirió mejoras como una pestaña para reseñas y recomendaciones, y un ícono más representativo para los métodos de pago.
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 ## 5.4. Video About-the-Product
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/about-the-product.png?raw=true)
+
 
 # Anexos:
 
