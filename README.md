@@ -2190,6 +2190,101 @@ La entrevista se centró en validar la propuesta de la Landing Page y la aplicac
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+**CLIENTE(S)**: Matias Munives, Maverick Mendoza, Jeyson Tongo, Fernando Salgado, Lilian Luara, Luis García
+
+### TAREAS A EVALUAR:
+
+1. Registro de un usuario nuevo
+2. Reserva de un vehículo
+3. Agregación de cada reserva al historial
+4. Publicar una reseña
+5. Reportar un problema
+6. Mostrar métodos de pago
+7. Activar y desactivar notificaciones
+8. Mostrar el mapa con los vehículos cercanos
+9. Insertar datos de tarjeta
+---
+
+### ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+### TABLA RESUMEN:
+
+|  | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|---|----------|---------------------|---------------------------------|
+| 1 | No hay una opción/botón que redirige a publicar una reseña | 3 | Usability: Libertad y control del usuario |
+| 2 | No hay una opción/botón que redirige a reportar algún problema | 3 | Usability: Libertad y control del usuario |
+| 3 | El ícono que muestra los medio de pago no representa esa funcionalidad | 2 | Usability: Correspondencia entre el sistema y el mundo real |
+| 4 | No existe una vista donde se pueda activar y desactivar las notificaciones | 3 | Usability: Libertad y control del usuario |
+| 5 | No se muestra la vista con un formulario donde se inserte los datos de la tarjeta | 3 | Usability: Visibilidad del estado del sistema |
+
+---
+
+### DESCRIPCIÓN DE PROBLEMAS:
+
+#### Problema #1: No hay una opción/botón que redirige a publicar una reseña
+**Severidad**: 3  
+**Heurística violada**: Usability - Libertad y control de usuario  
+**Problema**: No se encuentra de manera visible en la aplicación web un botón que permite la redirección para poder publicar una reseña sobre el producto brindado.
+
+**Recomendación**: Se recomienda añadir un botón que permite la correcta visualización del apartado de publicación de reseñas así mismo que el usuario pueda publicar su respectiva reseña con una calificación del servicio.
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/heuristic_1.png?raw=true)
+
+---
+
+#### Problema #2: No hay una opción/botón que redirige a reportar algún problema
+**Severidad**: 3  
+**Heurística violada**: Usability: Libertad y control del usuario  
+**Problema**: No se encuentra dispone alguna opción o botón que permita redirigir a la página a algún apartado donde se puedan reportar problemas relacionados al uso de la aplicación web.
+
+**Recomendación**: La mejor solución sería crear un apartado donde el usuario pueda escribir y publicar sus reportes sobre errores de la app web. Así mismo colocar un botón u opción que redirige a la misma.
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/heuristic_2.png?raw=true)
+
+---
+
+#### Problema #3: El ícono que muestra los medio de pago no representa esa funcionalidad 
+**Severidad**: 2  
+**Heurística violada**: Usability: Correspondencia entre el sistema y el mundo real  
+**Problema**: El ícono que muestra los medios de pago no representa claramente esa funcionalidad esto puede causar confusión y hacer que los usuarios no entiendan cómo interactuar con el sistema para realizar los pagos.
+
+**Recomendación**: Es necesario cambiar el ícono por uno que sea más representativo para los medios de pago.
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/heuristic_3.png?raw=true)
+
+---
+
+#### Problema #4: No existe una vista donde se pueda activar y desactivar las notificaciones
+**Severidad**: 3  
+**Heurística violada**: Usability: Libertad y control del usuario  
+**Problema**: No se muestra un apartado donde el usuario pueda activar o desactivar las notificaciones según sus preferencias. Esto puede resultar un poco frustrante ya que los usuarios pueden recibir notificaciones no deseadas o perder notificaciones importantes.
+
+**Recomendación**: Crear una vista para la gestión de notificaciones donde los usuarios puedan fácilmente activar y desactivar las notificaciones.
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/heuristic_4.png?raw=true)
+
+---
+
+#### Problema #5: No se muestra la vista con un formulario donde se inserte los datos de la tarjeta
+**Severidad**: 3  
+**Heurística violada**: Usability: Visibilidad del estado del sistema  
+**Problema**: No se encuentra disponible alguna sección donde el usuario pueda colocar los datos de su tarjeta para poder realizar el pago por el servicio de la aplicación. Por ello el usuario no podría hacer uso del servicio de alquiler de vehículos siendo una falla importante a resolver.
+
+**Recomendación**: Darle la máxima prioridad a este problema y solucionarlo siendo la opción más viable creando una sección donde el usuario pueda ingresar los datos de su tarjeta que se validen los datos ingresados por el usuario y por último que sea realice la transacción correspondiente.
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/heuristic_5.png?raw=true)
+
 ## 5.4. Video About-the-Product
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/about-the-product.png?raw=true)
 
