@@ -1304,7 +1304,18 @@ En esta sección, se describirán los escenarios "To-Be" correspondientes a los 
         <strong>Entonces</strong> se le daran los datos necesarios al desarrollador<br><br>
         </td>
       <td>EP07</td>
-    </tr>
+    <tr> <!--US29-->
+      <td>US29</td>
+      <td>Historial de transacciones</td>
+      <td>Como desarrollador, quiero obtener el historial del usuario a traves del API.</td>
+        <td>
+        <strong>Escenario 1:</strong><br>
+        <strong>Dado que</strong> el desarrollador quiera obtener la lista de transacciónes de un usuario <br>
+        <strong>Y</strong> el servidor se encuentre en linea<br> 
+        <strong>Cuando</strong> el desarrollador utilize los enpoints <br>
+        <strong>Entonces</strong> La API debe proporcionar un endpoint que devuelva el historial completo del usuario.<br><br>
+        </td>
+      <td>EP07</td>
   </tbody>
 </table>
 
@@ -1517,7 +1528,6 @@ Enlace: https://www.figma.com/file/Q6ejeaBvXWVHvAYNA2smOs/EcoMove-Mockups?type=d
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/mockup-web.png?raw=true)
 
 ### 4.4.3. Web Applications User Flow Diagrams. 
-Enlace: https://overflow.io/s/4P9PM2G9
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/2.Board%202.png?raw=true)
 
@@ -2146,7 +2156,7 @@ Se muestran las tareas que se tuvieron en cuenta para desarrollar en el presente
 | Id       | Title    | Id         | Title    | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process/ To- Review/ Done) |
 | US01     | Inico de sesión | W22 | User Management Bounded Context |Implementar el inicio de sesión a traves del API | 7 | Christopher Lecca | Done |
 | US05     | Reserva de trasporte | W23 | Booking Reservation Bounded Context |Implementar la reserva de un vehículo a traves del API | 7 | Mariano Ames | Done |
-| US08     | Opciones de pago | W24 | Payment Bounded Context | Implementar la funcion de guardar los datos de la tarjeta a traves del API | 5 | Angello Sosa | Done |
+| US29     | Historial de transacciones | W24 | Payment Bounded Context | Implementar la funcion que devuelva el historial de transacciones traves del API | 5 | Angello Sosa | Done |
 | US04     | Visualización de disponibilidad de los vehículos | W25 | Vehicle Management Bounded Context | Implementar que a traves del API se muestre la disponibilidad | 6 | Christopher Lecca | Done |
 | US09     | Historial de revervas | W26 | Booking Reservation Bounded Context |Registrar cada reserva y mostrarla según el id el usuario | 7 | Mariano Ames | Done |
 | US17     | Soporte al cliente | W27 | Customer Support Bounded Context | Implementar la funcion de guardar los problemas reportaos a traves del API  | 5 | Milagros Tongo | Done |
