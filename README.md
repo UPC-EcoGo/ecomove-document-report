@@ -2169,9 +2169,27 @@ Enlace de trello: https://trello.com/invite/b/5IyyBMOq/ATTIabd0963bed238c10f1c16
 
 #### 5.2.3.3. Development Evidence for Sprint Review. 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review. 
-#### 5.2.3.5. Execution Evidence for Sprint Review. 
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+En el presente sprint se logro completar los endpoints de manera exitosa, se puede encontrar en el siguiente enlace: http://localhost:8080/swagger-ui/index.html#/
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/evidencice-1.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/evidencice-2.png?raw=true)
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+
+Para el sprint actual, se ha desarrollado el API de la aplicación web utilizando diversas herramientas. No obstante, el despliegue del API no está incluido en el alcance de este sprint.
+
+Se emplearon las siguientes herramientas:
+
+* Git: Utilizamos este sistema de control de versiones para trabajar de manera colaborativa y llevar un seguimiento de las diferentes versiones de la aplicación web en un repositorio remoto.
+* Gitflow: Implementamos este flujo de trabajo colaborativo para dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilitó la colaboración en el desarrollo.
+* GitHub: Utilizamos esta plataforma para crear nuestro repositorio, permitiéndonos almacenar y gestionar las distintas versiones de nuestro proyecto.
+* Swagger UI: Esta herramienta nos sirvió para probar y documentar nuestra API de manera efectiva.
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
 
 ## 5.3. Validation Interviews
