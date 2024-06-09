@@ -1519,7 +1519,40 @@ Enlace: https://www.figma.com/file/Q6ejeaBvXWVHvAYNA2smOs/EcoMove-Mockups?type=d
 ### 4.4.3. Web Applications User Flow Diagrams. 
 Enlace: https://overflow.io/s/4P9PM2G9
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/userflow.PNG?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/2.Board%202.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/3.Board%203.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/4.Board%204.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/5.Board%205.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/6.Board%206.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/7.Board%207.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/8.Board%208.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/9.Board%209.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/10.Board%2010.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/11.Board%2011.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/12.Board%2012.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/13.Board%2013.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/14.Board%2014.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/15.Board%2015.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/16.Board%2016.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/17.Board%2017.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/18.Board%2018.png?raw=true)
+
 
 ## 4.5. Web Applications Prototyping.
 
