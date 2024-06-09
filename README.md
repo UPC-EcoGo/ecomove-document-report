@@ -278,7 +278,13 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
       <br>
       Mariano Ames: Desarrolle las diferentes vistas que se planearon en el anterior avance del proyecto. Para esto fue necesaria una comunidad clara con el equipo, lo que nos ayudo a mejorar la competencia de comunicación oral
       <br><br>TB3: <br>
+  <br>Christopher Lecca: Me esforcé por comunicar mis ideas y resultados de manera clara y precisa, utilizando un lenguaje que fuera accesible y comprensible para una amplia variedad de audiencias. Esto incluyó tanto a ingenieros con conocimientos técnicos especializados como a directivos y gerentes de diversas áreas que pueden no tener el mismo nivel de familiaridad con los detalles técnicos. Asegurándome de adaptar mi comunicación a diferentes niveles de comprensión, logré que todos los involucrados pudieran entender el progreso y los logros del proyecto.
+        <br>
       <br>Mariano Ames: En la tercera entrega pude comunicar con mi equipo las diferentes necesidades que ibamos a cubrir en el tercer avance de nuestro proyecto, me encargue de la implementación de diferentes puntos necesarios para la aplicación y pude comunicar a mi equipo de manera acertada el como termine mis avances, este proceso me permitio mejorar mi comunicación sobre el tema.
+        <br>
+  <br>Angello Sosa: En esta tercera entrega, apoyé a mi equipo en la organización del proyecto. También fui responsable de verificar la estructura del proyecto y de su revisión y mejora continua. Este proceso me ayudó a mejorar mi capacidad para trabajar en equipo.
+        <br>
+  <br>Milagros Tongo: En esta tercera entrega presenté de manera objetiva las mejoras continuas del reporte, los avances en el frontend y el desarrollo del contexto de soporte al cliente (customer support) utilizando la arquitectura de Domain-Driven Design (DDD). Adapté mi comunicación oral a audiencias de diversas especialidades y niveles jerárquicos, asegurando la comprensión y recepción positiva de mis presentaciones.
         <br>
       </td>
       <td>
@@ -307,7 +313,14 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
         Milagros Tongo: Me encargué de crear y diseñar varias páginas web específicas para diferentes aspectos del proyecto. Esto incluyó la creación de páginas de confirmación, páginas de información soporte y otras páginas relevantes según las necesidades del proyecto. Cada página fue diseñada con un enfoque en la usabilidad, la accesibilidad y la estética para asegurar una experiencia de usuario óptima.
         <br>
         <br><br>TB3: <br>
+        <br>Christopher Lecca: En esta tercera entrega, me encargué de realizar la documentación respectiva para cada uno de los endpoints respectivos a mi bounded context designado a través de las tasks del backlog. Además, durante la reunión de planificación de este sprint, comuniqué de manera precisa las metas y expectativas del sprint, garantizando que todos en el equipo tuvieran una comprensión común.
+        <br>
         <br>Mariano Ames: En esta tercera entrega ayude en la implementación de los web services de nuestro proyecto. Con ayuda de mi equipo pudimos realizar todos los endpoints necesarios en nuestra aplicación, logrando asi mejorar mi capacidad de trabajo colaborativo y mejorando asi mi capacidad de comunicación y planificación junto a mi equipo.
+        <br>
+        <br>Angello Sosa: En esta tercera entrega, apoyé a mi equipo en la organización del proyecto. También fui responsable de verificar la estructura del proyecto y de su revisión y mejora continua. Este proceso me ayudó a mejorar mi capacidad para trabajar en equipo.
+        <br>
+        <br>Milagros Tongo: En esta tercera entrega documenté y comuniqué por escrito las mejoras en el reporte, el desarrollo del frontend y el backend en el contexto de customer support utilizando la arquitectura de Domain-Driven Design (DDD) con claridad y objetividad. Mis reportes y documentación técnica fueron adaptados para ser comprensibles para audiencias con diferentes niveles de conocimiento técnico, garantizando que todos los involucrados pudieran seguir y entender los avances del proyecto.
+        <br>
         <br>
         <br>
       </td>
@@ -2200,9 +2213,27 @@ Enlace de trello: https://trello.com/invite/b/5IyyBMOq/ATTIabd0963bed238c10f1c16
 |ecomove-web-service|develop|c50d98a|feat: add resources to booking_reservatios interface layer|-|09/06/2024|
 |ecomove-web-service|develop|5310495|feat: add transform resources to booking_reservation interface layer|-|09/06/2024|
 |ecomove-web-service|develop|4713a97|feat:add controller to booking_reservation interface layer|-|09/06/2024|
+|ecomove-web-service|develop|868d718|feat: add payment context and domain layer|-|09/06/2024|
+|ecomove-web-service|develop|6126a53|feat: add payment commands|-|09/06/2024|
+|ecomove-web-service|develop|5377cfb|feat: add payment queries|-|09/06/2024|
+|ecomove-web-service|develop|bbd81bd|feat: add payment interfaces|-|09/06/2024|
 
-#### 5.2.3.4. Testing Suite Evidence for Sprint Review. 
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|ecomove-acceptance-tests|main|1cb086a|feat: create eighteenth feature|-|09/06/2024|
+|ecomove-acceptance-tests|main|8495f75|feat: create nineteenth featue|-|09/06/2024|
+|ecomove-acceptance-tests|main|0f19d11|feat: create twentieth feature|-|
+|ecomove-acceptance-tests|main|efc6af8|feat: create twenty-first feature|-|09/06/2024|
+|ecomove-acceptance-tests|main|79fdbdb|feat: create twenty-second feature|-|09/06/2024|
+
 #### 5.2.3.5. Execution Evidence for Sprint Review.
+
+https://open-ecomove.netlify.app/
+
+https://open-ecomove.netlify.app/
+
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
@@ -2224,6 +2255,10 @@ Se emplearon las siguientes herramientas:
 * Swagger UI: Esta herramienta nos sirvió para probar y documentar nuestra API de manera efectiva.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
+
+En la siguiente imágen se muentra el registro de los commits de cada integrante: 
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/team_collabotation.png?raw=true)
 
 ## 5.3. Validation Interviews
 
