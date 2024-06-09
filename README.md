@@ -277,6 +277,9 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
       </br>
       <br>
       Mariano Ames: Desarrolle las diferentes vistas que se planearon en el anterior avance del proyecto. Para esto fue necesaria una comunidad clara con el equipo, lo que nos ayudo a mejorar la competencia de comunicación oral
+      <br><br>TB3: <br>
+      <br>Mariano Ames: En la tercera entrega pude comunicar con mi equipo las diferentes necesidades que ibamos a cubrir en el tercer avance de nuestro proyecto, me encargue de la implementación de diferentes puntos necesarios para la aplicación y pude comunicar a mi equipo de manera acertada el como termine mis avances, este proceso me permitio mejorar mi comunicación sobre el tema.
+        <br>
       </td>
       <td>
       Tras un exhaustivo análisis de las necesidades de movilidad urbana, EcoMove se erige como una solución innovadora y oportuna para abordar los desafíos ambientales y de tráfico en entornos urbanos. Al ofrecer una plataforma integral que promueve el uso compartido de vehículos eléctricos, EcoMove no solo ofrece una alternativa sostenible al transporte convencional, sino que también fomenta un estilo de vida urbano más eficiente y respetuoso con el medio ambiente. <br>
@@ -302,6 +305,10 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
         <br>
         <br>
         Milagros Tongo: Me encargué de crear y diseñar varias páginas web específicas para diferentes aspectos del proyecto. Esto incluyó la creación de páginas de confirmación, páginas de información soporte y otras páginas relevantes según las necesidades del proyecto. Cada página fue diseñada con un enfoque en la usabilidad, la accesibilidad y la estética para asegurar una experiencia de usuario óptima.
+        <br>
+        <br><br>TB3: <br>
+        <br>Mariano Ames: En esta tercera entrega ayude en la implementación de los web services de nuestro proyecto. Con ayuda de mi equipo pudimos realizar todos los endpoints necesarios en nuestra aplicación, logrando asi mejorar mi capacidad de trabajo colaborativo y mejorando asi mi capacidad de comunicación y planificación junto a mi equipo.
+        <br>
         <br>
       </td>
       <td> 
