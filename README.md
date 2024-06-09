@@ -2168,6 +2168,10 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 ### 5.3.2. Registro de entrevistas
 
+Enlace de todas las entrevistas: 
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EWAQOc2lcjNOl4_7MBqYPbsB-cWZgflL5NnRFv_G2A_Fog?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=echrNJ
+
 **Entrevista 1**
 
 Entrevistador: Angello Sosa
@@ -2175,6 +2179,8 @@ Entrevistador: Angello Sosa
 Entrevistado: Maverick Mendoza
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/angello-interview3.png?raw=true)
+
+Intervalo: 00:00 - 07:25
 
 La entrevista con Maverick Mendoza, un estudiante universitario urbano, se enfocó en evaluar la Landing Page y la aplicación web de alquiler de bicicletas y scooters eléctricos. Mauri encontró la Landing Page muy intuitiva, dinámica y fácil de usar, destacando su diseño responsivo, lo cual es crucial ya que usa su iPhone constantemente. También entendió rápidamente la propuesta de valor, incluyendo los servicios, membresías y atención al cliente. Al navegar por la aplicación web, encontró la información fácilmente y tuvo una experiencia sencilla y rápida al registrarse y hacer una reserva. Apreció la conveniencia de las sugerencias de vehículos cercanos y consideró importante el registro de historial de viajes. Como puntos de mejora, sugirió la incorporación de más opciones de pago y la inclusión de motos eléctricas para ampliar la oferta.
 
@@ -2186,7 +2192,69 @@ Entrevistado: Jeyson Tongo
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/milagros-interview3.png?raw=true)
 
+Intervalo: 07:30 - 11:25
+
 La entrevista se centró en validar la propuesta de la Landing Page y la aplicación web de alquiler de bicicletas eléctricas. El entrevistado encontró la interfaz amigable y la información concisa y fácilmente accesible. Destacó la intuitividad y rapidez de la reserva, la utilidad de la localización en tiempo real de los vehículos y la diversidad de opciones disponibles. Considera el servicio eficiente, especialmente en horas pico, y sugirió mejoras como una pestaña para reseñas y recomendaciones, y un ícono más representativo para los métodos de pago.
+
+**Entrevista 3**
+
+Entrevistador: Christopher Lecca
+
+Entrevistado: Fernando Salgado
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/christopher-interview3.png?raw=true)
+
+Intervalo: 11:25 - 18:11
+
+La entrevista con Fernando Salgado tuvo como objetivo evaluar la experiencia del usuario en la plataforma, incluyendo la Landing Page y la aplicación web. Fernando tuvo una impresión positiva de la Landing Page, destacando su diseño limpio, facilidad de navegación y organización de la información. Sin embargo, sugirió una sección más destacada sobre las preferencias y notificaciones. Al probar la aplicación web, encontró el proceso de registro y reserva intuitivo y rápido, dándole una calificación de 8/10. Apreció la disponibilidad de vehículos y la eficiencia del servicio comparado con su transporte habitual, destacando su conveniencia y impacto ecológico. Sugirió la implementación de un botón de preferencias para gestionar notificaciones y configuraciones, lo que mejoraría la experiencia del usuario.
+
+**Entrevista 4**
+
+Entrevistador: Mariano Ames
+
+Entrevistado: Luis García
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/mariano-interview3.png?raw=true)
+
+Intervalo 18:13 - 22:18
+
+En la entrevista con Luis García Díaz sobre la primera versión de la Landing Page y la aplicación web, Luis comentó que su primera impresión de la Landing Page fue positiva, encontrándola interactiva y fácil de navegar, con una propuesta de valor clara. Al explorar la aplicación web, destacó que la navegación fue rápida y sencilla, facilitando la reserva de vehículos y la visualización de ubicaciones cercanas. No encontró problemas al registrarse y usar la aplicación, describiendo el proceso de alquiler de vehículos como muy fácil. Luis valoró la funcionalidad de sugerencias de vehículos según la ubicación y la importancia del historial de viajes para el seguimiento de gastos y la elección de planes. Lo que más le gustó fue la facilidad de acceso a las diferentes secciones del perfil y las reservas. Como área de mejora, sugirió simplificar el acceso al soporte al cliente desde el perfil. En resumen, su experiencia fue mayoritariamente positiva con algunas recomendaciones para mejorar.
+
+**Entrevista 5**
+
+Entrevistador: Jair Coraje
+
+Entrevistado: Matias Munives
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/jair-interview3.png?raw=true)
+
+Intervalo 22:20 - 28:36
+
+Matías Munives elogió el diseño atractivo y la claridad de la Landing Page. Encontró la navegación en la aplicación web intuitiva y eficiente, facilitando la búsqueda de información y la realización de reservas. No tuvo problemas al registrarse y destacó la facilidad para alquilar vehículos. Valoró las sugerencias de vehículos según la ubicación y el historial de viajes. Sugirió mejorar la visibilidad de la opción de contacto con soporte al cliente. En general, su experiencia fue muy satisfactoria.
+
+**Entrevista 6**
+
+Entrevistador: Jair Coraje
+
+Entrevistado: Jorge Rodríguez
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/jair-interview4.png?raw=true)
+
+Intervalo 28:38 - 36:16
+
+Jorge Rodríguez quedó impresionado con la Landing Page por su diseño limpio y la claridad de la propuesta de valor. Navegar por la aplicación web fue fácil y eficiente para él. No tuvo problemas al registrarse y encontró el proceso de alquiler de vehículos sencillo. Apreció las sugerencias de vehículos basadas en la ubicación y el historial de viajes. Sugirió mejorar la sección de ayuda. Su experiencia general fue muy positiva.
+
+**Entrevista 7**
+
+Entrevistador: Fabio Horna
+
+Entrevistado: Lilian Luara
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/fabio-interview2.png?raw=true)
+
+Intervalo 36:20 - 30:03 - 40:18
+
+Lilian Luara tuvo una excelente impresión de la Landing Page por su diseño y fácil navegación. En la aplicación web, encontró información rápidamente y sin dificultad. No tuvo problemas al registrarse y utilizar la aplicación. Valoró la facilidad para alquilar vehículos y la función de historial de viajes. Sugeriría una mejor accesibilidad a la sección de ayuda. En resumen, su experiencia fue muy positiva.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
