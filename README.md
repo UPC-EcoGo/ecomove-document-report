@@ -2499,10 +2499,13 @@ Timing: 2:57
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/EUY5IGuskb9HmSf4HyTDHqsBc5QGhhaVAdcaetmXL4VDQQ?e=g60R1r&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-## Anexo A: Video de exposición TP1:
+## Anexo B: Video de exposición TP1:
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/EW8SzYutsJxJgcOoPE0FV1IBcpimKstvpZP88uFCndlNng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PJgXfF
 
+## Anexo C: Video de exposición TB2:
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EW-tjL2oOppJkGew2U0A7O4BuiKFc1wpk-WLNIyQVoeUFA?e=SPGheI
 
 # Bibliografía
 
