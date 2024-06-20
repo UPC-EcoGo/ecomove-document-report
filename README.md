@@ -1762,10 +1762,9 @@ Para el desarrollo de este proyecto utilizaremos GitFlow como Workflow que contr
 **Ramas principales:**
 -	Rama Main: Esta rama es la principal en Git, ya que contendrá el código fuente del proyecto que estará listo para ser utilizado. 
 -	Rama Develop: Esta rama será la encargada de almacenar el código fuente de los cambios más recientes antes de ser actualizado por una nueva versión del proyecto. 
-
+-	Rama Feature: Esta rama se origina a partir de la rama "Develop" y se destinará al desarrollo de nuevas funciones o características. Una de las ventajas inherentes a su empleo radica en la posibilidad de someter a pruebas las nuevas funcionalidades antes de su incorporación a la rama principal "Develop". Una vez que la rama "Feature" haya sido implementada, se procederá a su eliminación.
 
 **Ramas de apoyo:**
--	Rama Feature: Esta rama se origina a partir de la rama "Develop" y se destinará al desarrollo de nuevas funciones o características. Una de las ventajas inherentes a su empleo radica en la posibilidad de someter a pruebas las nuevas funcionalidades antes de su incorporación a la rama principal "Develop". Una vez que la rama "Feature" haya sido implementada, se procederá a su eliminación.
 
 -	Rama Release: Esta rama surge de la rama “Develop” y se utiliza para la preparación de una nueva versión del proyecto. En esta rama se realizarán tareas como la detección y solución de errores, sin embargo, no se podrá realizar la implementación de nuevas funcionalidades. Después de haber culminado, se deberá fusionar con la rama "Main" y “Develop”. 
 
@@ -2229,8 +2228,6 @@ Enlace de trello: https://trello.com/invite/b/5IyyBMOq/ATTIabd0963bed238c10f1c16
 |ecomove-acceptance-tests|main|79fdbdb|feat: create twenty-second feature|-|09/06/2024|
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
-
-https://open-ecomove.netlify.app/
 
 https://open-ecomove.netlify.app/
 
