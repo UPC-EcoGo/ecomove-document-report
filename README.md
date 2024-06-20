@@ -2162,8 +2162,8 @@ A continuacion se muestra la planeación para nuestro tercer sprint
 |Sprint 2 Retrospective Summary|En resumen, del sprint anterior se vieron puntos de mejora en el equipo, como aumentar la comunicación y la organización para poder completar las tareas designadas.|
 |**Sprint Goal & User Stories**||
 |Sprint 3 Goal|<p>Goal: Para este sprint tenemos como objetivo implementar parcialmente del backend, así como realizar las entrevistas de validación con la finalidad de validar nuestra propuesta de Web App y Landing Page.|
-|Sprint 3 Velocity|49|
-|Sum of Story Points|49|
+|Sprint 3 Velocity|43|
+|Sum of Story Points|43|
 
 #### 5.2.3.2. Sprint Backlog 3. 
 
@@ -2173,7 +2173,7 @@ Se muestran las tareas que se tuvieron en cuenta para desarrollar en el presente
 | :-       | :-       | :-         | :-       | :-        | :-         | :-        | :-        |
 | User Story | Work-Item / Task |           |          |           |            |           |           |
 | Id       | Title    | Id         | Title    | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process/ To- Review/ Done) |
-| US01     | Inico de sesión | W22 | User Management Bounded Context |Implementar el inicio de sesión a traves del API | 7 | Christopher Lecca | Done |
+| US01     | Inicio de sesión | W22 | User Management Bounded Context |Implementar el inicio de sesión a traves del API | 7 | Christopher Lecca | Done |
 | US05     | Reserva de trasporte | W23 | Booking Reservation Bounded Context |Implementar la reserva de un vehículo a traves del API | 7 | Mariano Ames | Done |
 | US29     | Historial de transacciones | W24 | Payment Bounded Context | Implementar la funcion que devuelva el historial de transacciones traves del API | 5 | Angello Sosa | Done |
 | US04     | Visualización de disponibilidad de los vehículos | W25 | Vehicle Management Bounded Context | Implementar que a traves del API se muestre la disponibilidad | 6 | Christopher Lecca | Done |
