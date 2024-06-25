@@ -277,7 +277,7 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
       </br>
       <br>
       Mariano Ames: Desarrolle las diferentes vistas que se planearon en el anterior avance del proyecto. Para esto fue necesaria una comunidad clara con el equipo, lo que nos ayudo a mejorar la competencia de comunicación oral
-      <br><br>TB3: <br>
+      <br><br>TB2: <br>
   <br>Christopher Lecca: Me esforcé por comunicar mis ideas y resultados de manera clara y precisa, utilizando un lenguaje que fuera accesible y comprensible para una amplia variedad de audiencias. Esto incluyó tanto a ingenieros con conocimientos técnicos especializados como a directivos y gerentes de diversas áreas que pueden no tener el mismo nivel de familiaridad con los detalles técnicos. Asegurándome de adaptar mi comunicación a diferentes niveles de comprensión, logré que todos los involucrados pudieran entender el progreso y los logros del proyecto.
         <br>
       <br>Mariano Ames: En la tercera entrega pude comunicar con mi equipo las diferentes necesidades que ibamos a cubrir en el tercer avance de nuestro proyecto, me encargue de la implementación de diferentes puntos necesarios para la aplicación y pude comunicar a mi equipo de manera acertada el como termine mis avances, este proceso me permitio mejorar mi comunicación sobre el tema.
@@ -286,10 +286,21 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
         <br>
   <br>Milagros Tongo: En esta tercera entrega presenté de manera objetiva las mejoras continuas del reporte, los avances en el frontend y el desarrollo del contexto de soporte al cliente (customer support) utilizando la arquitectura de Domain-Driven Design (DDD). Adapté mi comunicación oral a audiencias de diversas especialidades y niveles jerárquicos, asegurando la comprensión y recepción positiva de mis presentaciones.
         <br>
+  <br>TB2: <br>
+  <br>Christopher Lecca: En mi experiencia liderando reuniones de equipo, he aprendido a proporcionar liderazgo en conjunto con mis compañeros. Facilitar una sesión de brainstorming para la planificación del sprint backlog fue una tarea que asumí con entusiasmo, logrando que cada miembro del equipo aportara sus ideas y perspectivas. Esta colaboración nos permitió estructurar de manera eficiente las tareas a realizar y definir claramente nuestros objetivos. Durante las reuniones, promoví un ambiente donde todos se sintieran cómodos para compartir sus opiniones y sugerencias, lo que resultó en un plan de acción robusto y bien aceptado por todos.
+        <br>
+      <br>Mariano Ames: Como parte del equipo, coordiné la integración de las conclusiones del proyecto en nuestra documentación final. Supervisar la conexión del front end con el backend fue un desafío que abordé liderando la comunicación entre los desarrolladores de ambas áreas. Me aseguré de que todas las interfaces y funcionalidades trabajaran sin problemas, organizando reuniones de seguimiento y solucionando problemas de manera proactiva. Este enfoque colaborativo y mi capacidad para proporcionar liderazgo en conjunto con mis compañeros fueron esenciales para alcanzar nuestros objetivos técnicos y de proyecto.
+        <br>
+  <br>Angello Sosa: En mi rol, participé activamente en la revisión de las metas del equipo y la planificación de tareas. Lideré discusiones en las que todos los miembros podían expresar sus ideas y preocupaciones, lo que nos permitió ajustar nuestras estrategias según las necesidades del proyecto. Durante la fase de mejora continua, facilitaba la colaboración entre los miembros del equipo, asegurando que cada uno pudiera contribuir de manera significativa. Este liderazgo compartido fortaleció nuestra cohesión como equipo y mejoró la calidad de nuestro trabajo.
+        <br>
+  <br>Milagros Tongo: Promover un entorno inclusivo y colaborativo fue una de mis prioridades. Lideré la revisión y actualización del sprint backlog basándonos en las conclusiones obtenidas, asegurando que todas las voces fueran escuchadas y consideradas. Fomenté un ambiente donde cada miembro del equipo se sintiera valorado y capaz de contribuir. Esta dinámica inclusiva no solo mejoró nuestras relaciones de trabajo, sino que también resultó en una planificación más efectiva y en soluciones innovadoras para los desafíos que enfrentamos.
+        <br>
       </td>
       <td>
       Tras un exhaustivo análisis de las necesidades de movilidad urbana, EcoMove se erige como una solución innovadora y oportuna para abordar los desafíos ambientales y de tráfico en entornos urbanos. Al ofrecer una plataforma integral que promueve el uso compartido de vehículos eléctricos, EcoMove no solo ofrece una alternativa sostenible al transporte convencional, sino que también fomenta un estilo de vida urbano más eficiente y respetuoso con el medio ambiente. <br>
-        a
+TP1:El enfoque de EcoMove en el desarrollo frontend con Angular, Angular Material y un API simulado demuestra un compromiso con la comunicación efectiva en el marco del proyecto de ingeniería. A través de la utilización de tecnologías bien establecidas como Angular y Angular Material, se facilita la presentación clara y coherente de ideas y resultados. Estas herramientas permiten una interfaz de usuario intuitiva y atractiva, lo que contribuye a una comunicación efectiva con diferentes audiencias, independientemente de su experiencia técnica.
+Además, la implementación de un API ficticio hasta que esté disponible el backend real muestra una visión proactiva hacia la comunicación transparente. A pesar de la falta de datos reales, este enfoque proporciona a los diferentes stakeholders una comprensión clara de cómo se integrarán y funcionarán los componentes del sistema final. Esto fomenta la participación y retroalimentación temprana, lo que a su vez mejora la comprensión mutua y la alineación de objetivos entre nuestro equipo de desarrollo.<br>
+      TF: En mi experiencia liderando equipos, he aprendido que el liderazgo compartido es fundamental para el éxito de cualquier proyecto. A través de diversas actividades, como la planificación del sprint backlog, la coordinación de la integración del frontend y backend, y la facilitación de revisiones y discusiones, he fomentado un ambiente donde cada miembro del equipo puede aportar sus ideas y habilidades. Promover la inclusión y la colaboración ha permitido que todas las voces sean escuchadas y que las decisiones se tomen de manera conjunta, lo que ha resultado en soluciones más robustas y una mayor cohesión del equipo. El liderazgo compartido no solo mejora la calidad del trabajo, sino que también fortalece las relaciones dentro del equipo, creando un entorno de trabajo más armonioso y productivo. <br>
       </td>
     </tr>
     <tr>
@@ -312,7 +323,7 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
         <br>
         Milagros Tongo: Me encargué de crear y diseñar varias páginas web específicas para diferentes aspectos del proyecto. Esto incluyó la creación de páginas de confirmación, páginas de información soporte y otras páginas relevantes según las necesidades del proyecto. Cada página fue diseñada con un enfoque en la usabilidad, la accesibilidad y la estética para asegurar una experiencia de usuario óptima.
         <br>
-        <br><br>TB3: <br>
+        <br><br>TB2: <br>
         <br>Christopher Lecca: En esta tercera entrega, me encargué de realizar la documentación respectiva para cada uno de los endpoints respectivos a mi bounded context designado a través de las tasks del backlog. Además, durante la reunión de planificación de este sprint, comuniqué de manera precisa las metas y expectativas del sprint, garantizando que todos en el equipo tuvieran una comprensión común.
         <br>
         <br>Mariano Ames: En esta tercera entrega ayude en la implementación de los web services de nuestro proyecto. Con ayuda de mi equipo pudimos realizar todos los endpoints necesarios en nuestra aplicación, logrando asi mejorar mi capacidad de trabajo colaborativo y mejorando asi mi capacidad de comunicación y planificación junto a mi equipo.
@@ -322,12 +333,22 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
         <br>Milagros Tongo: En esta tercera entrega documenté y comuniqué por escrito las mejoras en el reporte, el desarrollo del frontend y el backend en el contexto de customer support utilizando la arquitectura de Domain-Driven Design (DDD) con claridad y objetividad. Mis reportes y documentación técnica fueron adaptados para ser comprensibles para audiencias con diferentes niveles de conocimiento técnico, garantizando que todos los involucrados pudieran seguir y entender los avances del proyecto.
         <br>
         <br>
+        <br><br>TF: <br>
+        <br>Christopher Lecca: Establecer metas claras para la conexión del front end con el backend fue una tarea que asumí con determinación. Me aseguré de que todos los miembros del equipo entendieran sus responsabilidades y cómo sus tareas se integraban en el proyecto general. Organizar reuniones periódicas para revisar el progreso de las tareas y ajustar el plan según fuera necesario fue esencial para mantenernos en el buen camino. Este proceso me enseñó la importancia de la planificación y la adaptabilidad en la gestión de proyectos.
+        <br>
+        <br>Mariano Ames: Promover la participación activa de todos los miembros del equipo en la planificación del sprint backlog fue una de mis mayores prioridades. Aseguré que el entorno de trabajo fuera inclusivo y que todos los miembros del equipo se sintieran valorados y respetados. Este enfoque colaborativo nos permitió identificar y resolver problemas rápidamente, mejorando la eficiencia y efectividad de nuestro trabajo. La inclusión de diversas perspectivas enriqueció nuestras discusiones y nos llevó a soluciones más creativas y efectivas.
+        <br>
+        <br>Angello Sosa: Liderar la creación de un plan detallado para la mejora continua de la aplicación fue un desafío que abordé con entusiasmo. Involucré a todos los miembros del equipo en este proceso, asegurándome de que sus ideas y preocupaciones fueran escuchadas y consideradas. Facilitar la comunicación abierta y el feedback constructivo durante el proceso de establecimiento de metas fue crucial para nuestro éxito. Este enfoque colaborativo nos permitió adaptarnos rápidamente a los cambios y mejorar continuamente nuestra aplicación.
+        <br>
+        <br>Milagros Tongo: Coordinar la planificación y ejecución de las tareas necesarias para cumplir los objetivos del proyecto fue una responsabilidad que asumí con compromiso. Creé un entorno colaborativo donde todos los miembros del equipo podían contribuir a la conexión del front end con el backend, asegurando que se cumplieran nuestros objetivos técnicos. Este enfoque inclusivo y colaborativo no solo mejoró nuestra productividad, sino que también fortaleció nuestro equipo y nos permitió alcanzar nuestras metas de manera efectiva.
+        <br>
         <br>
       </td>
       <td> 
         TB1: La realización de un diseño en Figma fortalece la comunicación efectiva en el desarrollo de EcoMove al proporcionar una representación visual clara y tangible del producto. Figma facilita la colaboración en tiempo real entre equipos multidisciplinarios, permitiendo que nuestros stakeholders comprendan fácilmente la estructura y funcionalidades del proyecto. Esto promueve una comprensión compartida y una alineación de objetivos, mejorando así la eficacia de la comunicación en el proceso. <br>
         TP1:El enfoque de EcoMove en el desarrollo frontend con Angular, Angular Material y un API simulado demuestra un compromiso con la comunicación efectiva en el marco del proyecto de ingeniería. A través de la utilización de tecnologías bien establecidas como Angular y Angular Material, se facilita la presentación clara y coherente de ideas y resultados. Estas herramientas permiten una interfaz de usuario intuitiva y atractiva, lo que contribuye a una comunicación efectiva con diferentes audiencias, independientemente de su experiencia técnica.<br>
-Además, la implementación de un API ficticio hasta que esté disponible el backend real muestra una visión proactiva hacia la comunicación transparente. A pesar de la falta de datos reales, este enfoque proporciona a los diferentes stakeholders una comprensión clara de cómo se integrarán y funcionarán los componentes del sistema final. Esto fomenta la participación y retroalimentación temprana, lo que a su vez mejora la comprensión mutua y la alineación de objetivos entre nuestro equipo de desarrollo.
+Además, la implementación de un API ficticio hasta que esté disponible el backend real muestra una visión proactiva hacia la comunicación transparente. A pesar de la falta de datos reales, este enfoque proporciona a los diferentes stakeholders una comprensión clara de cómo se integrarán y funcionarán los componentes del sistema final. Esto fomenta la participación y retroalimentación temprana, lo que a su vez mejora la comprensión mutua y la alineación de objetivos entre nuestro equipo de desarrollo. <br>
+        TF: La creación de un entorno colaborativo e inclusivo es esencial para el éxito en la gestión de proyectos. A través de la facilitación de talleres sobre inclusión, la coordinación de metas claras y alcanzables, y la promoción de la participación activa de todos los miembros del equipo, he aprendido a establecer un entorno donde todos se sientan valorados y motivados. La planificación detallada y la adaptabilidad son claves para cumplir con los objetivos del proyecto, y el feedback constructivo y la comunicación abierta son esenciales para la mejora continua. Este enfoque inclusivo no solo mejora la productividad y la eficiencia, sino que también fortalece al equipo, permitiéndonos alcanzar nuestras metas de manera efectiva y colaborativa.
       </td>
     </tr>
   </tbody>
@@ -2257,6 +2278,102 @@ En la siguiente imágen se muentra el registro de los commits de cada integrante
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/team_collabotation.png?raw=true)
 
+### 5.2.4. Sprint 4   
+#### 5.2.4.1. Sprint Planning 4. 
+A continuacion se muestra la planeación para nuestro tercer sprint
+
+|**Sprint #**|Sprint 4|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-20-06|
+|Time|07:00 PM|
+|Location|Canal de Voz de la plataforma Discord|
+|Prepared By|Angello Sosa Colca|
+|Attendees (to planning meeting)|Ames Oviedo, Mariano José/ Coraje Bayona, Jair Andreé/ Lecca Choccare, Christopher Bryan/ Sosa Colca, Angello Rodolfo/ Tongo Alejandro, Milagros Salet|
+|Sprint 3 Review Summary|En resumen, en el sprint 3, pudimos implementar de forma parcial el backend y realizar las pruebas respectivas utilizando Swagger. Además se llegó a cumplir con todas las tasks para el entregable.|
+|Sprint 3 Retrospective Summary|Logramos cumplir con todo el sprint 3 de manera satisfactoria. No obstante, notamos como punto de mojora realizar la documentación del código.|
+|**Sprint Goal & User Stories**||
+|Sprint 4 Goal|<p>Goal: Para este sprint, nuestro objetivo es completar la implementación tanto del backend como del frontend de la aplicación. Esto incluye cumplir con todos los requisitos especificados y asegurarnos de que cada funcionalidad se desarrolle de acuerdo con las historias de usuario definidas.|
+|Sprint 4 Velocity|43|
+|Sum of Story Points|43|
+
+#### 5.2.4.2. Sprint Backlog 3. 
+
+Se muestran las tareas que se tuvieron en cuenta para desarrollar en el presente sprint y se adjunta un link de trello con el tablero de las mismas.
+
+| Sprint # | Sprint 3 |           |           |           |           |           |           |
+| :-       | :-       | :-         | :-       | :-        | :-         | :-        | :-        |
+| User Story | Work-Item / Task |           |          |           |            |           |           |
+| Id       | Title    | Id         | Title    | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process/ To- Review/ Done) |
+| US01     | Inicio de sesión | W22 | User Management Bounded Context |Implementar el inicio de sesión a traves del API | 7 | Christopher Lecca | Done |
+| US05     | Reserva de trasporte | W23 | Booking Reservation Bounded Context |Implementar la reserva de un vehículo a traves del API | 7 | Mariano Ames | Done |
+| US29     | Historial de transacciones | W24 | Payment Bounded Context | Implementar la funcion que devuelva el historial de transacciones traves del API | 5 | Angello Sosa | Done |
+| US04     | Visualización de disponibilidad de los vehículos | W25 | Vehicle Management Bounded Context | Implementar que a traves del API se muestre la disponibilidad | 6 | Christopher Lecca | Done |
+| US09     | Historial de revervas | W26 | Booking Reservation Bounded Context |Registrar cada reserva y mostrarla según el id el usuario | 7 | Mariano Ames | Done |
+| US17     | Soporte al cliente | W27 | Customer Support Bounded Context | Implementar la funcion de guardar los problemas reportaos a traves del API  | 5 | Milagros Tongo | Done |
+| US24     | Integración con servicio de geolocalización | W28 | Vehicle Management Bounded Context | La API debe devolver las coordenads del vehículo para que se de el servicio de geolocalización | 6 | Christopher Lecca | Done |
+
+Enlace de trello: https://trello.com/invite/b/3cITzLzF/ATTI112a9e56db640d83ca472784c3301b0297796244/spritn-4-ecomove-backend
+
+![](https://raw.githubusercontent.com/UPC-EcoGo/ecomove-document-report/b8618b51d722c74be5ff8afa38d76044db502187/images/trello-sprint-4.png)
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review. 
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|ecomove-web-service|develop|162fde3|fmerge pull requiest #9|-|25/06/2024|
+|ecomove-web-service|develop|c03a2fc|fmerge pull requiest #8|-|25/06/2024|
+|ecomove-web-service|develop|2502c58|fmerge pull requiest #7|-|25/06/2024|
+|ecomove-web-service|develop|162fde3|fmerge pull requiest #9|-|25/06/2024|
+|ecomove-web-service|hotfix|855610de|hotfix: resolve routing problems|-|25/06/2024|
+|ecomove-web-service|hotfix|162fde3d|fix: remove old external user service in customer support and replace with new one in shared domain|-|25/06/2024|
+|ecomove-web-service|hotfix|49b8c63|fix: remove old external user service in customer support and replace with new one in shared domain|-|25/06/2024|
+|ecomove-web-service|hotfix|9624fc1|add externaluserservice to shared domain|-|25/06/2024|
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|ecomove-acceptance-tests|main|1cb086a|feat: create eighteenth feature|-|09/06/2024|
+|ecomove-acceptance-tests|main|8495f75|feat: create nineteenth featue|-|09/06/2024|
+|ecomove-acceptance-tests|main|0f19d11|feat: create twentieth feature|-|
+|ecomove-acceptance-tests|main|efc6af8|feat: create twenty-first feature|-|09/06/2024|
+|ecomove-acceptance-tests|main|79fdbdb|feat: create twenty-second feature|-|09/06/2024|
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+Para este sprint validamos que las peticiones del frontend concuerden con las del backend, se puede acceder desde el sigueinte enlace:
+https://open-ecomove.netlify.app/
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review. 
+
+En el presente sprint se logro completar los endpoints de manera exitosa y desplegamos el servdor documentado, se puede encontrar en el siguiente enlace: https://ecomove-web.onrender.com/swagger-ui/index.html#
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/evidence-3.png?raw=true)
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/evidence-4.png?raw=true)
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+
+Para el sprint actual, se ha desarrollado el API de la aplicación web utilizando diversas herramientas. No obstante, el despliegue del API no está incluido en el alcance de este sprint.
+
+Se emplearon las siguientes herramientas:
+
+* Git: Utilizamos este sistema de control de versiones para trabajar de manera colaborativa y llevar un seguimiento de las diferentes versiones de la aplicación web en un repositorio remoto.
+* Gitflow: Implementamos este flujo de trabajo colaborativo para dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilitó la colaboración en el desarrollo.
+* GitHub: Utilizamos esta plataforma para crear nuestro repositorio, permitiéndonos almacenar y gestionar las distintas versiones de nuestro proyecto.
+* Swagger UI: Esta herramienta nos sirvió para probar y documentar nuestra API de manera efectiva.
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint. 
+
+En la siguiente imágen se muentra el registro de los commits de cada integrante: 
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/network-4.png?raw=true)
+
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1 Diseño de Entrevistas
@@ -2486,9 +2603,9 @@ Enlace en Microsoft Stream:
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/ESuhj_Oq0udDhCuU0hYWDVQBqyR6OWKHhbiT6vCvtSE2gg?e=TRR4rv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Enlace en YouTuve: https://youtu.be/meYDSwqoMgw
+Enlace en YouTuve: https://youtu.be/HBnkLbq1NRo
 
-Timing: 2:57
+Timing: 1:15
 
 # Anexos:
 
@@ -2501,6 +2618,10 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/EUY5IGus
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/EW8SzYutsJxJgcOoPE0FV1IBcpimKstvpZP88uFCndlNng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PJgXfF
 
 ## Anexo C: Video de exposición TB2:
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EW-tjL2oOppJkGew2U0A7O4BuiKFc1wpk-WLNIyQVoeUFA?e=SPGheI
+
+## Anexo D: Video de exposición TF:
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EW-tjL2oOppJkGew2U0A7O4BuiKFc1wpk-WLNIyQVoeUFA?e=SPGheI
 
